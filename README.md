@@ -23,6 +23,10 @@ Wrap a word in `*asterisks*` to colour it with the brand accent. `media` scenes 
 
 External starters (official Remotion templates, HyperFrames examples) are listed with links.
 
+## Privacy
+
+This registry is public. Entries never contain API keys, tokens, passwords or personal emails: integrations name the environment variables they need (for example `FAL_KEY`), and the Studio stores the values in its own git-ignored `.env`. A pre-commit hook ([`scripts/check-secrets.mjs`](scripts/check-secrets.mjs)) blocks commits that would add such data; enable it after cloning with `git config core.hooksPath .githooks`.
+
 ## Add a template
 
 1. Create `templates/<format>/<id>.json` (copy an existing one; see [`schema.json`](schema.json)).
