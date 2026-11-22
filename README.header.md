@@ -1,6 +1,6 @@
 # studio-templates
 
-The template registry for [Brand Content Studio](https://github.com/khaledmsalama1-cell/brand-content-studio): {{COUNT}} templates — {{STUDIO}} ready-to-use studio templates and {{EXTERNAL}} external starters — plus 100 brand starters.
+The template registry for [Studio](https://github.com/khaledmsalama1-cell/studio): {{COUNT}} templates — {{STUDIO}} ready-to-use studio templates and {{EXTERNAL}} external starters — plus 100 brand starters.
 
 The Studio scans this repo (**Apps → Sources → Refresh**) and shows the templates in **Create → Templates**, each drawn live in your brand's colours, fonts and logo. Picking one creates a project with the template's scenes, filled in from the brand.
 

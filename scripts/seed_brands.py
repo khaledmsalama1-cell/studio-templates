@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Seed 100 fictional brand starters (any resemblance to a real business is unintended) into brands/<id>.json for the Brand Content Studio.
+"""Seed 100 fictional brand starters (any resemblance to a real business is unintended) into brands/<id>.json for the Studio.
 
 Every brand is invented. Palettes are built from a hue per brand and nudged until text is readable:
 ink on background and secondary on primary reach 4.5:1, accent on background reaches 3:1.
