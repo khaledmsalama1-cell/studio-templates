@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "the-reading-nook",
+  "name": "The Reading Nook",
+  "industry": "books",
+  "industryLabel": "Bookshops",
+  "tagline": "Kids' books and story time.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#EBE3CB\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#1F99D6\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#342C14\">TR</text></svg>",
+  "brand": {
+    "name": "The Reading Nook",
+    "slug": "the-reading-nook",
+    "tagline": "Kids' books and story time.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every curious reader a great next book.",
+      "positioning": "For the curious reader who wants a great next book, The Reading Nook is the bookshop that makes it easy, unlike the usual options.",
+      "values": [
+        "thoughtful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "thoughtful",
+        "witty",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Curious reader",
+        "description": "People who a great next book.",
+        "pains": [
+          "Not knowing what to read next",
+          "Algorithm picks"
+        ],
+        "desires": [
+          "A great next book",
+          "Recommendations from people"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "thoughtful",
+        "witty",
+        "warm"
+      ],
+      "do": [
+        "Quote lines from books",
+        "Recommend with reasons"
+      ],
+      "dont": [
+        "Spoilers",
+        "Snobbery"
+      ],
+      "vocabulary": {
+        "use": [
+          "read",
+          "story",
+          "shelf"
+        ],
+        "avoid": [
+          "bookworm",
+          "must-read"
+        ]
+      },
+      "examples": [
+        "Kids' books and story time.",
+        "Story Time Pass: a great next book, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#EBE3CB",
+        "secondary": "#342C14",
+        "accent": "#1F99D6",
+        "background": "#FAF8F5",
+        "ink": "#221E11",
+        "muted": "#767060"
+      },
+      "fonts": {
+        "display": {
+          "family": "Libre Caslon Text",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Shelves, paper texture, reading corners",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Bookseller: thoughtful, dry humour"
+        }
+      },
+      "music": "Quiet cello or piano"
+    },
+    "products": [
+      {
+        "name": "Story Time Pass",
+        "description": "Our signature bookshop offer.",
+        "benefits": [
+          "A great next book",
+          "Recommendations from people"
+        ],
+        "proof": [],
+        "price": "$10"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Staff picks",
+        "description": "Books we love and why"
+      },
+      {
+        "name": "Events",
+        "description": "Readings and clubs"
+      },
+      {
+        "name": "Reading life",
+        "description": "Habits, shelves and quotes"
+      }
+    ],
+    "ctas": [
+      "Find your next read",
+      "Join the book club",
+      "Visit the shop"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@thereadingnook",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@thereadingnook",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@thereadingnook",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#thereadingnook"
+      ],
+      "rotating": [
+        "#read",
+        "#story"
+      ]
+    }
+  }
+}

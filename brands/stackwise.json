@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "stackwise",
+  "name": "Stackwise",
+  "industry": "fintech",
+  "industryLabel": "Money & fintech",
+  "tagline": "Budgeting for people who hate budgeting.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#311C9C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#17A15C\"/><text x=\"100\" y=\"129\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"84\" fill=\"#F6F5F9\">S</text></svg>",
+  "brand": {
+    "name": "Stackwise",
+    "slug": "stackwise",
+    "tagline": "Budgeting for people who hate budgeting.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every first-time saver feeling in control.",
+      "positioning": "For the first-time saver who wants feeling in control, Stackwise is the money app that makes it easy, unlike the usual options.",
+      "values": [
+        "plain-spoken",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "plain-spoken",
+        "reassuring",
+        "smart"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "First-time saver",
+        "description": "People who feeling in control.",
+        "pains": [
+          "Money stress",
+          "Confusing banking"
+        ],
+        "desires": [
+          "Feeling in control",
+          "Saving without thinking"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "plain-spoken",
+        "reassuring",
+        "smart"
+      ],
+      "do": [
+        "Use simple numbers",
+        "Explain jargon"
+      ],
+      "dont": [
+        "Get-rich promises",
+        "Fear tactics"
+      ],
+      "vocabulary": {
+        "use": [
+          "save",
+          "control",
+          "simple"
+        ],
+        "avoid": [
+          "guaranteed returns",
+          "to the moon"
+        ]
+      },
+      "examples": [
+        "Budgeting for people who hate budgeting.",
+        "Stack Plus: feeling in control, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#311C9C",
+        "secondary": "#F6F5F9",
+        "accent": "#17A15C",
+        "background": "#F6F5FA",
+        "ink": "#141122",
+        "muted": "#646076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Sora",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Phones in hand, everyday moments, clean graphics",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm, trustworthy, friendly"
+        }
+      },
+      "music": "Light electronic, optimistic"
+    },
+    "products": [
+      {
+        "name": "Stack Plus",
+        "description": "Our signature money app offer.",
+        "benefits": [
+          "Feeling in control",
+          "Saving without thinking"
+        ],
+        "proof": [],
+        "price": "$4 / month"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Money basics",
+        "description": "Plain-English money tips"
+      },
+      {
+        "name": "In the app",
+        "description": "Features that help"
+      },
+      {
+        "name": "Goals",
+        "description": "Customer saving stories"
+      }
+    ],
+    "ctas": [
+      "Open an account",
+      "Download the app",
+      "Start saving"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@stackwise",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@stackwise",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@stackwise",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#stackwise"
+      ],
+      "rotating": [
+        "#save",
+        "#control"
+      ]
+    }
+  }
+}

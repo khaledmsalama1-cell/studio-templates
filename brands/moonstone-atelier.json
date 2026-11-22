@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "moonstone-atelier",
+  "name": "Moonstone Atelier",
+  "industry": "jewelry",
+  "industryLabel": "Jewellery",
+  "tagline": "Stones with stories.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#D1CBEB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#191434\">MA</text></svg>",
+  "brand": {
+    "name": "Moonstone Atelier",
+    "slug": "moonstone-atelier",
+    "tagline": "Stones with stories.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every meaningful-gift buyer something personal.",
+      "positioning": "For the meaningful-gift buyer who wants something personal, Moonstone Atelier is the jeweller that makes it easy, unlike the usual options.",
+      "values": [
+        "refined",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Meaningful-gift buyer",
+        "description": "People who something personal.",
+        "pains": [
+          "Generic gifts",
+          "Jewellery that tarnishes"
+        ],
+        "desires": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "do": [
+        "Close-up detail shots",
+        "Tell gift stories"
+      ],
+      "dont": [
+        "Discount shouting",
+        "Over-sparkle"
+      ],
+      "vocabulary": {
+        "use": [
+          "handmade",
+          "everyday",
+          "gift"
+        ],
+        "avoid": [
+          "bling",
+          "luxury lifestyle"
+        ]
+      },
+      "examples": [
+        "Stones with stories.",
+        "Moonstone Ring: something personal, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#D1CBEB",
+        "secondary": "#191434",
+        "accent": "#B27F19",
+        "background": "#F6F5FA",
+        "ink": "#141122",
+        "muted": "#646076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Macro detail, skin tones, soft shadows",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Soft, intimate, assured"
+        }
+      },
+      "music": "Gentle piano"
+    },
+    "products": [
+      {
+        "name": "Moonstone Ring",
+        "description": "Our signature jeweller offer.",
+        "benefits": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "proof": [],
+        "price": "$180"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Pieces",
+        "description": "New and signature pieces"
+      },
+      {
+        "name": "Made by hand",
+        "description": "The bench and the craft"
+      },
+      {
+        "name": "Stories",
+        "description": "Gifts and the people behind them"
+      }
+    ],
+    "ctas": [
+      "Shop the collection",
+      "Book a custom piece",
+      "Find the perfect gift"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@moonstoneatelier",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@moonstoneatelier",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@moonstoneatelier",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#moonstoneatelier"
+      ],
+      "rotating": [
+        "#handmade",
+        "#everyday"
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "pothos-place",
+  "name": "Pothos Place",
+  "industry": "plants",
+  "industryLabel": "Plant shops",
+  "tagline": "Hard-to-kill plants for new plant parents.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#3F7915\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#9F20DF\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F7F9F5\">PP</text></svg>",
+  "brand": {
+    "name": "Pothos Place",
+    "slug": "pothos-place",
+    "tagline": "Hard-to-kill plants for new plant parents.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every new plant parent a greener home.",
+      "positioning": "For the new plant parent who wants a greener home, Pothos Place is the plant shop that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "New plant parent",
+        "description": "People who a greener home.",
+        "pains": [
+          "Plants that die",
+          "Not knowing what fits their light"
+        ],
+        "desires": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "do": [
+        "Give one care tip at a time",
+        "Celebrate small wins"
+      ],
+      "dont": [
+        "Shaming dead plants",
+        "Latin overload"
+      ],
+      "vocabulary": {
+        "use": [
+          "light",
+          "thrive",
+          "repot"
+        ],
+        "avoid": [
+          "impossible to kill",
+          "jungle vibes"
+        ]
+      },
+      "examples": [
+        "Hard-to-kill plants for new plant parents.",
+        "Golden Pothos: a greener home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3F7915",
+        "secondary": "#F7F9F5",
+        "accent": "#9F20DF",
+        "background": "#F7FAF5",
+        "ink": "#182211",
+        "muted": "#697660"
+      },
+      "fonts": {
+        "display": {
+          "family": "Gloock",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Figtree",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Window light, leaves, soil, ceramics",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Gentle, encouraging gardener"
+        }
+      },
+      "music": "Soft acoustic guitar"
+    },
+    "products": [
+      {
+        "name": "Golden Pothos",
+        "description": "Our signature plant shop offer.",
+        "benefits": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "proof": [],
+        "price": "$18"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Plant care",
+        "description": "Light, water and repotting"
+      },
+      {
+        "name": "Plant of the week",
+        "description": "One plant up close"
+      },
+      {
+        "name": "Green homes",
+        "description": "Customer spaces"
+      }
+    ],
+    "ctas": [
+      "Find your plant",
+      "Shop plants",
+      "Book a plant clinic"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@pothosplace",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@pothosplace",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@pothosplace",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#pothosplace"
+      ],
+      "rotating": [
+        "#light",
+        "#thrive"
+      ]
+    }
+  }
+}

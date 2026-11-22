@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "lumen-skin",
+  "name": "Lumen Skin",
+  "industry": "skincare",
+  "industryLabel": "Skincare & beauty",
+  "tagline": "Gentle actives for sensitive skin.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#EBDBCB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#342414\">LS</text></svg>",
+  "brand": {
+    "name": "Lumen Skin",
+    "slug": "lumen-skin",
+    "tagline": "Gentle actives for sensitive skin.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every thoughtful skincare buyer calm, healthy skin.",
+      "positioning": "For the thoughtful skincare buyer who wants calm, healthy skin, Lumen Skin is the skincare brand that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "clear",
+        "reassuring"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Thoughtful skincare buyer",
+        "description": "People who calm, healthy skin.",
+        "pains": [
+          "Products that irritate",
+          "Confusing routines"
+        ],
+        "desires": [
+          "Calm, healthy skin",
+          "A routine that's simple"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "clear",
+        "reassuring"
+      ],
+      "do": [
+        "Explain ingredients simply",
+        "Show real skin"
+      ],
+      "dont": [
+        "Medical claims",
+        "Before/after exaggeration"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "barrier",
+          "routine"
+        ],
+        "avoid": [
+          "flawless",
+          "miracle"
+        ]
+      },
+      "examples": [
+        "Gentle actives for sensitive skin.",
+        "Calm Vitamin C: calm, healthy skin, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#EBDBCB",
+        "secondary": "#342414",
+        "accent": "#1D93CD",
+        "background": "#FAF7F5",
+        "ink": "#221A11",
+        "muted": "#766B60"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Lato",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Soft daylight, textures, clean surfaces, real skin",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm, close, reassuring"
+        }
+      },
+      "music": "Soft ambient, slow"
+    },
+    "products": [
+      {
+        "name": "Calm Vitamin C",
+        "description": "Our signature skincare brand offer.",
+        "benefits": [
+          "Calm, healthy skin",
+          "A routine that's simple"
+        ],
+        "proof": [],
+        "price": "$38"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Routine",
+        "description": "How to use it, step by step"
+      },
+      {
+        "name": "Ingredients",
+        "description": "What's inside and why"
+      },
+      {
+        "name": "Real skin",
+        "description": "Customer results, unfiltered"
+      }
+    ],
+    "ctas": [
+      "Find your routine",
+      "Shop the set",
+      "Take the skin quiz"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@lumenskin",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@lumenskin",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@lumenskin",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#lumenskin"
+      ],
+      "rotating": [
+        "#gentle",
+        "#barrier"
+      ]
+    }
+  }
+}

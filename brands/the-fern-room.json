@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "the-fern-room",
+  "name": "The Fern Room",
+  "industry": "plants",
+  "industryLabel": "Plant shops",
+  "tagline": "A shop full of ferns, and help.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#CBEBDB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#143424\">TF</text></svg>",
+  "brand": {
+    "name": "The Fern Room",
+    "slug": "the-fern-room",
+    "tagline": "A shop full of ferns, and help.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every new plant parent a greener home.",
+      "positioning": "For the new plant parent who wants a greener home, The Fern Room is the plant shop that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "New plant parent",
+        "description": "People who a greener home.",
+        "pains": [
+          "Plants that die",
+          "Not knowing what fits their light"
+        ],
+        "desires": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "do": [
+        "Give one care tip at a time",
+        "Celebrate small wins"
+      ],
+      "dont": [
+        "Shaming dead plants",
+        "Latin overload"
+      ],
+      "vocabulary": {
+        "use": [
+          "light",
+          "thrive",
+          "repot"
+        ],
+        "avoid": [
+          "impossible to kill",
+          "jungle vibes"
+        ]
+      },
+      "examples": [
+        "A shop full of ferns, and help.",
+        "Boston Fern: a greener home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#CBEBDB",
+        "secondary": "#143424",
+        "accent": "#DF2040",
+        "background": "#F5FAF7",
+        "ink": "#11221A",
+        "muted": "#60766B"
+      },
+      "fonts": {
+        "display": {
+          "family": "Gloock",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Figtree",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Window light, leaves, soil, ceramics",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Gentle, encouraging gardener"
+        }
+      },
+      "music": "Soft acoustic guitar"
+    },
+    "products": [
+      {
+        "name": "Boston Fern",
+        "description": "Our signature plant shop offer.",
+        "benefits": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "proof": [],
+        "price": "$28"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Plant care",
+        "description": "Light, water and repotting"
+      },
+      {
+        "name": "Plant of the week",
+        "description": "One plant up close"
+      },
+      {
+        "name": "Green homes",
+        "description": "Customer spaces"
+      }
+    ],
+    "ctas": [
+      "Find your plant",
+      "Shop plants",
+      "Book a plant clinic"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@thefernroom",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@thefernroom",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@thefernroom",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#thefernroom"
+      ],
+      "rotating": [
+        "#light",
+        "#thrive"
+      ]
+    }
+  }
+}

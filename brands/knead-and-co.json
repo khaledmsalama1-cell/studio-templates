@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "knead-and-co",
+  "name": "Knead & Co.",
+  "industry": "bakery",
+  "industryLabel": "Bakeries",
+  "tagline": "Real bread for real sandwiches.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#3B2616\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EFEA\">KC</text></svg>",
+  "brand": {
+    "name": "Knead & Co.",
+    "slug": "knead-and-co",
+    "tagline": "Real bread for real sandwiches.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every weekend treat-seeker real bread and pastries.",
+      "positioning": "For the weekend treat-seeker who wants real bread and pastries, Knead & Co. is the bakery that makes it easy, unlike the usual options.",
+      "values": [
+        "cosy",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "cosy",
+        "generous",
+        "proud of the craft"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Weekend treat-seeker",
+        "description": "People who real bread and pastries.",
+        "pains": [
+          "Supermarket bread that tastes of nothing",
+          "No time to bake"
+        ],
+        "desires": [
+          "Real bread and pastries",
+          "Something to share"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "cosy",
+        "generous",
+        "proud of the craft"
+      ],
+      "do": [
+        "Talk about texture and smell",
+        "Name the baker"
+      ],
+      "dont": [
+        "Diet talk",
+        "Over-the-top claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "fresh",
+          "slow-proved",
+          "butter"
+        ],
+        "avoid": [
+          "guilt-free",
+          "artisan-crafted"
+        ]
+      },
+      "examples": [
+        "Real bread for real sandwiches.",
+        "Seeded Rye Loaf: real bread and pastries, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B2616",
+        "secondary": "#F5EFEA",
+        "accent": "#1D93CD",
+        "background": "#FAF7F5",
+        "ink": "#221811",
+        "muted": "#766960"
+      },
+      "fonts": {
+        "display": {
+          "family": "Young Serif",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Karla",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Flour, crusts, golden light, close-ups",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Warm, smiling, unhurried"
+        }
+      },
+      "music": "Light jazz piano"
+    },
+    "products": [
+      {
+        "name": "Seeded Rye Loaf",
+        "description": "Our signature bakery offer.",
+        "benefits": [
+          "Real bread and pastries",
+          "Something to share"
+        ],
+        "proof": [],
+        "price": "$7"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Fresh today",
+        "description": "What came out of the oven"
+      },
+      {
+        "name": "How it's made",
+        "description": "Dough, timing and craft"
+      },
+      {
+        "name": "Celebrations",
+        "description": "Cakes and orders for big days"
+      }
+    ],
+    "ctas": [
+      "Pre-order for the weekend",
+      "Visit us",
+      "Order a cake"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@kneadandco",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@kneadandco",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@kneadandco",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#kneadandco"
+      ],
+      "rotating": [
+        "#fresh",
+        "#slow-proved"
+      ]
+    }
+  }
+}

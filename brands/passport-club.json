@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "passport-club",
+  "name": "Passport Club",
+  "industry": "travel",
+  "industryLabel": "Travel & tours",
+  "tagline": "Weekend city breaks, planned for you.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1C319C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#AA8518\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F6F9\">PC</text></svg>",
+  "brand": {
+    "name": "Passport Club",
+    "slug": "passport-club",
+    "tagline": "Weekend city breaks, planned for you.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every experience collector unforgettable trips.",
+      "positioning": "For the experience collector who wants unforgettable trips, Passport Club is the travel company that makes it easy, unlike the usual options.",
+      "values": [
+        "adventurous",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "adventurous",
+        "warm",
+        "knowing"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Experience collector",
+        "description": "People who unforgettable trips.",
+        "pains": [
+          "Tourist traps",
+          "Planning stress"
+        ],
+        "desires": [
+          "Unforgettable trips",
+          "Someone who knows the place"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "adventurous",
+        "warm",
+        "knowing"
+      ],
+      "do": [
+        "Show real places",
+        "Give insider tips"
+      ],
+      "dont": [
+        "Wanderlust clichés",
+        "Exaggeration"
+      ],
+      "vocabulary": {
+        "use": [
+          "local",
+          "journey",
+          "explore"
+        ],
+        "avoid": [
+          "paradise",
+          "bucket list"
+        ]
+      },
+      "examples": [
+        "Weekend city breaks, planned for you.",
+        "City Break Bundle: unforgettable trips, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#1C319C",
+        "secondary": "#F5F6F9",
+        "accent": "#AA8518",
+        "background": "#F5F6FA",
+        "ink": "#111422",
+        "muted": "#606476"
+      },
+      "fonts": {
+        "display": {
+          "family": "Syne",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Manrope",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Wide landscapes, golden hour, people in place",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Local guide: warm, curious"
+        }
+      },
+      "music": "World-influenced acoustic"
+    },
+    "products": [
+      {
+        "name": "City Break Bundle",
+        "description": "Our signature travel company offer.",
+        "benefits": [
+          "Unforgettable trips",
+          "Someone who knows the place"
+        ],
+        "proof": [],
+        "price": "From $390"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Destinations",
+        "description": "Places worth the trip"
+      },
+      {
+        "name": "Travel tips",
+        "description": "Packing, timing and local tips"
+      },
+      {
+        "name": "Travellers",
+        "description": "Guest stories"
+      }
+    ],
+    "ctas": [
+      "Plan your trip",
+      "Book the tour",
+      "Get the itinerary"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@passportclub",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@passportclub",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@passportclub",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#passportclub"
+      ],
+      "rotating": [
+        "#local",
+        "#journey"
+      ]
+    }
+  }
+}

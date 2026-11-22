@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "loop-goods",
+  "name": "Loop Goods",
+  "industry": "eco",
+  "industryLabel": "Sustainable goods",
+  "tagline": "Reusable everything.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#163B35\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF5F3\">LG</text></svg>",
+  "brand": {
+    "name": "Loop Goods",
+    "slug": "loop-goods",
+    "tagline": "Reusable everything.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every low-waste shopper swaps that actually work.",
+      "positioning": "For the low-waste shopper who wants swaps that actually work, Loop Goods is the shop that makes it easy, unlike the usual options.",
+      "values": [
+        "honest",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "honest",
+        "optimistic",
+        "practical"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Low-waste shopper",
+        "description": "People who swaps that actually work.",
+        "pains": [
+          "Greenwashing",
+          "Plastic everywhere"
+        ],
+        "desires": [
+          "Swaps that actually work",
+          "Fewer, better things"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "honest",
+        "optimistic",
+        "practical"
+      ],
+      "do": [
+        "Back claims with numbers",
+        "Celebrate small changes"
+      ],
+      "dont": [
+        "Guilt",
+        "Vague eco claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "refill",
+          "swap",
+          "reuse"
+        ],
+        "avoid": [
+          "eco-friendly (unbacked)",
+          "planet-saving"
+        ]
+      },
+      "examples": [
+        "Reusable everything.",
+        "Reusable Bag Set: swaps that actually work, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#163B35",
+        "secondary": "#EAF5F3",
+        "accent": "#DF6020",
+        "background": "#F5FAF9",
+        "ink": "#11221F",
+        "muted": "#607672"
+      },
+      "fonts": {
+        "display": {
+          "family": "Fraunces",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Mulish",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Natural materials, refills, sunlight",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Honest, upbeat, practical"
+        }
+      },
+      "music": "Light folk"
+    },
+    "products": [
+      {
+        "name": "Reusable Bag Set",
+        "description": "Our signature shop offer.",
+        "benefits": [
+          "Swaps that actually work",
+          "Fewer, better things"
+        ],
+        "proof": [],
+        "price": "$24"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Swaps",
+        "description": "Easy low-waste swaps"
+      },
+      {
+        "name": "Made responsibly",
+        "description": "Materials and makers"
+      },
+      {
+        "name": "Impact",
+        "description": "What changes, in numbers"
+      }
+    ],
+    "ctas": [
+      "Shop the swaps",
+      "Start a refill",
+      "Learn more"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@loopgoods",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@loopgoods",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@loopgoods",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#loopgoods"
+      ],
+      "rotating": [
+        "#refill",
+        "#swap"
+      ]
+    }
+  }
+}

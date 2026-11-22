@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "coastline-living",
+  "name": "Coastline Living",
+  "industry": "realestate",
+  "industryLabel": "Real estate",
+  "tagline": "Homes by the water.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#CBE3EB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#142C34\">CL</text></svg>",
+  "brand": {
+    "name": "Coastline Living",
+    "slug": "coastline-living",
+    "tagline": "Homes by the water.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every first-time buyer the right home.",
+      "positioning": "For the first-time buyer who wants the right home, Coastline Living is the agency that makes it easy, unlike the usual options.",
+      "values": [
+        "trustworthy",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "trustworthy",
+        "calm",
+        "local"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "First-time buyer",
+        "description": "People who the right home.",
+        "pains": [
+          "A confusing process",
+          "Missing good listings"
+        ],
+        "desires": [
+          "The right home",
+          "A guide they trust"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "trustworthy",
+        "calm",
+        "local"
+      ],
+      "do": [
+        "Show light and space",
+        "Give real numbers"
+      ],
+      "dont": [
+        "Pressure tactics",
+        "Clichés"
+      ],
+      "vocabulary": {
+        "use": [
+          "home",
+          "neighbourhood",
+          "light"
+        ],
+        "avoid": [
+          "dream home",
+          "won't last"
+        ]
+      },
+      "examples": [
+        "Homes by the water.",
+        "Seaside Viewing Tour: the right home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#CBE3EB",
+        "secondary": "#142C34",
+        "accent": "#DF7020",
+        "background": "#F5F8FA",
+        "ink": "#111E22",
+        "muted": "#607076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Marcellus",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Manrope",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Wide interiors, daylight, streets",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm local expert"
+        }
+      },
+      "music": "Warm acoustic"
+    },
+    "products": [
+      {
+        "name": "Seaside Viewing Tour",
+        "description": "Our signature agency offer.",
+        "benefits": [
+          "The right home",
+          "A guide they trust"
+        ],
+        "proof": [],
+        "price": "Free"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Listings",
+        "description": "Homes worth seeing"
+      },
+      {
+        "name": "Buying guide",
+        "description": "Step-by-step advice"
+      },
+      {
+        "name": "Neighbourhoods",
+        "description": "Local life and spots"
+      }
+    ],
+    "ctas": [
+      "Book a viewing",
+      "Get a valuation",
+      "See listings"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@coastlineliving",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@coastlineliving",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@coastlineliving",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#coastlineliving"
+      ],
+      "rotating": [
+        "#home",
+        "#neighbourhood"
+      ]
+    }
+  }
+}

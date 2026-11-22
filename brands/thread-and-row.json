@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "thread-and-row",
+  "name": "Thread & Row",
+  "industry": "fashion",
+  "industryLabel": "Fashion boutiques",
+  "tagline": "Wardrobe staples that last ten years.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#3B2616\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#207FDF\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EFEA\">TR</text></svg>",
+  "brand": {
+    "name": "Thread & Row",
+    "slug": "thread-and-row",
+    "tagline": "Wardrobe staples that last ten years.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every style-conscious shopper pieces that last.",
+      "positioning": "For the style-conscious shopper who wants pieces that last, Thread & Row is the boutique that makes it easy, unlike the usual options.",
+      "values": [
+        "confident",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "confident",
+        "editorial",
+        "friendly"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Style-conscious shopper",
+        "description": "People who pieces that last.",
+        "pains": [
+          "Fast fashion that falls apart",
+          "Not knowing what suits them"
+        ],
+        "desires": [
+          "Pieces that last",
+          "Easy outfits"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "confident",
+        "editorial",
+        "friendly"
+      ],
+      "do": [
+        "Show outfits, not just items",
+        "Talk fabric and fit"
+      ],
+      "dont": [
+        "Trend-chasing language",
+        "Body talk"
+      ],
+      "vocabulary": {
+        "use": [
+          "fit",
+          "fabric",
+          "wear"
+        ],
+        "avoid": [
+          "must-have",
+          "obsessed"
+        ]
+      },
+      "examples": [
+        "Wardrobe staples that last ten years.",
+        "The Everyday Shirt: pieces that last, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B2616",
+        "secondary": "#F5EFEA",
+        "accent": "#207FDF",
+        "background": "#FAF7F5",
+        "ink": "#221811",
+        "muted": "#766960"
+      },
+      "fonts": {
+        "display": {
+          "family": "Playfair Display",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Inter",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Editorial portraits, texture details, city backdrops",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Editor: polished, warm"
+        }
+      },
+      "music": "Chic downtempo house"
+    },
+    "products": [
+      {
+        "name": "The Everyday Shirt",
+        "description": "Our signature boutique offer.",
+        "benefits": [
+          "Pieces that last",
+          "Easy outfits"
+        ],
+        "proof": [],
+        "price": "$85"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "New in",
+        "description": "Fresh arrivals"
+      },
+      {
+        "name": "How to wear it",
+        "description": "Styling ideas"
+      },
+      {
+        "name": "Made well",
+        "description": "Fabric and making"
+      }
+    ],
+    "ctas": [
+      "Shop new in",
+      "Book a styling session",
+      "Shop the look"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@threadandrow",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@threadandrow",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@threadandrow",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#threadandrow"
+      ],
+      "rotating": [
+        "#fit",
+        "#fabric"
+      ]
+    }
+  }
+}

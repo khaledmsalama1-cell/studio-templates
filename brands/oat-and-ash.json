@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "oat-and-ash",
+  "name": "Oat & Ash",
+  "industry": "skincare",
+  "industryLabel": "Skincare & beauty",
+  "tagline": "Three-step skincare. Nothing extra.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#3B2C16\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#17A173\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F1EA\">OA</text></svg>",
+  "brand": {
+    "name": "Oat & Ash",
+    "slug": "oat-and-ash",
+    "tagline": "Three-step skincare. Nothing extra.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every thoughtful skincare buyer calm, healthy skin.",
+      "positioning": "For the thoughtful skincare buyer who wants calm, healthy skin, Oat & Ash is the skincare brand that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "clear",
+        "reassuring"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Thoughtful skincare buyer",
+        "description": "People who calm, healthy skin.",
+        "pains": [
+          "Products that irritate",
+          "Confusing routines"
+        ],
+        "desires": [
+          "Calm, healthy skin",
+          "A routine that's simple"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "clear",
+        "reassuring"
+      ],
+      "do": [
+        "Explain ingredients simply",
+        "Show real skin"
+      ],
+      "dont": [
+        "Medical claims",
+        "Before/after exaggeration"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "barrier",
+          "routine"
+        ],
+        "avoid": [
+          "flawless",
+          "miracle"
+        ]
+      },
+      "examples": [
+        "Three-step skincare. Nothing extra.",
+        "The Daily Trio: calm, healthy skin, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B2C16",
+        "secondary": "#F5F1EA",
+        "accent": "#17A173",
+        "background": "#FAF8F5",
+        "ink": "#221B11",
+        "muted": "#766D60"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Lato",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Soft daylight, textures, clean surfaces, real skin",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm, close, reassuring"
+        }
+      },
+      "music": "Soft ambient, slow"
+    },
+    "products": [
+      {
+        "name": "The Daily Trio",
+        "description": "Our signature skincare brand offer.",
+        "benefits": [
+          "Calm, healthy skin",
+          "A routine that's simple"
+        ],
+        "proof": [],
+        "price": "$58"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Routine",
+        "description": "How to use it, step by step"
+      },
+      {
+        "name": "Ingredients",
+        "description": "What's inside and why"
+      },
+      {
+        "name": "Real skin",
+        "description": "Customer results, unfiltered"
+      }
+    ],
+    "ctas": [
+      "Find your routine",
+      "Shop the set",
+      "Take the skin quiz"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@oatandash",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@oatandash",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@oatandash",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#oatandash"
+      ],
+      "rotating": [
+        "#gentle",
+        "#barrier"
+      ]
+    }
+  }
+}

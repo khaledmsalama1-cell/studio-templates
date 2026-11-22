@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "calm-cove-clinic",
+  "name": "Calm Cove Clinic",
+  "industry": "dental",
+  "industryLabel": "Clinics & dental",
+  "tagline": "Skin and laser clinic, explained simply.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#CBEBEB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#143434\">CC</text></svg>",
+  "brand": {
+    "name": "Calm Cove Clinic",
+    "slug": "calm-cove-clinic",
+    "tagline": "Skin and laser clinic, explained simply.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every nervous patient a calm visit.",
+      "positioning": "For the nervous patient who wants a calm visit, Calm Cove Clinic is the clinic that makes it easy, unlike the usual options.",
+      "values": [
+        "calm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Nervous patient",
+        "description": "People who a calm visit.",
+        "pains": [
+          "Dental anxiety",
+          "Unclear costs"
+        ],
+        "desires": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "do": [
+        "Explain what happens",
+        "Show the team"
+      ],
+      "dont": [
+        "Scary close-ups",
+        "Medical promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "check-up",
+          "smile"
+        ],
+        "avoid": [
+          "pain-free guaranteed",
+          "perfect teeth"
+        ]
+      },
+      "examples": [
+        "Skin and laser clinic, explained simply.",
+        "Consultation: a calm visit, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#CBEBEB",
+        "secondary": "#143434",
+        "accent": "#DF2060",
+        "background": "#F5FAFA",
+        "ink": "#112222",
+        "muted": "#607676"
+      },
+      "fonts": {
+        "display": {
+          "family": "Outfit",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Outfit",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Bright clean rooms, friendly faces",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Kind, steady, clear"
+        }
+      },
+      "music": "Soft piano"
+    },
+    "products": [
+      {
+        "name": "Consultation",
+        "description": "Our signature clinic offer.",
+        "benefits": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "proof": [],
+        "price": "Free"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Care tips",
+        "description": "Everyday oral care"
+      },
+      {
+        "name": "Meet the team",
+        "description": "People behind the chair"
+      },
+      {
+        "name": "Treatments",
+        "description": "What happens, explained"
+      }
+    ],
+    "ctas": [
+      "Book a check-up",
+      "Book online",
+      "Ask us a question"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@calmcoveclinic",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@calmcoveclinic",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@calmcoveclinic",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#calmcoveclinic"
+      ],
+      "rotating": [
+        "#gentle",
+        "#check-up"
+      ]
+    }
+  }
+}

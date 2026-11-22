@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "local-lens-tours",
+  "name": "Local Lens Tours",
+  "industry": "travel",
+  "industryLabel": "Travel & tours",
+  "tagline": "City tours led by locals.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#3B1623\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EAEE\">LL</text></svg>",
+  "brand": {
+    "name": "Local Lens Tours",
+    "slug": "local-lens-tours",
+    "tagline": "City tours led by locals.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every experience collector unforgettable trips.",
+      "positioning": "For the experience collector who wants unforgettable trips, Local Lens Tours is the travel company that makes it easy, unlike the usual options.",
+      "values": [
+        "adventurous",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "adventurous",
+        "warm",
+        "knowing"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Experience collector",
+        "description": "People who unforgettable trips.",
+        "pains": [
+          "Tourist traps",
+          "Planning stress"
+        ],
+        "desires": [
+          "Unforgettable trips",
+          "Someone who knows the place"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "adventurous",
+        "warm",
+        "knowing"
+      ],
+      "do": [
+        "Show real places",
+        "Give insider tips"
+      ],
+      "dont": [
+        "Wanderlust clichés",
+        "Exaggeration"
+      ],
+      "vocabulary": {
+        "use": [
+          "local",
+          "journey",
+          "explore"
+        ],
+        "avoid": [
+          "paradise",
+          "bucket list"
+        ]
+      },
+      "examples": [
+        "City tours led by locals.",
+        "Food Walking Tour: unforgettable trips, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B1623",
+        "secondary": "#F5EAEE",
+        "accent": "#17A173",
+        "background": "#FAF5F7",
+        "ink": "#221117",
+        "muted": "#766068"
+      },
+      "fonts": {
+        "display": {
+          "family": "Syne",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Manrope",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Wide landscapes, golden hour, people in place",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Local guide: warm, curious"
+        }
+      },
+      "music": "World-influenced acoustic"
+    },
+    "products": [
+      {
+        "name": "Food Walking Tour",
+        "description": "Our signature travel company offer.",
+        "benefits": [
+          "Unforgettable trips",
+          "Someone who knows the place"
+        ],
+        "proof": [],
+        "price": "$65"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Destinations",
+        "description": "Places worth the trip"
+      },
+      {
+        "name": "Travel tips",
+        "description": "Packing, timing and local tips"
+      },
+      {
+        "name": "Travellers",
+        "description": "Guest stories"
+      }
+    ],
+    "ctas": [
+      "Plan your trip",
+      "Book the tour",
+      "Get the itinerary"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@locallenstours",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@locallenstours",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@locallenstours",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#locallenstours"
+      ],
+      "rotating": [
+        "#local",
+        "#journey"
+      ]
+    }
+  }
+}

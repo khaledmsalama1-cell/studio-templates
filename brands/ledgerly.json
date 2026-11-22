@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "ledgerly",
+  "name": "Ledgerly",
+  "industry": "saas",
+  "industryLabel": "Software & SaaS",
+  "tagline": "Invoices and expenses without the spreadsheet.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#163B2F\"/><text x=\"100\" y=\"129\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"84\" fill=\"#EAF5F1\">L</text></svg>",
+  "brand": {
+    "name": "Ledgerly",
+    "slug": "ledgerly",
+    "tagline": "Invoices and expenses without the spreadsheet.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every overloaded team lead time back.",
+      "positioning": "For the overloaded team lead who wants time back, Ledgerly is the tool that makes it easy, unlike the usual options.",
+      "values": [
+        "clear",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "clear",
+        "helpful",
+        "confident"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Overloaded team lead",
+        "description": "People who time back.",
+        "pains": [
+          "Scattered tools",
+          "Manual busywork"
+        ],
+        "desires": [
+          "Time back",
+          "A team that's in sync"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "clear",
+        "helpful",
+        "confident"
+      ],
+      "do": [
+        "Show the product",
+        "Lead with the outcome"
+      ],
+      "dont": [
+        "Buzzwords",
+        "Vague claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "save time",
+          "workflow",
+          "team"
+        ],
+        "avoid": [
+          "synergy",
+          "revolutionary"
+        ]
+      },
+      "examples": [
+        "Invoices and expenses without the spreadsheet.",
+        "Freelancer Plan: time back, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#163B2F",
+        "secondary": "#EAF5F1",
+        "accent": "#DF6020",
+        "background": "#F5FAF8",
+        "ink": "#11221C",
+        "muted": "#60766F"
+      },
+      "fonts": {
+        "display": {
+          "family": "Inter Tight",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Inter",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Clean UI close-ups, real teams, desks",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Clear, friendly product expert"
+        }
+      },
+      "music": "Minimal electronic"
+    },
+    "products": [
+      {
+        "name": "Freelancer Plan",
+        "description": "Our signature tool offer.",
+        "benefits": [
+          "Time back",
+          "A team that's in sync"
+        ],
+        "proof": [],
+        "price": "$12 / month"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Product tips",
+        "description": "Features and shortcuts"
+      },
+      {
+        "name": "Ways of working",
+        "description": "Ideas for better work"
+      },
+      {
+        "name": "Customers",
+        "description": "How teams use it"
+      }
+    ],
+    "ctas": [
+      "Start free",
+      "Book a demo",
+      "See how it works"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@ledgerly",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@ledgerly",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@ledgerly",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#ledgerly"
+      ],
+      "rotating": [
+        "#save time",
+        "#workflow"
+      ]
+    }
+  }
+}

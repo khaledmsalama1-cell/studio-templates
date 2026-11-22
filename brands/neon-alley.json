@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "neon-alley",
+  "name": "Neon Alley",
+  "industry": "streetwear",
+  "industryLabel": "Streetwear & sneakers",
+  "tagline": "Night-time graphics, daytime fits.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#711C9C\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F8F5F9\">NA</text></svg>",
+  "brand": {
+    "name": "Neon Alley",
+    "slug": "neon-alley",
+    "tagline": "Night-time graphics, daytime fits.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every drop hunter limited pieces.",
+      "positioning": "For the drop hunter who wants limited pieces, Neon Alley is the label that makes it easy, unlike the usual options.",
+      "values": [
+        "bold",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Drop hunter",
+        "description": "People who limited pieces.",
+        "pains": [
+          "Missing drops",
+          "Looking like everyone else"
+        ],
+        "desires": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "do": [
+        "Keep it short",
+        "Talk like the community"
+      ],
+      "dont": [
+        "Corporate language",
+        "Try-hard slang"
+      ],
+      "vocabulary": {
+        "use": [
+          "drop",
+          "fit",
+          "limited"
+        ],
+        "avoid": [
+          "fashionista",
+          "trendy"
+        ]
+      },
+      "examples": [
+        "Night-time graphics, daytime fits.",
+        "Glow Graphic Tee: limited pieces, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#711C9C",
+        "secondary": "#F8F5F9",
+        "accent": "#17A173",
+        "background": "#F8F5FA",
+        "ink": "#1C1122",
+        "muted": "#6F6076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Bebas Neue",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Barlow",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "Flash photography, concrete, close-up sneakers",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Hype but chill, young"
+        }
+      },
+      "music": "Hip-hop beats, 90 BPM"
+    },
+    "products": [
+      {
+        "name": "Glow Graphic Tee",
+        "description": "Our signature label offer.",
+        "benefits": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "proof": [],
+        "price": "$38"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Drops",
+        "description": "Releases and restocks"
+      },
+      {
+        "name": "Fits",
+        "description": "How people wear it"
+      },
+      {
+        "name": "Culture",
+        "description": "Music, art and the scene"
+      }
+    ],
+    "ctas": [
+      "Shop the drop",
+      "Get notified",
+      "Link in bio"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@neonalley",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@neonalley",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@neonalley",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#neonalley"
+      ],
+      "rotating": [
+        "#drop",
+        "#fit"
+      ]
+    }
+  }
+}

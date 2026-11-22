@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "sunday-tailor",
+  "name": "Sunday Tailor",
+  "industry": "fashion",
+  "industryLabel": "Fashion boutiques",
+  "tagline": "Made-to-measure without the fuss.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#16233B\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#B27F19\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAEEF5\">ST</text></svg>",
+  "brand": {
+    "name": "Sunday Tailor",
+    "slug": "sunday-tailor",
+    "tagline": "Made-to-measure without the fuss.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every style-conscious shopper pieces that last.",
+      "positioning": "For the style-conscious shopper who wants pieces that last, Sunday Tailor is the boutique that makes it easy, unlike the usual options.",
+      "values": [
+        "confident",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "confident",
+        "editorial",
+        "friendly"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Style-conscious shopper",
+        "description": "People who pieces that last.",
+        "pains": [
+          "Fast fashion that falls apart",
+          "Not knowing what suits them"
+        ],
+        "desires": [
+          "Pieces that last",
+          "Easy outfits"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "confident",
+        "editorial",
+        "friendly"
+      ],
+      "do": [
+        "Show outfits, not just items",
+        "Talk fabric and fit"
+      ],
+      "dont": [
+        "Trend-chasing language",
+        "Body talk"
+      ],
+      "vocabulary": {
+        "use": [
+          "fit",
+          "fabric",
+          "wear"
+        ],
+        "avoid": [
+          "must-have",
+          "obsessed"
+        ]
+      },
+      "examples": [
+        "Made-to-measure without the fuss.",
+        "Custom Blazer: pieces that last, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#16233B",
+        "secondary": "#EAEEF5",
+        "accent": "#B27F19",
+        "background": "#F5F7FA",
+        "ink": "#111722",
+        "muted": "#606876"
+      },
+      "fonts": {
+        "display": {
+          "family": "Playfair Display",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Inter",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Editorial portraits, texture details, city backdrops",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Editor: polished, warm"
+        }
+      },
+      "music": "Chic downtempo house"
+    },
+    "products": [
+      {
+        "name": "Custom Blazer",
+        "description": "Our signature boutique offer.",
+        "benefits": [
+          "Pieces that last",
+          "Easy outfits"
+        ],
+        "proof": [],
+        "price": "From $290"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "New in",
+        "description": "Fresh arrivals"
+      },
+      {
+        "name": "How to wear it",
+        "description": "Styling ideas"
+      },
+      {
+        "name": "Made well",
+        "description": "Fabric and making"
+      }
+    ],
+    "ctas": [
+      "Shop new in",
+      "Book a styling session",
+      "Shop the look"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@sundaytailor",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@sundaytailor",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@sundaytailor",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#sundaytailor"
+      ],
+      "rotating": [
+        "#fit",
+        "#fabric"
+      ]
+    }
+  }
+}

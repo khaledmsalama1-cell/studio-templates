@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "clearview-optics",
+  "name": "Clearview Optics",
+  "industry": "dental",
+  "industryLabel": "Clinics & dental",
+  "tagline": "Eye tests and frames you'll love.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#1C469C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#B27F19\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F7F9\">CO</text></svg>",
+  "brand": {
+    "name": "Clearview Optics",
+    "slug": "clearview-optics",
+    "tagline": "Eye tests and frames you'll love.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every nervous patient a calm visit.",
+      "positioning": "For the nervous patient who wants a calm visit, Clearview Optics is the clinic that makes it easy, unlike the usual options.",
+      "values": [
+        "calm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Nervous patient",
+        "description": "People who a calm visit.",
+        "pains": [
+          "Dental anxiety",
+          "Unclear costs"
+        ],
+        "desires": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "do": [
+        "Explain what happens",
+        "Show the team"
+      ],
+      "dont": [
+        "Scary close-ups",
+        "Medical promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "check-up",
+          "smile"
+        ],
+        "avoid": [
+          "pain-free guaranteed",
+          "perfect teeth"
+        ]
+      },
+      "examples": [
+        "Eye tests and frames you'll love.",
+        "Eye Test + Frames: a calm visit, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#1C469C",
+        "secondary": "#F5F7F9",
+        "accent": "#B27F19",
+        "background": "#F5F7FA",
+        "ink": "#111722",
+        "muted": "#606876"
+      },
+      "fonts": {
+        "display": {
+          "family": "Outfit",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Outfit",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Bright clean rooms, friendly faces",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Kind, steady, clear"
+        }
+      },
+      "music": "Soft piano"
+    },
+    "products": [
+      {
+        "name": "Eye Test + Frames",
+        "description": "Our signature clinic offer.",
+        "benefits": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "proof": [],
+        "price": "$149"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Care tips",
+        "description": "Everyday oral care"
+      },
+      {
+        "name": "Meet the team",
+        "description": "People behind the chair"
+      },
+      {
+        "name": "Treatments",
+        "description": "What happens, explained"
+      }
+    ],
+    "ctas": [
+      "Book a check-up",
+      "Book online",
+      "Ask us a question"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@clearviewoptics",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@clearviewoptics",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@clearviewoptics",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#clearviewoptics"
+      ],
+      "rotating": [
+        "#gentle",
+        "#check-up"
+      ]
+    }
+  }
+}

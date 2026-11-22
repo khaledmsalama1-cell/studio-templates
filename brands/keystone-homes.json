@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "keystone-homes",
+  "name": "Keystone Homes",
+  "industry": "realestate",
+  "industryLabel": "Real estate",
+  "tagline": "Your first home, step by step.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#16263B\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAEFF5\">KH</text></svg>",
+  "brand": {
+    "name": "Keystone Homes",
+    "slug": "keystone-homes",
+    "tagline": "Your first home, step by step.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every first-time buyer the right home.",
+      "positioning": "For the first-time buyer who wants the right home, Keystone Homes is the agency that makes it easy, unlike the usual options.",
+      "values": [
+        "trustworthy",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "trustworthy",
+        "calm",
+        "local"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "First-time buyer",
+        "description": "People who the right home.",
+        "pains": [
+          "A confusing process",
+          "Missing good listings"
+        ],
+        "desires": [
+          "The right home",
+          "A guide they trust"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "trustworthy",
+        "calm",
+        "local"
+      ],
+      "do": [
+        "Show light and space",
+        "Give real numbers"
+      ],
+      "dont": [
+        "Pressure tactics",
+        "Clichés"
+      ],
+      "vocabulary": {
+        "use": [
+          "home",
+          "neighbourhood",
+          "light"
+        ],
+        "avoid": [
+          "dream home",
+          "won't last"
+        ]
+      },
+      "examples": [
+        "Your first home, step by step.",
+        "First-time Buyer Program: the right home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#16263B",
+        "secondary": "#EAEFF5",
+        "accent": "#C47E1C",
+        "background": "#F5F7FA",
+        "ink": "#111822",
+        "muted": "#606976"
+      },
+      "fonts": {
+        "display": {
+          "family": "Marcellus",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Manrope",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Wide interiors, daylight, streets",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm local expert"
+        }
+      },
+      "music": "Warm acoustic"
+    },
+    "products": [
+      {
+        "name": "First-time Buyer Program",
+        "description": "Our signature agency offer.",
+        "benefits": [
+          "The right home",
+          "A guide they trust"
+        ],
+        "proof": [],
+        "price": "Free consultation"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Listings",
+        "description": "Homes worth seeing"
+      },
+      {
+        "name": "Buying guide",
+        "description": "Step-by-step advice"
+      },
+      {
+        "name": "Neighbourhoods",
+        "description": "Local life and spots"
+      }
+    ],
+    "ctas": [
+      "Book a viewing",
+      "Get a valuation",
+      "See listings"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@keystonehomes",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@keystonehomes",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@keystonehomes",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#keystonehomes"
+      ],
+      "rotating": [
+        "#home",
+        "#neighbourhood"
+      ]
+    }
+  }
+}

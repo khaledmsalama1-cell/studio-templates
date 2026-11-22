@@ -46,6 +46,46 @@ for (const dir of fs.readdirSync(path.join(root, "templates")).sort()) {
     templates.push(t);
   }
 }
+// ---------------------------------------------------------------- brand starters
+const lum = (hex) => {
+  const v = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((x) => (x <= 0.03928 ? x / 12.92 : ((x + 0.055) / 1.055) ** 2.4));
+  return 0.2126 * v[0] + 0.7152 * v[1] + 0.0722 * v[2];
+};
+const ratio = (a, b) => {
+  const [x, y] = [lum(a), lum(b)].sort((m, n) => n - m);
+  return (x + 0.05) / (y + 0.05);
+};
+const brands = [];
+const brandIds = new Set();
+for (const file of fs.existsSync(path.join(root, "brands")) ? fs.readdirSync(path.join(root, "brands")).filter((f) => f.endsWith(".json")).sort() : []) {
+  const where = `brands/${file}`;
+  const bad = (m) => errors.push(`${where}: ${m}`);
+  let e;
+  try {
+    e = JSON.parse(fs.readFileSync(path.join(root, "brands", file), "utf8"));
+  } catch (x) {
+    bad(`invalid JSON (${x.message})`);
+    continue;
+  }
+  if (e.kind !== "brand" || `${e.id}.json` !== file || !/^[a-z0-9][a-z0-9-]*$/.test(e.id)) bad("kind must be brand and id must match the file name");
+  if (brandIds.has(e.id)) bad("duplicate id");
+  brandIds.add(e.id);
+  const b = e.brand || {};
+  if (b.slug !== e.id || !b.name || !e.industry || !e.industryLabel) bad("brand.slug must equal id; name and industry required");
+  const c = b.visual?.colors || {};
+  for (const k of ["primary", "secondary", "accent", "background", "ink", "muted"]) if (!/^#[0-9A-Fa-f]{6}$/.test(c[k] || "")) bad(`colour ${k} must be #RRGGBB`);
+  if (Object.values(c).every((v) => /^#[0-9A-Fa-f]{6}$/.test(v))) {
+    if (ratio(c.ink, c.background) < 4.5) bad("ink on background below 4.5:1");
+    if (ratio(c.secondary, c.primary) < 4.5) bad("secondary on primary below 4.5:1");
+    if (ratio(c.accent, c.background) < 3) bad("accent on background below 3:1");
+  }
+  if (!b.visual?.fonts?.display?.family || !b.visual?.fonts?.body?.family) bad("needs display and body fonts");
+  // Logos become files in the user's studio: plain shapes and text only
+  const svg = String(e.logoSvg || "");
+  if (!/^<svg[\s>]/.test(svg) || /<script|<foreignObject|\son\w+\s*=|href\s*=|url\(|<image|<style/i.test(svg)) bad("logoSvg must be a plain inline SVG without scripts, links, images or styles");
+  brands.push({ ...e, brand: b });
+}
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exit(1);
@@ -53,7 +93,7 @@ if (errors.length) {
 
 const studio = templates.filter((t) => t.kind === "studio");
 const external = templates.filter((t) => t.kind === "external");
-fs.writeFileSync(path.join(root, "index.json"), JSON.stringify({ version: 1, generatedAt: new Date().toISOString(), formats: FORMATS, templates }, null, 1) + "\n");
+fs.writeFileSync(path.join(root, "index.json"), JSON.stringify({ version: 1, generatedAt: new Date().toISOString(), formats: FORMATS, templates, brands }, null, 1) + "\n");
 
 let md = fs.readFileSync(path.join(root, "README.header.md"), "utf8").replace("{{COUNT}}", templates.length).replace("{{STUDIO}}", studio.length).replace("{{EXTERNAL}}", external.length);
 const label = { reel: "Reels (9:16 video)", promo: "Product promos (9:16 video)", landscape: "Landscape video (16:9)", carousel: "Carousels (4:5 slides)", post: "Feed posts (4:5)", square: "Square posts (1:1)", story: "Stories (9:16 frames)" };
@@ -65,5 +105,12 @@ for (const f of Object.keys(FORMATS)) {
 }
 md += `\n### External starters — ${external.length}\n\n| Starter | Engine | What it is |\n|---|---|---|\n`;
 for (const t of external) md += `| [${t.name}](${t.url}) | ${t.engine} | ${t.description} |\n`;
+if (brands.length) {
+  md += `\n## Brand starters — ${brands.length}\n\nFictional brands with complete kits (positioning, audience, voice, palette, fonts, logo, products, content pillars). In the Studio: **Brands → Add a brand → Start from a brand template**. Any resemblance to a real business is unintended.\n`;
+  for (const ind of [...new Set(brands.map((b) => b.industryLabel))]) {
+    md += `\n### ${ind}\n\n| Brand | Tagline | Fonts |\n|---|---|---|\n`;
+    for (const b of brands.filter((x) => x.industryLabel === ind)) md += `| [${b.name}](brands/${b.id}.json) | ${b.tagline} | ${b.brand.visual.fonts.display.family} / ${b.brand.visual.fonts.body.family} |\n`;
+  }
+}
 fs.writeFileSync(path.join(root, "README.md"), md);
-console.log(`✔ ${studio.length} studio templates + ${external.length} external starters valid → index.json, README.md`);
+console.log(`✔ ${studio.length} studio templates + ${external.length} external starters + ${brands.length} brand starters valid → index.json, README.md`);

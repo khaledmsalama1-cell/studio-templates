@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "concrete-kids",
+  "name": "Concrete Kids",
+  "industry": "streetwear",
+  "industryLabel": "Streetwear & sneakers",
+  "tagline": "Streetwear from the skatepark up.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#3B1616\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#629816\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EAEA\">CK</text></svg>",
+  "brand": {
+    "name": "Concrete Kids",
+    "slug": "concrete-kids",
+    "tagline": "Streetwear from the skatepark up.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every drop hunter limited pieces.",
+      "positioning": "For the drop hunter who wants limited pieces, Concrete Kids is the label that makes it easy, unlike the usual options.",
+      "values": [
+        "bold",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Drop hunter",
+        "description": "People who limited pieces.",
+        "pains": [
+          "Missing drops",
+          "Looking like everyone else"
+        ],
+        "desires": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "do": [
+        "Keep it short",
+        "Talk like the community"
+      ],
+      "dont": [
+        "Corporate language",
+        "Try-hard slang"
+      ],
+      "vocabulary": {
+        "use": [
+          "drop",
+          "fit",
+          "limited"
+        ],
+        "avoid": [
+          "fashionista",
+          "trendy"
+        ]
+      },
+      "examples": [
+        "Streetwear from the skatepark up.",
+        "Heavyweight Hoodie: limited pieces, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B1616",
+        "secondary": "#F5EAEA",
+        "accent": "#629816",
+        "background": "#FAF5F5",
+        "ink": "#221111",
+        "muted": "#766060"
+      },
+      "fonts": {
+        "display": {
+          "family": "Bebas Neue",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Barlow",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "Flash photography, concrete, close-up sneakers",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Hype but chill, young"
+        }
+      },
+      "music": "Hip-hop beats, 90 BPM"
+    },
+    "products": [
+      {
+        "name": "Heavyweight Hoodie",
+        "description": "Our signature label offer.",
+        "benefits": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "proof": [],
+        "price": "$75"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Drops",
+        "description": "Releases and restocks"
+      },
+      {
+        "name": "Fits",
+        "description": "How people wear it"
+      },
+      {
+        "name": "Culture",
+        "description": "Music, art and the scene"
+      }
+    ],
+    "ctas": [
+      "Shop the drop",
+      "Get notified",
+      "Link in bio"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@concretekids",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@concretekids",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@concretekids",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#concretekids"
+      ],
+      "rotating": [
+        "#drop",
+        "#fit"
+      ]
+    }
+  }
+}

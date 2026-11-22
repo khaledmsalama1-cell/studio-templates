@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "dew-theory",
+  "name": "Dew Theory",
+  "industry": "skincare",
+  "industryLabel": "Skincare & beauty",
+  "tagline": "Hydration, explained.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#CBE6EB\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#DF2080\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#142E34\">DT</text></svg>",
+  "brand": {
+    "name": "Dew Theory",
+    "slug": "dew-theory",
+    "tagline": "Hydration, explained.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every thoughtful skincare buyer calm, healthy skin.",
+      "positioning": "For the thoughtful skincare buyer who wants calm, healthy skin, Dew Theory is the skincare brand that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "clear",
+        "reassuring"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Thoughtful skincare buyer",
+        "description": "People who calm, healthy skin.",
+        "pains": [
+          "Products that irritate",
+          "Confusing routines"
+        ],
+        "desires": [
+          "Calm, healthy skin",
+          "A routine that's simple"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "clear",
+        "reassuring"
+      ],
+      "do": [
+        "Explain ingredients simply",
+        "Show real skin"
+      ],
+      "dont": [
+        "Medical claims",
+        "Before/after exaggeration"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "barrier",
+          "routine"
+        ],
+        "avoid": [
+          "flawless",
+          "miracle"
+        ]
+      },
+      "examples": [
+        "Hydration, explained.",
+        "Barrier Repair Serum: calm, healthy skin, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#CBE6EB",
+        "secondary": "#142E34",
+        "accent": "#DF2080",
+        "background": "#F5F9FA",
+        "ink": "#111F22",
+        "muted": "#607276"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Lato",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Soft daylight, textures, clean surfaces, real skin",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm, close, reassuring"
+        }
+      },
+      "music": "Soft ambient, slow"
+    },
+    "products": [
+      {
+        "name": "Barrier Repair Serum",
+        "description": "Our signature skincare brand offer.",
+        "benefits": [
+          "Calm, healthy skin",
+          "A routine that's simple"
+        ],
+        "proof": [],
+        "price": "$34"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Routine",
+        "description": "How to use it, step by step"
+      },
+      {
+        "name": "Ingredients",
+        "description": "What's inside and why"
+      },
+      {
+        "name": "Real skin",
+        "description": "Customer results, unfiltered"
+      }
+    ],
+    "ctas": [
+      "Find your routine",
+      "Shop the set",
+      "Take the skin quiz"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@dewtheory",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@dewtheory",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@dewtheory",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#dewtheory"
+      ],
+      "rotating": [
+        "#gentle",
+        "#barrier"
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "happy-paws",
+  "name": "Happy Paws",
+  "industry": "pets",
+  "industryLabel": "Pet care",
+  "tagline": "Treats dogs go wild for, ingredients you'll recognise.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#9C5C1C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#1D93CD\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F9F7F5\">HP</text></svg>",
+  "brand": {
+    "name": "Happy Paws",
+    "slug": "happy-paws",
+    "tagline": "Treats dogs go wild for, ingredients you'll recognise.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every devoted pet parent happy, healthy pets.",
+      "positioning": "For the devoted pet parent who wants happy, healthy pets, Happy Paws is the pet brand that makes it easy, unlike the usual options.",
+      "values": [
+        "playful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "playful",
+        "caring",
+        "trustworthy"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Devoted pet parent",
+        "description": "People who happy, healthy pets.",
+        "pains": [
+          "Unhealthy treats",
+          "Bored pets"
+        ],
+        "desires": [
+          "Happy, healthy pets",
+          "Products they can trust"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "playful",
+        "caring",
+        "trustworthy"
+      ],
+      "do": [
+        "Show real pets",
+        "Use their names"
+      ],
+      "dont": [
+        "Guilt-tripping owners",
+        "Medical claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "happy",
+          "healthy",
+          "tail wags"
+        ],
+        "avoid": [
+          "fur baby overload",
+          "best ever"
+        ]
+      },
+      "examples": [
+        "Treats dogs go wild for, ingredients you'll recognise.",
+        "Peanut Butter Biscuits: happy, healthy pets, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#9C5C1C",
+        "secondary": "#F9F7F5",
+        "accent": "#1D93CD",
+        "background": "#FAF7F5",
+        "ink": "#221A11",
+        "muted": "#766B60"
+      },
+      "fonts": {
+        "display": {
+          "family": "Fredoka",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Pets at eye level, natural light, mess allowed",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Cheerful, warm, a little silly"
+        }
+      },
+      "music": "Upbeat ukulele"
+    },
+    "products": [
+      {
+        "name": "Peanut Butter Biscuits",
+        "description": "Our signature pet brand offer.",
+        "benefits": [
+          "Happy, healthy pets",
+          "Products they can trust"
+        ],
+        "proof": [],
+        "price": "$12"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Happy pets",
+        "description": "Customer pets and stories"
+      },
+      {
+        "name": "Care tips",
+        "description": "Health and training tips"
+      },
+      {
+        "name": "What's inside",
+        "description": "Ingredients and safety"
+      }
+    ],
+    "ctas": [
+      "Shop treats",
+      "Book grooming",
+      "Tag your pet"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@happypaws",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@happypaws",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@happypaws",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#happypaws"
+      ],
+      "rotating": [
+        "#happy",
+        "#healthy"
+      ]
+    }
+  }
+}

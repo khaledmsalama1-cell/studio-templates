@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "rise-and-crumb",
+  "name": "Rise & Crumb",
+  "industry": "bakery",
+  "industryLabel": "Bakeries",
+  "tagline": "Sourdough that takes two days. Worth it.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#3B2916\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F0EA\">RC</text></svg>",
+  "brand": {
+    "name": "Rise & Crumb",
+    "slug": "rise-and-crumb",
+    "tagline": "Sourdough that takes two days. Worth it.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every weekend treat-seeker real bread and pastries.",
+      "positioning": "For the weekend treat-seeker who wants real bread and pastries, Rise & Crumb is the bakery that makes it easy, unlike the usual options.",
+      "values": [
+        "cosy",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "cosy",
+        "generous",
+        "proud of the craft"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Weekend treat-seeker",
+        "description": "People who real bread and pastries.",
+        "pains": [
+          "Supermarket bread that tastes of nothing",
+          "No time to bake"
+        ],
+        "desires": [
+          "Real bread and pastries",
+          "Something to share"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "cosy",
+        "generous",
+        "proud of the craft"
+      ],
+      "do": [
+        "Talk about texture and smell",
+        "Name the baker"
+      ],
+      "dont": [
+        "Diet talk",
+        "Over-the-top claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "fresh",
+          "slow-proved",
+          "butter"
+        ],
+        "avoid": [
+          "guilt-free",
+          "artisan-crafted"
+        ]
+      },
+      "examples": [
+        "Sourdough that takes two days. Worth it.",
+        "Country Sourdough: real bread and pastries, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B2916",
+        "secondary": "#F5F0EA",
+        "accent": "#DF4020",
+        "background": "#FAF7F5",
+        "ink": "#221A11",
+        "muted": "#766B60"
+      },
+      "fonts": {
+        "display": {
+          "family": "Young Serif",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Karla",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Flour, crusts, golden light, close-ups",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Warm, smiling, unhurried"
+        }
+      },
+      "music": "Light jazz piano"
+    },
+    "products": [
+      {
+        "name": "Country Sourdough",
+        "description": "Our signature bakery offer.",
+        "benefits": [
+          "Real bread and pastries",
+          "Something to share"
+        ],
+        "proof": [],
+        "price": "$8"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Fresh today",
+        "description": "What came out of the oven"
+      },
+      {
+        "name": "How it's made",
+        "description": "Dough, timing and craft"
+      },
+      {
+        "name": "Celebrations",
+        "description": "Cakes and orders for big days"
+      }
+    ],
+    "ctas": [
+      "Pre-order for the weekend",
+      "Visit us",
+      "Order a cake"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@riseandcrumb",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@riseandcrumb",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@riseandcrumb",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#riseandcrumb"
+      ],
+      "rotating": [
+        "#fresh",
+        "#slow-proved"
+      ]
+    }
+  }
+}

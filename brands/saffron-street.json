@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "saffron-street",
+  "name": "Saffron Street",
+  "industry": "restaurant",
+  "industryLabel": "Restaurants",
+  "tagline": "Street food from Mumbai, cooked like home.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#9C671C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#17A18A\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F9F8F5\">SS</text></svg>",
+  "brand": {
+    "name": "Saffron Street",
+    "slug": "saffron-street",
+    "tagline": "Street food from Mumbai, cooked like home.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every local food lover a place worth coming back to.",
+      "positioning": "For the local food lover who wants a place worth coming back to, Saffron Street is the restaurant that makes it easy, unlike the usual options.",
+      "values": [
+        "welcoming",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "welcoming",
+        "lively",
+        "confident"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Local food lover",
+        "description": "People who a place worth coming back to.",
+        "pains": [
+          "Same old places",
+          "Disappointing meals out"
+        ],
+        "desires": [
+          "A place worth coming back to",
+          "Something new to try"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "welcoming",
+        "lively",
+        "confident"
+      ],
+      "do": [
+        "Show the food close up",
+        "Mention what's seasonal"
+      ],
+      "dont": [
+        "Long ingredient lists",
+        "Exclamation marks"
+      ],
+      "vocabulary": {
+        "use": [
+          "seasonal",
+          "fresh",
+          "table"
+        ],
+        "avoid": [
+          "foodie",
+          "mouth-watering"
+        ]
+      },
+      "examples": [
+        "Street food from Mumbai, cooked like home.",
+        "Thali for Two: a place worth coming back to, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#9C671C",
+        "secondary": "#F9F8F5",
+        "accent": "#17A18A",
+        "background": "#FAF8F5",
+        "ink": "#221B11",
+        "muted": "#766D60"
+      },
+      "fonts": {
+        "display": {
+          "family": "DM Serif Display",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "DM Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Overhead plates, flame, busy pass, candlelight",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Host at the door: warm, quick, sure"
+        }
+      },
+      "music": "Upbeat soul or bossa nova"
+    },
+    "products": [
+      {
+        "name": "Thali for Two",
+        "description": "Our signature restaurant offer.",
+        "benefits": [
+          "A place worth coming back to",
+          "Something new to try"
+        ],
+        "proof": [],
+        "price": "$34"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "On the menu",
+        "description": "Dishes and what's in season"
+      },
+      {
+        "name": "In the kitchen",
+        "description": "Chefs and process"
+      },
+      {
+        "name": "Tables",
+        "description": "Guests, events and moments"
+      }
+    ],
+    "ctas": [
+      "Book a table",
+      "See the menu",
+      "Order for delivery"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@saffronstreet",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@saffronstreet",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@saffronstreet",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#saffronstreet"
+      ],
+      "rotating": [
+        "#seasonal",
+        "#fresh"
+      ]
+    }
+  }
+}

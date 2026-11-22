@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "gentle-hands-clinic",
+  "name": "Gentle Hands Physio",
+  "industry": "dental",
+  "industryLabel": "Clinics & dental",
+  "tagline": "Physiotherapy that gets you moving.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#163B2F\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF5F1\">GH</text></svg>",
+  "brand": {
+    "name": "Gentle Hands Physio",
+    "slug": "gentle-hands-clinic",
+    "tagline": "Physiotherapy that gets you moving.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every nervous patient a calm visit.",
+      "positioning": "For the nervous patient who wants a calm visit, Gentle Hands Physio is the clinic that makes it easy, unlike the usual options.",
+      "values": [
+        "calm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Nervous patient",
+        "description": "People who a calm visit.",
+        "pains": [
+          "Dental anxiety",
+          "Unclear costs"
+        ],
+        "desires": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "do": [
+        "Explain what happens",
+        "Show the team"
+      ],
+      "dont": [
+        "Scary close-ups",
+        "Medical promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "check-up",
+          "smile"
+        ],
+        "avoid": [
+          "pain-free guaranteed",
+          "perfect teeth"
+        ]
+      },
+      "examples": [
+        "Physiotherapy that gets you moving.",
+        "Assessment Session: a calm visit, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#163B2F",
+        "secondary": "#EAF5F1",
+        "accent": "#DF6020",
+        "background": "#F5FAF8",
+        "ink": "#11221C",
+        "muted": "#60766F"
+      },
+      "fonts": {
+        "display": {
+          "family": "Outfit",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Outfit",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Bright clean rooms, friendly faces",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Kind, steady, clear"
+        }
+      },
+      "music": "Soft piano"
+    },
+    "products": [
+      {
+        "name": "Assessment Session",
+        "description": "Our signature clinic offer.",
+        "benefits": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "proof": [],
+        "price": "$75"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Care tips",
+        "description": "Everyday oral care"
+      },
+      {
+        "name": "Meet the team",
+        "description": "People behind the chair"
+      },
+      {
+        "name": "Treatments",
+        "description": "What happens, explained"
+      }
+    ],
+    "ctas": [
+      "Book a check-up",
+      "Book online",
+      "Ask us a question"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@gentlehandsclinic",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@gentlehandsclinic",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@gentlehandsclinic",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#gentlehandsclinic"
+      ],
+      "rotating": [
+        "#gentle",
+        "#check-up"
+      ]
+    }
+  }
+}

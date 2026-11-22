@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "bright-dental",
+  "name": "Bright Dental Care",
+  "industry": "dental",
+  "industryLabel": "Clinics & dental",
+  "tagline": "Family dentistry, Saturdays too.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#162C3B\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#17A15C\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF1F5\">BD</text></svg>",
+  "brand": {
+    "name": "Bright Dental Care",
+    "slug": "bright-dental",
+    "tagline": "Family dentistry, Saturdays too.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every nervous patient a calm visit.",
+      "positioning": "For the nervous patient who wants a calm visit, Bright Dental Care is the clinic that makes it easy, unlike the usual options.",
+      "values": [
+        "calm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Nervous patient",
+        "description": "People who a calm visit.",
+        "pains": [
+          "Dental anxiety",
+          "Unclear costs"
+        ],
+        "desires": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "do": [
+        "Explain what happens",
+        "Show the team"
+      ],
+      "dont": [
+        "Scary close-ups",
+        "Medical promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "check-up",
+          "smile"
+        ],
+        "avoid": [
+          "pain-free guaranteed",
+          "perfect teeth"
+        ]
+      },
+      "examples": [
+        "Family dentistry, Saturdays too.",
+        "Family Plan: a calm visit, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#162C3B",
+        "secondary": "#EAF1F5",
+        "accent": "#17A15C",
+        "background": "#F5F8FA",
+        "ink": "#111B22",
+        "muted": "#606D76"
+      },
+      "fonts": {
+        "display": {
+          "family": "Outfit",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Outfit",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Bright clean rooms, friendly faces",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Kind, steady, clear"
+        }
+      },
+      "music": "Soft piano"
+    },
+    "products": [
+      {
+        "name": "Family Plan",
+        "description": "Our signature clinic offer.",
+        "benefits": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "proof": [],
+        "price": "$29 / month"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Care tips",
+        "description": "Everyday oral care"
+      },
+      {
+        "name": "Meet the team",
+        "description": "People behind the chair"
+      },
+      {
+        "name": "Treatments",
+        "description": "What happens, explained"
+      }
+    ],
+    "ctas": [
+      "Book a check-up",
+      "Book online",
+      "Ask us a question"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@brightdental",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@brightdental",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@brightdental",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#brightdental"
+      ],
+      "rotating": [
+        "#gentle",
+        "#check-up"
+      ]
+    }
+  }
+}

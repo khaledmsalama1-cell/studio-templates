@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "little-makers",
+  "name": "Little Makers",
+  "industry": "kids",
+  "industryLabel": "Kids & education",
+  "tagline": "Craft and science classes for ages 5–10.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#8B6E18\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#1F99D6\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F9F8F5\">LM</text></svg>",
+  "brand": {
+    "name": "Little Makers",
+    "slug": "little-makers",
+    "tagline": "Craft and science classes for ages 5–10.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every involved parent kids who love learning.",
+      "positioning": "For the involved parent who wants kids who love learning, Little Makers is the learning studio that makes it easy, unlike the usual options.",
+      "values": [
+        "cheerful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "cheerful",
+        "encouraging",
+        "clear"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Involved parent",
+        "description": "People who kids who love learning.",
+        "pains": [
+          "Screen time battles",
+          "Bored kids"
+        ],
+        "desires": [
+          "Kids who love learning",
+          "Activities that build skills"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "cheerful",
+        "encouraging",
+        "clear"
+      ],
+      "do": [
+        "Speak to parents",
+        "Show kids creating"
+      ],
+      "dont": [
+        "Fear about falling behind",
+        "Too much text"
+      ],
+      "vocabulary": {
+        "use": [
+          "learn",
+          "play",
+          "create"
+        ],
+        "avoid": [
+          "genius",
+          "ahead of the class"
+        ]
+      },
+      "examples": [
+        "Craft and science classes for ages 5–10.",
+        "Weekly Maker Class: kids who love learning, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#8B6E18",
+        "secondary": "#F9F8F5",
+        "accent": "#1F99D6",
+        "background": "#FAF8F5",
+        "ink": "#221E11",
+        "muted": "#767060"
+      },
+      "fonts": {
+        "display": {
+          "family": "Baloo 2",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "Bright colour, hands making things, real classrooms",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Cheerful teacher"
+        }
+      },
+      "music": "Playful xylophone"
+    },
+    "products": [
+      {
+        "name": "Weekly Maker Class",
+        "description": "Our signature learning studio offer.",
+        "benefits": [
+          "Kids who love learning",
+          "Activities that build skills"
+        ],
+        "proof": [],
+        "price": "$25 / class"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Learn at home",
+        "description": "Simple activities"
+      },
+      {
+        "name": "In class",
+        "description": "What kids are making"
+      },
+      {
+        "name": "Parents",
+        "description": "Tips and stories"
+      }
+    ],
+    "ctas": [
+      "Book a trial class",
+      "Join the waitlist",
+      "Download the activity"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@littlemakers",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@littlemakers",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@littlemakers",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#littlemakers"
+      ],
+      "rotating": [
+        "#learn",
+        "#play"
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "smile-studio",
+  "name": "Smile Studio Dental",
+  "industry": "dental",
+  "industryLabel": "Clinics & dental",
+  "tagline": "Check-ups without the dread.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#CBE6EB\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#CD751D\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#142E34\">SS</text></svg>",
+  "brand": {
+    "name": "Smile Studio Dental",
+    "slug": "smile-studio",
+    "tagline": "Check-ups without the dread.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every nervous patient a calm visit.",
+      "positioning": "For the nervous patient who wants a calm visit, Smile Studio Dental is the clinic that makes it easy, unlike the usual options.",
+      "values": [
+        "calm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Nervous patient",
+        "description": "People who a calm visit.",
+        "pains": [
+          "Dental anxiety",
+          "Unclear costs"
+        ],
+        "desires": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "calm",
+        "clear",
+        "kind"
+      ],
+      "do": [
+        "Explain what happens",
+        "Show the team"
+      ],
+      "dont": [
+        "Scary close-ups",
+        "Medical promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "gentle",
+          "check-up",
+          "smile"
+        ],
+        "avoid": [
+          "pain-free guaranteed",
+          "perfect teeth"
+        ]
+      },
+      "examples": [
+        "Check-ups without the dread.",
+        "New Patient Check-up: a calm visit, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#CBE6EB",
+        "secondary": "#142E34",
+        "accent": "#CD751D",
+        "background": "#F5F9FA",
+        "ink": "#111F22",
+        "muted": "#607276"
+      },
+      "fonts": {
+        "display": {
+          "family": "Outfit",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Outfit",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Bright clean rooms, friendly faces",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Kind, steady, clear"
+        }
+      },
+      "music": "Soft piano"
+    },
+    "products": [
+      {
+        "name": "New Patient Check-up",
+        "description": "Our signature clinic offer.",
+        "benefits": [
+          "A calm visit",
+          "A smile they like"
+        ],
+        "proof": [],
+        "price": "$89"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Care tips",
+        "description": "Everyday oral care"
+      },
+      {
+        "name": "Meet the team",
+        "description": "People behind the chair"
+      },
+      {
+        "name": "Treatments",
+        "description": "What happens, explained"
+      }
+    ],
+    "ctas": [
+      "Book a check-up",
+      "Book online",
+      "Ask us a question"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@smilestudio",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@smilestudio",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@smilestudio",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#smilestudio"
+      ],
+      "rotating": [
+        "#gentle",
+        "#check-up"
+      ]
+    }
+  }
+}

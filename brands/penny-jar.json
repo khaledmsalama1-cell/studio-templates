@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "penny-jar",
+  "name": "Penny Jar",
+  "industry": "fintech",
+  "industryLabel": "Money & fintech",
+  "tagline": "Round up, save up.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#17823B\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#BB861B\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F9F7\">PJ</text></svg>",
+  "brand": {
+    "name": "Penny Jar",
+    "slug": "penny-jar",
+    "tagline": "Round up, save up.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every first-time saver feeling in control.",
+      "positioning": "For the first-time saver who wants feeling in control, Penny Jar is the money app that makes it easy, unlike the usual options.",
+      "values": [
+        "plain-spoken",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "plain-spoken",
+        "reassuring",
+        "smart"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "First-time saver",
+        "description": "People who feeling in control.",
+        "pains": [
+          "Money stress",
+          "Confusing banking"
+        ],
+        "desires": [
+          "Feeling in control",
+          "Saving without thinking"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "plain-spoken",
+        "reassuring",
+        "smart"
+      ],
+      "do": [
+        "Use simple numbers",
+        "Explain jargon"
+      ],
+      "dont": [
+        "Get-rich promises",
+        "Fear tactics"
+      ],
+      "vocabulary": {
+        "use": [
+          "save",
+          "control",
+          "simple"
+        ],
+        "avoid": [
+          "guaranteed returns",
+          "to the moon"
+        ]
+      },
+      "examples": [
+        "Round up, save up.",
+        "Round-up Savings: feeling in control, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#17823B",
+        "secondary": "#F5F9F7",
+        "accent": "#BB861B",
+        "background": "#F5FAF7",
+        "ink": "#112217",
+        "muted": "#607668"
+      },
+      "fonts": {
+        "display": {
+          "family": "Sora",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Phones in hand, everyday moments, clean graphics",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm, trustworthy, friendly"
+        }
+      },
+      "music": "Light electronic, optimistic"
+    },
+    "products": [
+      {
+        "name": "Round-up Savings",
+        "description": "Our signature money app offer.",
+        "benefits": [
+          "Feeling in control",
+          "Saving without thinking"
+        ],
+        "proof": [],
+        "price": "Free"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Money basics",
+        "description": "Plain-English money tips"
+      },
+      {
+        "name": "In the app",
+        "description": "Features that help"
+      },
+      {
+        "name": "Goals",
+        "description": "Customer saving stories"
+      }
+    ],
+    "ctas": [
+      "Open an account",
+      "Download the app",
+      "Start saving"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@pennyjar",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@pennyjar",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@pennyjar",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#pennyjar"
+      ],
+      "rotating": [
+        "#save",
+        "#control"
+      ]
+    }
+  }
+}

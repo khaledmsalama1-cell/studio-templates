@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "kettlebell-district",
+  "name": "Kettlebell District",
+  "industry": "fitness",
+  "industryLabel": "Gyms & fitness",
+  "tagline": "Kettlebells only. Results always.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#3B1616\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EAEA\">KD</text></svg>",
+  "brand": {
+    "name": "Kettlebell District",
+    "slug": "kettlebell-district",
+    "tagline": "Kettlebells only. Results always.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every busy person getting back in shape visible progress.",
+      "positioning": "For the busy person getting back in shape who wants visible progress, Kettlebell District is the gym that makes it easy, unlike the usual options.",
+      "values": [
+        "energetic",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "energetic",
+        "direct",
+        "encouraging"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Busy person getting back in shape",
+        "description": "People who visible progress.",
+        "pains": [
+          "No time",
+          "Intimidating gyms"
+        ],
+        "desires": [
+          "Visible progress",
+          "A routine that sticks"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "energetic",
+        "direct",
+        "encouraging"
+      ],
+      "do": [
+        "Short, punchy lines",
+        "Celebrate effort"
+      ],
+      "dont": [
+        "Body shaming",
+        "Unrealistic promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "strong",
+          "progress",
+          "show up"
+        ],
+        "avoid": [
+          "beach body",
+          "no pain no gain"
+        ]
+      },
+      "examples": [
+        "Kettlebells only. Results always.",
+        "Starter Kettlebell Course: visible progress, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B1616",
+        "secondary": "#F5EAEA",
+        "accent": "#AA8518",
+        "background": "#FAF5F5",
+        "ink": "#221111",
+        "muted": "#766060"
+      },
+      "fonts": {
+        "display": {
+          "family": "Archivo Black",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Archivo",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "High contrast, motion, sweat, real members",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Coach: upbeat, firm, motivating"
+        }
+      },
+      "music": "Driving electronic, 120–128 BPM"
+    },
+    "products": [
+      {
+        "name": "Starter Kettlebell Course",
+        "description": "Our signature gym offer.",
+        "benefits": [
+          "Visible progress",
+          "A routine that sticks"
+        ],
+        "proof": [],
+        "price": "$79"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Train",
+        "description": "Workouts and form tips"
+      },
+      {
+        "name": "Fuel",
+        "description": "Simple nutrition habits"
+      },
+      {
+        "name": "Members",
+        "description": "Progress stories"
+      }
+    ],
+    "ctas": [
+      "Book a free class",
+      "Join today",
+      "Save this workout"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@kettlebelldistrict",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@kettlebelldistrict",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@kettlebelldistrict",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#kettlebelldistrict"
+      ],
+      "rotating": [
+        "#strong",
+        "#progress"
+      ]
+    }
+  }
+}

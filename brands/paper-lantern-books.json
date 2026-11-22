@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "paper-lantern-books",
+  "name": "Paper Lantern Books",
+  "industry": "books",
+  "industryLabel": "Bookshops",
+  "tagline": "Translated fiction from around the world.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#3B1616\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EAEA\">PL</text></svg>",
+  "brand": {
+    "name": "Paper Lantern Books",
+    "slug": "paper-lantern-books",
+    "tagline": "Translated fiction from around the world.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every curious reader a great next book.",
+      "positioning": "For the curious reader who wants a great next book, Paper Lantern Books is the bookshop that makes it easy, unlike the usual options.",
+      "values": [
+        "thoughtful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "thoughtful",
+        "witty",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Curious reader",
+        "description": "People who a great next book.",
+        "pains": [
+          "Not knowing what to read next",
+          "Algorithm picks"
+        ],
+        "desires": [
+          "A great next book",
+          "Recommendations from people"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "thoughtful",
+        "witty",
+        "warm"
+      ],
+      "do": [
+        "Quote lines from books",
+        "Recommend with reasons"
+      ],
+      "dont": [
+        "Spoilers",
+        "Snobbery"
+      ],
+      "vocabulary": {
+        "use": [
+          "read",
+          "story",
+          "shelf"
+        ],
+        "avoid": [
+          "bookworm",
+          "must-read"
+        ]
+      },
+      "examples": [
+        "Translated fiction from around the world.",
+        "World Fiction Box: a great next book, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B1616",
+        "secondary": "#F5EAEA",
+        "accent": "#AA8518",
+        "background": "#FAF5F5",
+        "ink": "#221111",
+        "muted": "#766060"
+      },
+      "fonts": {
+        "display": {
+          "family": "Libre Caslon Text",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Shelves, paper texture, reading corners",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Bookseller: thoughtful, dry humour"
+        }
+      },
+      "music": "Quiet cello or piano"
+    },
+    "products": [
+      {
+        "name": "World Fiction Box",
+        "description": "Our signature bookshop offer.",
+        "benefits": [
+          "A great next book",
+          "Recommendations from people"
+        ],
+        "proof": [],
+        "price": "$40"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Staff picks",
+        "description": "Books we love and why"
+      },
+      {
+        "name": "Events",
+        "description": "Readings and clubs"
+      },
+      {
+        "name": "Reading life",
+        "description": "Habits, shelves and quotes"
+      }
+    ],
+    "ctas": [
+      "Find your next read",
+      "Join the book club",
+      "Visit the shop"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@paperlanternbooks",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@paperlanternbooks",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@paperlanternbooks",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#paperlanternbooks"
+      ],
+      "rotating": [
+        "#read",
+        "#story"
+      ]
+    }
+  }
+}

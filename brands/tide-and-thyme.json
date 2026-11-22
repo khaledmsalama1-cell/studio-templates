@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "tide-and-thyme",
+  "name": "Tide & Thyme",
+  "industry": "restaurant",
+  "industryLabel": "Restaurants",
+  "tagline": "Seafood from the morning catch.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#16323B\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF2F5\">TT</text></svg>",
+  "brand": {
+    "name": "Tide & Thyme",
+    "slug": "tide-and-thyme",
+    "tagline": "Seafood from the morning catch.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every local food lover a place worth coming back to.",
+      "positioning": "For the local food lover who wants a place worth coming back to, Tide & Thyme is the restaurant that makes it easy, unlike the usual options.",
+      "values": [
+        "welcoming",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "welcoming",
+        "lively",
+        "confident"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Local food lover",
+        "description": "People who a place worth coming back to.",
+        "pains": [
+          "Same old places",
+          "Disappointing meals out"
+        ],
+        "desires": [
+          "A place worth coming back to",
+          "Something new to try"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "welcoming",
+        "lively",
+        "confident"
+      ],
+      "do": [
+        "Show the food close up",
+        "Mention what's seasonal"
+      ],
+      "dont": [
+        "Long ingredient lists",
+        "Exclamation marks"
+      ],
+      "vocabulary": {
+        "use": [
+          "seasonal",
+          "fresh",
+          "table"
+        ],
+        "avoid": [
+          "foodie",
+          "mouth-watering"
+        ]
+      },
+      "examples": [
+        "Seafood from the morning catch.",
+        "Catch of the Day: a place worth coming back to, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#16323B",
+        "secondary": "#EAF2F5",
+        "accent": "#DF6020",
+        "background": "#F5F8FA",
+        "ink": "#111E22",
+        "muted": "#607076"
+      },
+      "fonts": {
+        "display": {
+          "family": "DM Serif Display",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "DM Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Overhead plates, flame, busy pass, candlelight",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Host at the door: warm, quick, sure"
+        }
+      },
+      "music": "Upbeat soul or bossa nova"
+    },
+    "products": [
+      {
+        "name": "Catch of the Day",
+        "description": "Our signature restaurant offer.",
+        "benefits": [
+          "A place worth coming back to",
+          "Something new to try"
+        ],
+        "proof": [],
+        "price": "Market price"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "On the menu",
+        "description": "Dishes and what's in season"
+      },
+      {
+        "name": "In the kitchen",
+        "description": "Chefs and process"
+      },
+      {
+        "name": "Tables",
+        "description": "Guests, events and moments"
+      }
+    ],
+    "ctas": [
+      "Book a table",
+      "See the menu",
+      "Order for delivery"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@tideandthyme",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@tideandthyme",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@tideandthyme",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#tideandthyme"
+      ],
+      "rotating": [
+        "#seasonal",
+        "#fresh"
+      ]
+    }
+  }
+}

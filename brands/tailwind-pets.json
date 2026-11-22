@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "tailwind-pets",
+  "name": "Tailwind Pet Supply",
+  "industry": "pets",
+  "industryLabel": "Pet care",
+  "tagline": "Gear for adventurous dogs.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#162C3B\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF1F5\">TP</text></svg>",
+  "brand": {
+    "name": "Tailwind Pet Supply",
+    "slug": "tailwind-pets",
+    "tagline": "Gear for adventurous dogs.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every devoted pet parent happy, healthy pets.",
+      "positioning": "For the devoted pet parent who wants happy, healthy pets, Tailwind Pet Supply is the pet brand that makes it easy, unlike the usual options.",
+      "values": [
+        "playful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "playful",
+        "caring",
+        "trustworthy"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Devoted pet parent",
+        "description": "People who happy, healthy pets.",
+        "pains": [
+          "Unhealthy treats",
+          "Bored pets"
+        ],
+        "desires": [
+          "Happy, healthy pets",
+          "Products they can trust"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "playful",
+        "caring",
+        "trustworthy"
+      ],
+      "do": [
+        "Show real pets",
+        "Use their names"
+      ],
+      "dont": [
+        "Guilt-tripping owners",
+        "Medical claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "happy",
+          "healthy",
+          "tail wags"
+        ],
+        "avoid": [
+          "fur baby overload",
+          "best ever"
+        ]
+      },
+      "examples": [
+        "Gear for adventurous dogs.",
+        "Trail Harness: happy, healthy pets, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#162C3B",
+        "secondary": "#EAF1F5",
+        "accent": "#CD751D",
+        "background": "#F5F8FA",
+        "ink": "#111B22",
+        "muted": "#606D76"
+      },
+      "fonts": {
+        "display": {
+          "family": "Fredoka",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Pets at eye level, natural light, mess allowed",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Cheerful, warm, a little silly"
+        }
+      },
+      "music": "Upbeat ukulele"
+    },
+    "products": [
+      {
+        "name": "Trail Harness",
+        "description": "Our signature pet brand offer.",
+        "benefits": [
+          "Happy, healthy pets",
+          "Products they can trust"
+        ],
+        "proof": [],
+        "price": "$45"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Happy pets",
+        "description": "Customer pets and stories"
+      },
+      {
+        "name": "Care tips",
+        "description": "Health and training tips"
+      },
+      {
+        "name": "What's inside",
+        "description": "Ingredients and safety"
+      }
+    ],
+    "ctas": [
+      "Shop treats",
+      "Book grooming",
+      "Tag your pet"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@tailwindpets",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@tailwindpets",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@tailwindpets",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#tailwindpets"
+      ],
+      "rotating": [
+        "#happy",
+        "#healthy"
+      ]
+    }
+  }
+}

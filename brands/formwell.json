@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "formwell",
+  "name": "Formwell",
+  "industry": "saas",
+  "industryLabel": "Software & SaaS",
+  "tagline": "Forms people actually finish.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#9C3C1C\"/><text x=\"100\" y=\"129\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"84\" fill=\"#F9F6F5\">F</text></svg>",
+  "brand": {
+    "name": "Formwell",
+    "slug": "formwell",
+    "tagline": "Forms people actually finish.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every overloaded team lead time back.",
+      "positioning": "For the overloaded team lead who wants time back, Formwell is the tool that makes it easy, unlike the usual options.",
+      "values": [
+        "clear",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "clear",
+        "helpful",
+        "confident"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Overloaded team lead",
+        "description": "People who time back.",
+        "pains": [
+          "Scattered tools",
+          "Manual busywork"
+        ],
+        "desires": [
+          "Time back",
+          "A team that's in sync"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "clear",
+        "helpful",
+        "confident"
+      ],
+      "do": [
+        "Show the product",
+        "Lead with the outcome"
+      ],
+      "dont": [
+        "Buzzwords",
+        "Vague claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "save time",
+          "workflow",
+          "team"
+        ],
+        "avoid": [
+          "synergy",
+          "revolutionary"
+        ]
+      },
+      "examples": [
+        "Forms people actually finish.",
+        "Pro Forms: time back, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#9C3C1C",
+        "secondary": "#F9F6F5",
+        "accent": "#207FDF",
+        "background": "#FAF6F5",
+        "ink": "#221511",
+        "muted": "#766660"
+      },
+      "fonts": {
+        "display": {
+          "family": "Inter Tight",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Inter",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Clean UI close-ups, real teams, desks",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Clear, friendly product expert"
+        }
+      },
+      "music": "Minimal electronic"
+    },
+    "products": [
+      {
+        "name": "Pro Forms",
+        "description": "Our signature tool offer.",
+        "benefits": [
+          "Time back",
+          "A team that's in sync"
+        ],
+        "proof": [],
+        "price": "$19 / month"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Product tips",
+        "description": "Features and shortcuts"
+      },
+      {
+        "name": "Ways of working",
+        "description": "Ideas for better work"
+      },
+      {
+        "name": "Customers",
+        "description": "How teams use it"
+      }
+    ],
+    "ctas": [
+      "Start free",
+      "Book a demo",
+      "See how it works"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@formwell",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@formwell",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@formwell",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#formwell"
+      ],
+      "rotating": [
+        "#save time",
+        "#workflow"
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "lotus-and-light",
+  "name": "Lotus & Light",
+  "industry": "yoga",
+  "industryLabel": "Yoga & wellness",
+  "tagline": "Yoga for every body.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#EBCBEB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#341434\">LL</text></svg>",
+  "brand": {
+    "name": "Lotus & Light",
+    "slug": "lotus-and-light",
+    "tagline": "Yoga for every body.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every stressed professional seeking calm calm and flexibility.",
+      "positioning": "For the stressed professional seeking calm who wants calm and flexibility, Lotus & Light is the studio that makes it easy, unlike the usual options.",
+      "values": [
+        "calm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "calm",
+        "kind",
+        "grounded"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Stressed professional seeking calm",
+        "description": "People who calm and flexibility.",
+        "pains": [
+          "Stress and stiffness",
+          "Feeling like a beginner"
+        ],
+        "desires": [
+          "Calm and flexibility",
+          "A welcoming space"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "calm",
+        "kind",
+        "grounded"
+      ],
+      "do": [
+        "Invite, don't push",
+        "Use breath language"
+      ],
+      "dont": [
+        "Extreme poses as the norm",
+        "Spiritual jargon"
+      ],
+      "vocabulary": {
+        "use": [
+          "breathe",
+          "practice",
+          "gentle"
+        ],
+        "avoid": [
+          "detox",
+          "perfect pose"
+        ]
+      },
+      "examples": [
+        "Yoga for every body.",
+        "Beginner Series: calm and flexibility, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#EBCBEB",
+        "secondary": "#341434",
+        "accent": "#17A173",
+        "background": "#FAF5FA",
+        "ink": "#221122",
+        "muted": "#766076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Lora",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Natural light, plants, soft linen tones",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Soft, slow, warm teacher"
+        }
+      },
+      "music": "Ambient pads, birdsong"
+    },
+    "products": [
+      {
+        "name": "Beginner Series",
+        "description": "Our signature studio offer.",
+        "benefits": [
+          "Calm and flexibility",
+          "A welcoming space"
+        ],
+        "proof": [],
+        "price": "$80"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Practice",
+        "description": "Short flows and poses"
+      },
+      {
+        "name": "Breathe",
+        "description": "Breathing and mindfulness"
+      },
+      {
+        "name": "Community",
+        "description": "Teachers and students"
+      }
+    ],
+    "ctas": [
+      "Book your first class",
+      "Try a free flow",
+      "Join the retreat"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@lotusandlight",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@lotusandlight",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@lotusandlight",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#lotusandlight"
+      ],
+      "rotating": [
+        "#breathe",
+        "#practice"
+      ]
+    }
+  }
+}

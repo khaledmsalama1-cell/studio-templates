@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "tiny-heirloom",
+  "name": "Tiny Heirloom",
+  "industry": "jewelry",
+  "industryLabel": "Jewellery",
+  "tagline": "Personalised pieces to pass down.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#EBD6CB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#341E14\">TH</text></svg>",
+  "brand": {
+    "name": "Tiny Heirloom",
+    "slug": "tiny-heirloom",
+    "tagline": "Personalised pieces to pass down.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every meaningful-gift buyer something personal.",
+      "positioning": "For the meaningful-gift buyer who wants something personal, Tiny Heirloom is the jeweller that makes it easy, unlike the usual options.",
+      "values": [
+        "refined",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Meaningful-gift buyer",
+        "description": "People who something personal.",
+        "pains": [
+          "Generic gifts",
+          "Jewellery that tarnishes"
+        ],
+        "desires": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "do": [
+        "Close-up detail shots",
+        "Tell gift stories"
+      ],
+      "dont": [
+        "Discount shouting",
+        "Over-sparkle"
+      ],
+      "vocabulary": {
+        "use": [
+          "handmade",
+          "everyday",
+          "gift"
+        ],
+        "avoid": [
+          "bling",
+          "luxury lifestyle"
+        ]
+      },
+      "examples": [
+        "Personalised pieces to pass down.",
+        "Engraved Locket: something personal, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#EBD6CB",
+        "secondary": "#341E14",
+        "accent": "#207FDF",
+        "background": "#FAF7F5",
+        "ink": "#221711",
+        "muted": "#766860"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Macro detail, skin tones, soft shadows",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Soft, intimate, assured"
+        }
+      },
+      "music": "Gentle piano"
+    },
+    "products": [
+      {
+        "name": "Engraved Locket",
+        "description": "Our signature jeweller offer.",
+        "benefits": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "proof": [],
+        "price": "$95"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Pieces",
+        "description": "New and signature pieces"
+      },
+      {
+        "name": "Made by hand",
+        "description": "The bench and the craft"
+      },
+      {
+        "name": "Stories",
+        "description": "Gifts and the people behind them"
+      }
+    ],
+    "ctas": [
+      "Shop the collection",
+      "Book a custom piece",
+      "Find the perfect gift"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@tinyheirloom",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@tinyheirloom",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@tinyheirloom",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#tinyheirloom"
+      ],
+      "rotating": [
+        "#handmade",
+        "#everyday"
+      ]
+    }
+  }
+}

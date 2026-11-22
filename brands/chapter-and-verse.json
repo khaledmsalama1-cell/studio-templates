@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "chapter-and-verse",
+  "name": "Chapter & Verse",
+  "industry": "books",
+  "industryLabel": "Bookshops",
+  "tagline": "Poetry and fiction, picked by people.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#23163B\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EEEAF5\">CV</text></svg>",
+  "brand": {
+    "name": "Chapter & Verse",
+    "slug": "chapter-and-verse",
+    "tagline": "Poetry and fiction, picked by people.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every curious reader a great next book.",
+      "positioning": "For the curious reader who wants a great next book, Chapter & Verse is the bookshop that makes it easy, unlike the usual options.",
+      "values": [
+        "thoughtful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "thoughtful",
+        "witty",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Curious reader",
+        "description": "People who a great next book.",
+        "pains": [
+          "Not knowing what to read next",
+          "Algorithm picks"
+        ],
+        "desires": [
+          "A great next book",
+          "Recommendations from people"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "thoughtful",
+        "witty",
+        "warm"
+      ],
+      "do": [
+        "Quote lines from books",
+        "Recommend with reasons"
+      ],
+      "dont": [
+        "Spoilers",
+        "Snobbery"
+      ],
+      "vocabulary": {
+        "use": [
+          "read",
+          "story",
+          "shelf"
+        ],
+        "avoid": [
+          "bookworm",
+          "must-read"
+        ]
+      },
+      "examples": [
+        "Poetry and fiction, picked by people.",
+        "Staff Pick Subscription: a great next book, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#23163B",
+        "secondary": "#EEEAF5",
+        "accent": "#CD751D",
+        "background": "#F7F5FA",
+        "ink": "#171122",
+        "muted": "#686076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Libre Caslon Text",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Shelves, paper texture, reading corners",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Bookseller: thoughtful, dry humour"
+        }
+      },
+      "music": "Quiet cello or piano"
+    },
+    "products": [
+      {
+        "name": "Staff Pick Subscription",
+        "description": "Our signature bookshop offer.",
+        "benefits": [
+          "A great next book",
+          "Recommendations from people"
+        ],
+        "proof": [],
+        "price": "$22 / month"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Staff picks",
+        "description": "Books we love and why"
+      },
+      {
+        "name": "Events",
+        "description": "Readings and clubs"
+      },
+      {
+        "name": "Reading life",
+        "description": "Habits, shelves and quotes"
+      }
+    ],
+    "ctas": [
+      "Find your next read",
+      "Join the book club",
+      "Visit the shop"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@chapterandverse",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@chapterandverse",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@chapterandverse",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#chapterandverse"
+      ],
+      "rotating": [
+        "#read",
+        "#story"
+      ]
+    }
+  }
+}

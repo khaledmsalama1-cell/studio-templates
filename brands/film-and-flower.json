@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "film-and-flower",
+  "name": "Film & Flower",
+  "industry": "photo",
+  "industryLabel": "Photography & studios",
+  "tagline": "Film photography for couples.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#EBCBDB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#341424\">FF</text></svg>",
+  "brand": {
+    "name": "Film & Flower",
+    "slug": "film-and-flower",
+    "tagline": "Film photography for couples.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every couple planning a wedding natural, timeless photos.",
+      "positioning": "For the couple planning a wedding who wants natural, timeless photos, Film & Flower is the studio that makes it easy, unlike the usual options.",
+      "values": [
+        "romantic",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "romantic",
+        "relaxed",
+        "honest"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Couple planning a wedding",
+        "description": "People who natural, timeless photos.",
+        "pains": [
+          "Stiff photos",
+          "Not knowing how to pose"
+        ],
+        "desires": [
+          "Natural, timeless photos",
+          "Feeling relaxed"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "romantic",
+        "relaxed",
+        "honest"
+      ],
+      "do": [
+        "Let photos lead",
+        "Share the story behind a shot"
+      ],
+      "dont": [
+        "Over-editing",
+        "Pushy packages"
+      ],
+      "vocabulary": {
+        "use": [
+          "moment",
+          "natural",
+          "light"
+        ],
+        "avoid": [
+          "magical",
+          "once in a lifetime"
+        ]
+      },
+      "examples": [
+        "Film photography for couples.",
+        "Elopement Package: natural, timeless photos, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#EBCBDB",
+        "secondary": "#341424",
+        "accent": "#579816",
+        "background": "#FAF5F7",
+        "ink": "#22111A",
+        "muted": "#76606B"
+      },
+      "fonts": {
+        "display": {
+          "family": "Italiana",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Jost",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Film tones, candid moments, soft light",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Warm, gentle storyteller"
+        }
+      },
+      "music": "Cinematic strings"
+    },
+    "products": [
+      {
+        "name": "Elopement Package",
+        "description": "Our signature studio offer.",
+        "benefits": [
+          "Natural, timeless photos",
+          "Feeling relaxed"
+        ],
+        "proof": [],
+        "price": "$1,600"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Portfolio",
+        "description": "Recent sessions"
+      },
+      {
+        "name": "Tips",
+        "description": "How to prepare for a shoot"
+      },
+      {
+        "name": "Love notes",
+        "description": "Client stories"
+      }
+    ],
+    "ctas": [
+      "Check your date",
+      "Book a session",
+      "See the portfolio"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@filmandflower",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@filmandflower",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@filmandflower",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#filmandflower"
+      ],
+      "rotating": [
+        "#moment",
+        "#natural"
+      ]
+    }
+  }
+}

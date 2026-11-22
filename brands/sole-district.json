@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "sole-district",
+  "name": "Sole District",
+  "industry": "streetwear",
+  "industryLabel": "Streetwear & sneakers",
+  "tagline": "Rare sneakers, verified.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#23163B\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EEEAF5\">SD</text></svg>",
+  "brand": {
+    "name": "Sole District",
+    "slug": "sole-district",
+    "tagline": "Rare sneakers, verified.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every drop hunter limited pieces.",
+      "positioning": "For the drop hunter who wants limited pieces, Sole District is the label that makes it easy, unlike the usual options.",
+      "values": [
+        "bold",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Drop hunter",
+        "description": "People who limited pieces.",
+        "pains": [
+          "Missing drops",
+          "Looking like everyone else"
+        ],
+        "desires": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "do": [
+        "Keep it short",
+        "Talk like the community"
+      ],
+      "dont": [
+        "Corporate language",
+        "Try-hard slang"
+      ],
+      "vocabulary": {
+        "use": [
+          "drop",
+          "fit",
+          "limited"
+        ],
+        "avoid": [
+          "fashionista",
+          "trendy"
+        ]
+      },
+      "examples": [
+        "Rare sneakers, verified.",
+        "Authenticated Sneaker Drop: limited pieces, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#23163B",
+        "secondary": "#EEEAF5",
+        "accent": "#A18A17",
+        "background": "#F7F5FA",
+        "ink": "#171122",
+        "muted": "#686076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Bebas Neue",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Barlow",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "Flash photography, concrete, close-up sneakers",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Hype but chill, young"
+        }
+      },
+      "music": "Hip-hop beats, 90 BPM"
+    },
+    "products": [
+      {
+        "name": "Authenticated Sneaker Drop",
+        "description": "Our signature label offer.",
+        "benefits": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "proof": [],
+        "price": "From $160"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Drops",
+        "description": "Releases and restocks"
+      },
+      {
+        "name": "Fits",
+        "description": "How people wear it"
+      },
+      {
+        "name": "Culture",
+        "description": "Music, art and the scene"
+      }
+    ],
+    "ctas": [
+      "Shop the drop",
+      "Get notified",
+      "Link in bio"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@soledistrict",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@soledistrict",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@soledistrict",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#soledistrict"
+      ],
+      "rotating": [
+        "#drop",
+        "#fit"
+      ]
+    }
+  }
+}

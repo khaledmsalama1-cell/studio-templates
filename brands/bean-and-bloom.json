@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "bean-and-bloom",
+  "name": "Bean & Bloom",
+  "industry": "coffee",
+  "industryLabel": "Coffee & cafés",
+  "tagline": "A café with a flower shop inside.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#EBCBD6\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#50A117\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#34141E\">BB</text></svg>",
+  "brand": {
+    "name": "Bean & Bloom",
+    "slug": "bean-and-bloom",
+    "tagline": "A café with a flower shop inside.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every morning ritualist a café-quality cup at home.",
+      "positioning": "For the morning ritualist who wants a café-quality cup at home, Bean & Bloom is the roaster that makes it easy, unlike the usual options.",
+      "values": [
+        "warm",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "warm",
+        "unhurried",
+        "knowledgeable"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Morning ritualist",
+        "description": "People who a café-quality cup at home.",
+        "pains": [
+          "Bitter, stale coffee",
+          "Rushed mornings"
+        ],
+        "desires": [
+          "A café-quality cup at home",
+          "A small daily pleasure"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "warm",
+        "unhurried",
+        "knowledgeable"
+      ],
+      "do": [
+        "Use sensory words",
+        "Explain one idea at a time"
+      ],
+      "dont": [
+        "Coffee snobbery",
+        "Hype"
+      ],
+      "vocabulary": {
+        "use": [
+          "fresh",
+          "roast",
+          "brew"
+        ],
+        "avoid": [
+          "artisanal",
+          "elevate"
+        ]
+      },
+      "examples": [
+        "A café with a flower shop inside.",
+        "Rose Latte: a café-quality cup at home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#EBCBD6",
+        "secondary": "#34141E",
+        "accent": "#50A117",
+        "background": "#FAF5F7",
+        "ink": "#221117",
+        "muted": "#766068"
+      },
+      "fonts": {
+        "display": {
+          "family": "Fraunces",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "DM Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Morning light, hands and steam, warm browns",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Friendly barista, calm, 30s"
+        }
+      },
+      "music": "Lo-fi acoustic, 80–90 BPM"
+    },
+    "products": [
+      {
+        "name": "Rose Latte",
+        "description": "Our signature roaster offer.",
+        "benefits": [
+          "A café-quality cup at home",
+          "A small daily pleasure"
+        ],
+        "proof": [],
+        "price": "$5.20"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Brew better",
+        "description": "Quick tips that make coffee taste better"
+      },
+      {
+        "name": "From the roaster",
+        "description": "Sourcing and roasting, behind the scenes"
+      },
+      {
+        "name": "Regulars",
+        "description": "Customers and their rituals"
+      }
+    ],
+    "ctas": [
+      "Order fresh beans",
+      "Visit the café",
+      "Save this for tomorrow's brew"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@beanandbloom",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@beanandbloom",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@beanandbloom",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#beanandbloom"
+      ],
+      "rotating": [
+        "#fresh",
+        "#roast"
+      ]
+    }
+  }
+}

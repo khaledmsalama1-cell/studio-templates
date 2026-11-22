@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "ember-and-gold",
+  "name": "Ember & Gold",
+  "industry": "jewelry",
+  "industryLabel": "Jewellery",
+  "tagline": "Bold pieces for bold days.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#3B1D16\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5ECEA\">EG</text></svg>",
+  "brand": {
+    "name": "Ember & Gold",
+    "slug": "ember-and-gold",
+    "tagline": "Bold pieces for bold days.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every meaningful-gift buyer something personal.",
+      "positioning": "For the meaningful-gift buyer who wants something personal, Ember & Gold is the jeweller that makes it easy, unlike the usual options.",
+      "values": [
+        "refined",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Meaningful-gift buyer",
+        "description": "People who something personal.",
+        "pains": [
+          "Generic gifts",
+          "Jewellery that tarnishes"
+        ],
+        "desires": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "do": [
+        "Close-up detail shots",
+        "Tell gift stories"
+      ],
+      "dont": [
+        "Discount shouting",
+        "Over-sparkle"
+      ],
+      "vocabulary": {
+        "use": [
+          "handmade",
+          "everyday",
+          "gift"
+        ],
+        "avoid": [
+          "bling",
+          "luxury lifestyle"
+        ]
+      },
+      "examples": [
+        "Bold pieces for bold days.",
+        "Statement Hoops: something personal, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B1D16",
+        "secondary": "#F5ECEA",
+        "accent": "#AA8518",
+        "background": "#FAF6F5",
+        "ink": "#221411",
+        "muted": "#766460"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Macro detail, skin tones, soft shadows",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Soft, intimate, assured"
+        }
+      },
+      "music": "Gentle piano"
+    },
+    "products": [
+      {
+        "name": "Statement Hoops",
+        "description": "Our signature jeweller offer.",
+        "benefits": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "proof": [],
+        "price": "$150"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Pieces",
+        "description": "New and signature pieces"
+      },
+      {
+        "name": "Made by hand",
+        "description": "The bench and the craft"
+      },
+      {
+        "name": "Stories",
+        "description": "Gifts and the people behind them"
+      }
+    ],
+    "ctas": [
+      "Shop the collection",
+      "Book a custom piece",
+      "Find the perfect gift"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@emberandgold",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@emberandgold",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@emberandgold",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#emberandgold"
+      ],
+      "rotating": [
+        "#handmade",
+        "#everyday"
+      ]
+    }
+  }
+}

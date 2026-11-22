@@ -1,6 +1,6 @@
 # studio-templates
 
-The template registry for [Brand Content Studio](https://github.com/khaledmsalama1-cell/brand-content-studio): 110 templates — 97 ready-to-use studio templates and 13 external starters.
+The template registry for [Brand Content Studio](https://github.com/khaledmsalama1-cell/brand-content-studio): 110 templates — 97 ready-to-use studio templates and 13 external starters — plus 100 brand starters.
 
 The Studio scans this repo (**Apps → Sources → Refresh**) and shows the templates in **Create → Templates**, each drawn live in your brand's colours, fonts and logo. Picking one creates a project with the template's scenes, filled in from the brand.
 
@@ -180,3 +180,207 @@ External starters (official Remotion templates, HyperFrames examples) are listed
 | [Remotion Still images](https://github.com/remotion-dev/template-still) | remotion | Generate images (social cards, thumbnails) with Remotion. |
 | [Remotion Three.js](https://github.com/remotion-dev/template-three) | remotion | 3D scenes with React Three Fiber. |
 | [Remotion TikTok captions](https://github.com/remotion-dev/template-tiktok) | remotion | Official template with animated, word-by-word TikTok-style captions from a video. |
+
+## Brand starters — 100
+
+Fictional brands with complete kits (positioning, audience, voice, palette, fonts, logo, products, content pillars). In the Studio: **Brands → Add a brand → Start from a brand template**. Any resemblance to a real business is unintended.
+
+### Sustainable goods
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Bare Necessities](brands/bare-necessities.json) | Plastic-free bathroom basics. | Fraunces / Mulish |
+| [Loop Goods](brands/loop-goods.json) | Reusable everything. | Fraunces / Mulish |
+| [Refill Roots](brands/refill-roots.json) | Refill shop for the whole home. | Fraunces / Mulish |
+| [Second Life Co.](brands/second-life-co.json) | Pre-loved furniture, restored. | Fraunces / Mulish |
+| [Sun Cycle](brands/sun-cycle.json) | Solar gadgets for everyday life. | Fraunces / Mulish |
+
+### Coffee & cafés
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Bean & Bloom](brands/bean-and-bloom.json) | A café with a flower shop inside. | Fraunces / DM Sans |
+| [Copper Kettle Roasters](brands/copper-kettle.json) | Roasted on Tuesday, in your cup by Friday. | Fraunces / DM Sans |
+| [Crema Corner](brands/crema-corner.json) | The neighbourhood café that knows your order. | Fraunces / DM Sans |
+| [Dawn Patrol Coffee](brands/dawn-patrol-coffee.json) | Coffee for people who are up before the sun. | Fraunces / DM Sans |
+| [North Pour](brands/north-pour.json) | Light roasts for slow mornings. | Fraunces / DM Sans |
+
+### Skincare & beauty
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Bloom Ritual](brands/bloom-ritual.json) | Botanical body care for slow evenings. | Cormorant Garamond / Lato |
+| [Dew Theory](brands/dew-theory.json) | Hydration, explained. | Cormorant Garamond / Lato |
+| [Lumen Skin](brands/lumen-skin.json) | Gentle actives for sensitive skin. | Cormorant Garamond / Lato |
+| [Oat & Ash](brands/oat-and-ash.json) | Three-step skincare. Nothing extra. | Cormorant Garamond / Lato |
+| [Velvet Clay](brands/velvet-clay.json) | Clay masks with a softer touch. | Cormorant Garamond / Lato |
+
+### Yoga & wellness
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Breathe Collective](brands/breathe-collective.json) | Breathwork and yoga retreats. | Lora / Nunito Sans |
+| [Lotus & Light](brands/lotus-and-light.json) | Yoga for every body. | Lora / Nunito Sans |
+| [Mat & Mind](brands/mat-and-mind.json) | Movement and mindfulness, 30 minutes a day. | Lora / Nunito Sans |
+| [Still Water Yoga](brands/still-water-yoga.json) | A quiet room in a busy city. | Lora / Nunito Sans |
+| [Sun Salute Studio](brands/sunsalute-studio.json) | Morning flows to start the day right. | Lora / Nunito Sans |
+
+### Real estate
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Brick & Beam](brands/brick-and-beam.json) | Character homes in old neighbourhoods. | Marcellus / Manrope |
+| [Coastline Living](brands/coastline-living.json) | Homes by the water. | Marcellus / Manrope |
+| [Keystone Homes](brands/keystone-homes.json) | Your first home, step by step. | Marcellus / Manrope |
+| [Open Door Realty](brands/open-door-realty.json) | Homes with room to grow. | Marcellus / Manrope |
+| [Urban Nest](brands/urban-nest.json) | City apartments, honestly described. | Marcellus / Manrope |
+
+### Clinics & dental
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Bright Dental Care](brands/bright-dental.json) | Family dentistry, Saturdays too. | Outfit / Outfit |
+| [Calm Cove Clinic](brands/calm-cove-clinic.json) | Skin and laser clinic, explained simply. | Outfit / Outfit |
+| [Clearview Optics](brands/clearview-optics.json) | Eye tests and frames you'll love. | Outfit / Outfit |
+| [Gentle Hands Physio](brands/gentle-hands-clinic.json) | Physiotherapy that gets you moving. | Outfit / Outfit |
+| [Smile Studio Dental](brands/smile-studio.json) | Check-ups without the dread. | Outfit / Outfit |
+
+### Kids & education
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Bright Sparks Tutoring](brands/bright-sparks.json) | Tutoring that builds confidence. | Baloo 2 / Nunito |
+| [Little Makers](brands/little-makers.json) | Craft and science classes for ages 5–10. | Baloo 2 / Nunito |
+| [Play Lab](brands/play-lab.json) | Holiday camps where kids build things. | Baloo 2 / Nunito |
+| [Story Sprouts](brands/story-sprouts.json) | Reading adventures for early readers. | Baloo 2 / Nunito |
+| [Tiny Coders](brands/tiny-coders.json) | Kids learn to code by making games. | Baloo 2 / Nunito |
+
+### Software & SaaS
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Brightdesk](brands/brightdesk.json) | Customer support that feels personal. | Inter Tight / Inter |
+| [Formwell](brands/formwell.json) | Forms people actually finish. | Inter Tight / Inter |
+| [Ledgerly](brands/ledgerly.json) | Invoices and expenses without the spreadsheet. | Inter Tight / Inter |
+| [Signalbox](brands/signalbox.json) | Know when something breaks before customers do. | Inter Tight / Inter |
+| [Taskflow](brands/taskflow.json) | Plan the week in ten minutes. | Inter Tight / Inter |
+
+### Bakeries
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Butter Lane Bakery](brands/butter-lane.json) | Croissants with 81 layers. We counted. | Young Serif / Karla |
+| [Knead & Co.](brands/knead-and-co.json) | Real bread for real sandwiches. | Young Serif / Karla |
+| [The Little Oven](brands/little-oven.json) | A tiny bakery with big birthday cakes. | Young Serif / Karla |
+| [Rise & Crumb](brands/rise-and-crumb.json) | Sourdough that takes two days. Worth it. | Young Serif / Karla |
+| [Sugar & Salt Patisserie](brands/sugar-and-salt.json) | French pastry, made every morning. | Young Serif / Karla |
+
+### Bookshops
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Chapter & Verse](brands/chapter-and-verse.json) | Poetry and fiction, picked by people. | Libre Caslon Text / Work Sans |
+| [Dog-Eared Books](brands/dog-eared-books.json) | Well-loved books, ready for you. | Libre Caslon Text / Work Sans |
+| [Ink & Index](brands/ink-and-index.json) | Non-fiction for curious minds. | Libre Caslon Text / Work Sans |
+| [Paper Lantern Books](brands/paper-lantern-books.json) | Translated fiction from around the world. | Libre Caslon Text / Work Sans |
+| [The Reading Nook](brands/the-reading-nook.json) | Kids' books and story time. | Libre Caslon Text / Work Sans |
+
+### Streetwear & sneakers
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Concrete Kids](brands/concrete-kids.json) | Streetwear from the skatepark up. | Bebas Neue / Barlow |
+| [Lowkey Supply](brands/lowkey-supply.json) | Quiet logos, loud quality. | Bebas Neue / Barlow |
+| [Neon Alley](brands/neon-alley.json) | Night-time graphics, daytime fits. | Bebas Neue / Barlow |
+| [Rooftop Crew](brands/rooftop-crew.json) | Made in the city, worn on the roof. | Bebas Neue / Barlow |
+| [Sole District](brands/sole-district.json) | Rare sneakers, verified. | Bebas Neue / Barlow |
+
+### Jewellery
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Ember & Gold](brands/ember-and-gold.json) | Bold pieces for bold days. | Cormorant Garamond / Work Sans |
+| [Gilded Thread](brands/gilded-thread.json) | Fine gold for everyday wear. | Cormorant Garamond / Work Sans |
+| [Moonstone Atelier](brands/moonstone-atelier.json) | Stones with stories. | Cormorant Garamond / Work Sans |
+| [Salt & Silver](brands/salt-and-silver.json) | Ocean-inspired silver, made by hand. | Cormorant Garamond / Work Sans |
+| [Tiny Heirloom](brands/tiny-heirloom.json) | Personalised pieces to pass down. | Cormorant Garamond / Work Sans |
+
+### Restaurants
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Ember Table](brands/ember-table.json) | Everything on the menu meets the fire. | DM Serif Display / DM Sans |
+| [Green Bowl Kitchen](brands/green-bowl.json) | Bowls that keep you going till dinner. | DM Serif Display / DM Sans |
+| [Nonna Rosa](brands/nonna-rosa.json) | Pasta rolled by hand, every afternoon. | DM Serif Display / DM Sans |
+| [Saffron Street](brands/saffron-street.json) | Street food from Mumbai, cooked like home. | DM Serif Display / DM Sans |
+| [Tide & Thyme](brands/tide-and-thyme.json) | Seafood from the morning catch. | DM Serif Display / DM Sans |
+
+### Pet care
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Fetch & Feast](brands/fetch-and-feast.json) | Fresh dog food, delivered. | Fredoka / Nunito |
+| [Happy Paws](brands/happy-paws.json) | Treats dogs go wild for, ingredients you'll recognise. | Fredoka / Nunito |
+| [Tailwind Pet Supply](brands/tailwind-pets.json) | Gear for adventurous dogs. | Fredoka / Nunito |
+| [The Good Groomer](brands/the-good-groomer.json) | Calm grooming for nervous dogs. | Fredoka / Nunito |
+| [Whisker & Co.](brands/whisker-and-co.json) | Everything for indoor cats. | Fredoka / Nunito |
+
+### Photography & studios
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Film & Flower](brands/film-and-flower.json) | Film photography for couples. | Italiana / Jost |
+| [Frame & Field](brands/frame-and-field.json) | Outdoor family portraits. | Italiana / Jost |
+| [Golden Hour Studio](brands/golden-hour-studio.json) | Wedding photos that feel like you. | Italiana / Jost |
+| [Headshot House](brands/headshot-house.json) | Headshots in 20 minutes. | Italiana / Jost |
+| [Still Life Co.](brands/still-life-co.json) | Product photography for small brands. | Italiana / Jost |
+
+### Fashion boutiques
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Fold Boutique](brands/fold-boutique.json) | Curated pieces from independent designers. | Playfair Display / Inter |
+| [Maison Verde](brands/maison-verde.json) | Linen, made slowly. | Playfair Display / Inter |
+| [Petal & Hem](brands/petal-and-hem.json) | Dresses for every celebration. | Playfair Display / Inter |
+| [Sunday Tailor](brands/sunday-tailor.json) | Made-to-measure without the fuss. | Playfair Display / Inter |
+| [Thread & Row](brands/thread-and-row.json) | Wardrobe staples that last ten years. | Playfair Display / Inter |
+
+### Gyms & fitness
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Forge Strength Club](brands/forge-strength.json) | Lift heavy, leave strong. | Archivo Black / Archivo |
+| [Iron Tide Gym](brands/iron-tide.json) | Strength training for real life. | Archivo Black / Archivo |
+| [Kettlebell District](brands/kettlebell-district.json) | Kettlebells only. Results always. | Archivo Black / Archivo |
+| [Pulse Lab](brands/pulse-lab.json) | 45-minute classes that count. | Archivo Black / Archivo |
+| [Stride Run Club](brands/stride-run-club.json) | Run together, get faster. | Archivo Black / Archivo |
+
+### Money & fintech
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Future Fund](brands/future-fund.json) | Investing for beginners, in plain English. | Sora / Nunito Sans |
+| [Harborline](brands/harborline.json) | A bank that explains itself. | Sora / Nunito Sans |
+| [Penny Jar](brands/penny-jar.json) | Round up, save up. | Sora / Nunito Sans |
+| [Splitly](brands/splitly.json) | Split bills without the awkward chat. | Sora / Nunito Sans |
+| [Stackwise](brands/stackwise.json) | Budgeting for people who hate budgeting. | Sora / Nunito Sans |
+
+### Plant shops
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Greenhouse Nine](brands/greenhouse-nine.json) | Rare plants from our own greenhouse. | Gloock / Figtree |
+| [Leaf & Light](brands/leaf-and-light.json) | Plants matched to your window. | Gloock / Figtree |
+| [Pothos Place](brands/pothos-place.json) | Hard-to-kill plants for new plant parents. | Gloock / Figtree |
+| [Terra & Twig](brands/terra-and-twig.json) | Plants, pots and good soil. | Gloock / Figtree |
+| [The Fern Room](brands/the-fern-room.json) | A shop full of ferns, and help. | Gloock / Figtree |
+
+### Travel & tours
+
+| Brand | Tagline | Fonts |
+|---|---|---|
+| [Island Hopper](brands/island-hopper.json) | Island trips, sorted. | Syne / Manrope |
+| [Local Lens Tours](brands/local-lens-tours.json) | City tours led by locals. | Syne / Manrope |
+| [Passport Club](brands/passport-club.json) | Weekend city breaks, planned for you. | Syne / Manrope |
+| [Slow Roads](brands/slow-roads.json) | Road trips with the good stops marked. | Syne / Manrope |
+| [Wander Wild Tours](brands/wander-wild.json) | Small-group trips off the beaten path. | Syne / Manrope |

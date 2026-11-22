@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "rooftop-crew",
+  "name": "Rooftop Crew",
+  "industry": "streetwear",
+  "industryLabel": "Streetwear & sneakers",
+  "tagline": "Made in the city, worn on the roof.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#9C3C1C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#1999B2\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F9F6F5\">RC</text></svg>",
+  "brand": {
+    "name": "Rooftop Crew",
+    "slug": "rooftop-crew",
+    "tagline": "Made in the city, worn on the roof.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every drop hunter limited pieces.",
+      "positioning": "For the drop hunter who wants limited pieces, Rooftop Crew is the label that makes it easy, unlike the usual options.",
+      "values": [
+        "bold",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Drop hunter",
+        "description": "People who limited pieces.",
+        "pains": [
+          "Missing drops",
+          "Looking like everyone else"
+        ],
+        "desires": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "bold",
+        "playful",
+        "street-smart"
+      ],
+      "do": [
+        "Keep it short",
+        "Talk like the community"
+      ],
+      "dont": [
+        "Corporate language",
+        "Try-hard slang"
+      ],
+      "vocabulary": {
+        "use": [
+          "drop",
+          "fit",
+          "limited"
+        ],
+        "avoid": [
+          "fashionista",
+          "trendy"
+        ]
+      },
+      "examples": [
+        "Made in the city, worn on the roof.",
+        "Crew Cap: limited pieces, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#9C3C1C",
+        "secondary": "#F9F6F5",
+        "accent": "#1999B2",
+        "background": "#FAF6F5",
+        "ink": "#221511",
+        "muted": "#766660"
+      },
+      "fonts": {
+        "display": {
+          "family": "Bebas Neue",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Barlow",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "Flash photography, concrete, close-up sneakers",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Hype but chill, young"
+        }
+      },
+      "music": "Hip-hop beats, 90 BPM"
+    },
+    "products": [
+      {
+        "name": "Crew Cap",
+        "description": "Our signature label offer.",
+        "benefits": [
+          "Limited pieces",
+          "Being first"
+        ],
+        "proof": [],
+        "price": "$32"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Drops",
+        "description": "Releases and restocks"
+      },
+      {
+        "name": "Fits",
+        "description": "How people wear it"
+      },
+      {
+        "name": "Culture",
+        "description": "Music, art and the scene"
+      }
+    ],
+    "ctas": [
+      "Shop the drop",
+      "Get notified",
+      "Link in bio"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@rooftopcrew",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@rooftopcrew",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@rooftopcrew",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#rooftopcrew"
+      ],
+      "rotating": [
+        "#drop",
+        "#fit"
+      ]
+    }
+  }
+}

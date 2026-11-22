@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "bright-sparks",
+  "name": "Bright Sparks Tutoring",
+  "industry": "kids",
+  "industryLabel": "Kids & education",
+  "tagline": "Tutoring that builds confidence.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#1C469C\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#B27F19\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F7F9\">BS</text></svg>",
+  "brand": {
+    "name": "Bright Sparks Tutoring",
+    "slug": "bright-sparks",
+    "tagline": "Tutoring that builds confidence.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every involved parent kids who love learning.",
+      "positioning": "For the involved parent who wants kids who love learning, Bright Sparks Tutoring is the learning studio that makes it easy, unlike the usual options.",
+      "values": [
+        "cheerful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "cheerful",
+        "encouraging",
+        "clear"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Involved parent",
+        "description": "People who kids who love learning.",
+        "pains": [
+          "Screen time battles",
+          "Bored kids"
+        ],
+        "desires": [
+          "Kids who love learning",
+          "Activities that build skills"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "cheerful",
+        "encouraging",
+        "clear"
+      ],
+      "do": [
+        "Speak to parents",
+        "Show kids creating"
+      ],
+      "dont": [
+        "Fear about falling behind",
+        "Too much text"
+      ],
+      "vocabulary": {
+        "use": [
+          "learn",
+          "play",
+          "create"
+        ],
+        "avoid": [
+          "genius",
+          "ahead of the class"
+        ]
+      },
+      "examples": [
+        "Tutoring that builds confidence.",
+        "Maths Tutoring: kids who love learning, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#1C469C",
+        "secondary": "#F5F7F9",
+        "accent": "#B27F19",
+        "background": "#F5F7FA",
+        "ink": "#111722",
+        "muted": "#606876"
+      },
+      "fonts": {
+        "display": {
+          "family": "Baloo 2",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "Bright colour, hands making things, real classrooms",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Cheerful teacher"
+        }
+      },
+      "music": "Playful xylophone"
+    },
+    "products": [
+      {
+        "name": "Maths Tutoring",
+        "description": "Our signature learning studio offer.",
+        "benefits": [
+          "Kids who love learning",
+          "Activities that build skills"
+        ],
+        "proof": [],
+        "price": "$45 / hour"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Learn at home",
+        "description": "Simple activities"
+      },
+      {
+        "name": "In class",
+        "description": "What kids are making"
+      },
+      {
+        "name": "Parents",
+        "description": "Tips and stories"
+      }
+    ],
+    "ctas": [
+      "Book a trial class",
+      "Join the waitlist",
+      "Download the activity"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@brightsparks",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@brightsparks",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@brightsparks",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#brightsparks"
+      ],
+      "rotating": [
+        "#learn",
+        "#play"
+      ]
+    }
+  }
+}

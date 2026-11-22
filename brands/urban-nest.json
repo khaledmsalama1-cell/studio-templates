@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "urban-nest",
+  "name": "Urban Nest",
+  "industry": "realestate",
+  "industryLabel": "Real estate",
+  "tagline": "City apartments, honestly described.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#2F163B\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#AA8518\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F1EAF5\">UN</text></svg>",
+  "brand": {
+    "name": "Urban Nest",
+    "slug": "urban-nest",
+    "tagline": "City apartments, honestly described.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every first-time buyer the right home.",
+      "positioning": "For the first-time buyer who wants the right home, Urban Nest is the agency that makes it easy, unlike the usual options.",
+      "values": [
+        "trustworthy",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "trustworthy",
+        "calm",
+        "local"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "First-time buyer",
+        "description": "People who the right home.",
+        "pains": [
+          "A confusing process",
+          "Missing good listings"
+        ],
+        "desires": [
+          "The right home",
+          "A guide they trust"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "trustworthy",
+        "calm",
+        "local"
+      ],
+      "do": [
+        "Show light and space",
+        "Give real numbers"
+      ],
+      "dont": [
+        "Pressure tactics",
+        "Clichés"
+      ],
+      "vocabulary": {
+        "use": [
+          "home",
+          "neighbourhood",
+          "light"
+        ],
+        "avoid": [
+          "dream home",
+          "won't last"
+        ]
+      },
+      "examples": [
+        "City apartments, honestly described.",
+        "Apartment Finder: the right home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#2F163B",
+        "secondary": "#F1EAF5",
+        "accent": "#AA8518",
+        "background": "#F8F5FA",
+        "ink": "#1C1122",
+        "muted": "#6F6076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Marcellus",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Manrope",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Wide interiors, daylight, streets",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Calm local expert"
+        }
+      },
+      "music": "Warm acoustic"
+    },
+    "products": [
+      {
+        "name": "Apartment Finder",
+        "description": "Our signature agency offer.",
+        "benefits": [
+          "The right home",
+          "A guide they trust"
+        ],
+        "proof": [],
+        "price": "Free"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Listings",
+        "description": "Homes worth seeing"
+      },
+      {
+        "name": "Buying guide",
+        "description": "Step-by-step advice"
+      },
+      {
+        "name": "Neighbourhoods",
+        "description": "Local life and spots"
+      }
+    ],
+    "ctas": [
+      "Book a viewing",
+      "Get a valuation",
+      "See listings"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@urbannest",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@urbannest",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@urbannest",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#urbannest"
+      ],
+      "rotating": [
+        "#home",
+        "#neighbourhood"
+      ]
+    }
+  }
+}

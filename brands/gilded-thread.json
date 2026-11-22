@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "gilded-thread",
+  "name": "Gilded Thread",
+  "industry": "jewelry",
+  "industryLabel": "Jewellery",
+  "tagline": "Fine gold for everyday wear.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#3B2F16\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#DF2040\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F1EA\">GT</text></svg>",
+  "brand": {
+    "name": "Gilded Thread",
+    "slug": "gilded-thread",
+    "tagline": "Fine gold for everyday wear.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every meaningful-gift buyer something personal.",
+      "positioning": "For the meaningful-gift buyer who wants something personal, Gilded Thread is the jeweller that makes it easy, unlike the usual options.",
+      "values": [
+        "refined",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Meaningful-gift buyer",
+        "description": "People who something personal.",
+        "pains": [
+          "Generic gifts",
+          "Jewellery that tarnishes"
+        ],
+        "desires": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "refined",
+        "intimate",
+        "warm"
+      ],
+      "do": [
+        "Close-up detail shots",
+        "Tell gift stories"
+      ],
+      "dont": [
+        "Discount shouting",
+        "Over-sparkle"
+      ],
+      "vocabulary": {
+        "use": [
+          "handmade",
+          "everyday",
+          "gift"
+        ],
+        "avoid": [
+          "bling",
+          "luxury lifestyle"
+        ]
+      },
+      "examples": [
+        "Fine gold for everyday wear.",
+        "Solid Gold Chain: something personal, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B2F16",
+        "secondary": "#F5F1EA",
+        "accent": "#DF2040",
+        "background": "#FAF8F5",
+        "ink": "#221C11",
+        "muted": "#766F60"
+      },
+      "fonts": {
+        "display": {
+          "family": "Cormorant Garamond",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Work Sans",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Macro detail, skin tones, soft shadows",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Soft, intimate, assured"
+        }
+      },
+      "music": "Gentle piano"
+    },
+    "products": [
+      {
+        "name": "Solid Gold Chain",
+        "description": "Our signature jeweller offer.",
+        "benefits": [
+          "Something personal",
+          "Pieces worn every day"
+        ],
+        "proof": [],
+        "price": "$220"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Pieces",
+        "description": "New and signature pieces"
+      },
+      {
+        "name": "Made by hand",
+        "description": "The bench and the craft"
+      },
+      {
+        "name": "Stories",
+        "description": "Gifts and the people behind them"
+      }
+    ],
+    "ctas": [
+      "Shop the collection",
+      "Book a custom piece",
+      "Find the perfect gift"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@gildedthread",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@gildedthread",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@gildedthread",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#gildedthread"
+      ],
+      "rotating": [
+        "#handmade",
+        "#everyday"
+      ]
+    }
+  }
+}

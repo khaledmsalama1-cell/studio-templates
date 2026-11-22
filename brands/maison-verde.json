@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "maison-verde",
+  "name": "Maison Verde",
+  "industry": "fashion",
+  "industryLabel": "Fashion boutiques",
+  "tagline": "Linen, made slowly.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#D6EBCB\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#1E3414\">MV</text></svg>",
+  "brand": {
+    "name": "Maison Verde",
+    "slug": "maison-verde",
+    "tagline": "Linen, made slowly.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every style-conscious shopper pieces that last.",
+      "positioning": "For the style-conscious shopper who wants pieces that last, Maison Verde is the boutique that makes it easy, unlike the usual options.",
+      "values": [
+        "confident",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "confident",
+        "editorial",
+        "friendly"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Style-conscious shopper",
+        "description": "People who pieces that last.",
+        "pains": [
+          "Fast fashion that falls apart",
+          "Not knowing what suits them"
+        ],
+        "desires": [
+          "Pieces that last",
+          "Easy outfits"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "confident",
+        "editorial",
+        "friendly"
+      ],
+      "do": [
+        "Show outfits, not just items",
+        "Talk fabric and fit"
+      ],
+      "dont": [
+        "Trend-chasing language",
+        "Body talk"
+      ],
+      "vocabulary": {
+        "use": [
+          "fit",
+          "fabric",
+          "wear"
+        ],
+        "avoid": [
+          "must-have",
+          "obsessed"
+        ]
+      },
+      "examples": [
+        "Linen, made slowly.",
+        "Linen Wrap Dress: pieces that last, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#D6EBCB",
+        "secondary": "#1E3414",
+        "accent": "#DF6020",
+        "background": "#F7FAF5",
+        "ink": "#172211",
+        "muted": "#687660"
+      },
+      "fonts": {
+        "display": {
+          "family": "Playfair Display",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Inter",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Editorial portraits, texture details, city backdrops",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Editor: polished, warm"
+        }
+      },
+      "music": "Chic downtempo house"
+    },
+    "products": [
+      {
+        "name": "Linen Wrap Dress",
+        "description": "Our signature boutique offer.",
+        "benefits": [
+          "Pieces that last",
+          "Easy outfits"
+        ],
+        "proof": [],
+        "price": "$140"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "New in",
+        "description": "Fresh arrivals"
+      },
+      {
+        "name": "How to wear it",
+        "description": "Styling ideas"
+      },
+      {
+        "name": "Made well",
+        "description": "Fabric and making"
+      }
+    ],
+    "ctas": [
+      "Shop new in",
+      "Book a styling session",
+      "Shop the look"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@maisonverde",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@maisonverde",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@maisonverde",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#maisonverde"
+      ],
+      "rotating": [
+        "#fit",
+        "#fabric"
+      ]
+    }
+  }
+}

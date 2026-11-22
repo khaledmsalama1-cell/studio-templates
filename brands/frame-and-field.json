@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "frame-and-field",
+  "name": "Frame & Field",
+  "industry": "photo",
+  "industryLabel": "Photography & studios",
+  "tagline": "Outdoor family portraits.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M8 192V100a92 92 0 0 1 184 0v92z\" fill=\"#1D3B16\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#ECF5EA\">FF</text></svg>",
+  "brand": {
+    "name": "Frame & Field",
+    "slug": "frame-and-field",
+    "tagline": "Outdoor family portraits.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every couple planning a wedding natural, timeless photos.",
+      "positioning": "For the couple planning a wedding who wants natural, timeless photos, Frame & Field is the studio that makes it easy, unlike the usual options.",
+      "values": [
+        "romantic",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "romantic",
+        "relaxed",
+        "honest"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "Couple planning a wedding",
+        "description": "People who natural, timeless photos.",
+        "pains": [
+          "Stiff photos",
+          "Not knowing how to pose"
+        ],
+        "desires": [
+          "Natural, timeless photos",
+          "Feeling relaxed"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "romantic",
+        "relaxed",
+        "honest"
+      ],
+      "do": [
+        "Let photos lead",
+        "Share the story behind a shot"
+      ],
+      "dont": [
+        "Over-editing",
+        "Pushy packages"
+      ],
+      "vocabulary": {
+        "use": [
+          "moment",
+          "natural",
+          "light"
+        ],
+        "avoid": [
+          "magical",
+          "once in a lifetime"
+        ]
+      },
+      "examples": [
+        "Outdoor family portraits.",
+        "Family Session: natural, timeless photos, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#1D3B16",
+        "secondary": "#ECF5EA",
+        "accent": "#CD751D",
+        "background": "#F6FAF5",
+        "ink": "#142211",
+        "muted": "#647660"
+      },
+      "fonts": {
+        "display": {
+          "family": "Italiana",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Jost",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Film tones, candid moments, soft light",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Warm, gentle storyteller"
+        }
+      },
+      "music": "Cinematic strings"
+    },
+    "products": [
+      {
+        "name": "Family Session",
+        "description": "Our signature studio offer.",
+        "benefits": [
+          "Natural, timeless photos",
+          "Feeling relaxed"
+        ],
+        "proof": [],
+        "price": "$350"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Portfolio",
+        "description": "Recent sessions"
+      },
+      {
+        "name": "Tips",
+        "description": "How to prepare for a shoot"
+      },
+      {
+        "name": "Love notes",
+        "description": "Client stories"
+      }
+    ],
+    "ctas": [
+      "Check your date",
+      "Book a session",
+      "See the portfolio"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@frameandfield",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@frameandfield",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@frameandfield",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#frameandfield"
+      ],
+      "rotating": [
+        "#moment",
+        "#natural"
+      ]
+    }
+  }
+}

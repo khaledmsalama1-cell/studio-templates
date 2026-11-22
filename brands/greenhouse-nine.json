@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "greenhouse-nine",
+  "name": "Greenhouse Nine",
+  "industry": "plants",
+  "industryLabel": "Plant shops",
+  "tagline": "Rare plants from our own greenhouse.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#163B2F\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF5F1\">GN</text></svg>",
+  "brand": {
+    "name": "Greenhouse Nine",
+    "slug": "greenhouse-nine",
+    "tagline": "Rare plants from our own greenhouse.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every new plant parent a greener home.",
+      "positioning": "For the new plant parent who wants a greener home, Greenhouse Nine is the plant shop that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "New plant parent",
+        "description": "People who a greener home.",
+        "pains": [
+          "Plants that die",
+          "Not knowing what fits their light"
+        ],
+        "desires": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "do": [
+        "Give one care tip at a time",
+        "Celebrate small wins"
+      ],
+      "dont": [
+        "Shaming dead plants",
+        "Latin overload"
+      ],
+      "vocabulary": {
+        "use": [
+          "light",
+          "thrive",
+          "repot"
+        ],
+        "avoid": [
+          "impossible to kill",
+          "jungle vibes"
+        ]
+      },
+      "examples": [
+        "Rare plants from our own greenhouse.",
+        "Variegated Monstera: a greener home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#163B2F",
+        "secondary": "#EAF5F1",
+        "accent": "#BB861B",
+        "background": "#F5FAF8",
+        "ink": "#11221C",
+        "muted": "#60766F"
+      },
+      "fonts": {
+        "display": {
+          "family": "Gloock",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Figtree",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Window light, leaves, soil, ceramics",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Gentle, encouraging gardener"
+        }
+      },
+      "music": "Soft acoustic guitar"
+    },
+    "products": [
+      {
+        "name": "Variegated Monstera",
+        "description": "Our signature plant shop offer.",
+        "benefits": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "proof": [],
+        "price": "$95"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Plant care",
+        "description": "Light, water and repotting"
+      },
+      {
+        "name": "Plant of the week",
+        "description": "One plant up close"
+      },
+      {
+        "name": "Green homes",
+        "description": "Customer spaces"
+      }
+    ],
+    "ctas": [
+      "Find your plant",
+      "Shop plants",
+      "Book a plant clinic"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@greenhousenine",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@greenhousenine",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@greenhousenine",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#greenhousenine"
+      ],
+      "rotating": [
+        "#light",
+        "#thrive"
+      ]
+    }
+  }
+}

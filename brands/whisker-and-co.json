@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "whisker-and-co",
+  "name": "Whisker & Co.",
+  "industry": "pets",
+  "industryLabel": "Pet care",
+  "tagline": "Everything for indoor cats.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"8\" y=\"8\" width=\"184\" height=\"184\" rx=\"44\" fill=\"#E1CBEB\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#B27F19\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#291434\">WC</text></svg>",
+  "brand": {
+    "name": "Whisker & Co.",
+    "slug": "whisker-and-co",
+    "tagline": "Everything for indoor cats.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every devoted pet parent happy, healthy pets.",
+      "positioning": "For the devoted pet parent who wants happy, healthy pets, Whisker & Co. is the pet brand that makes it easy, unlike the usual options.",
+      "values": [
+        "playful",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "playful",
+        "caring",
+        "trustworthy"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Devoted pet parent",
+        "description": "People who happy, healthy pets.",
+        "pains": [
+          "Unhealthy treats",
+          "Bored pets"
+        ],
+        "desires": [
+          "Happy, healthy pets",
+          "Products they can trust"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "playful",
+        "caring",
+        "trustworthy"
+      ],
+      "do": [
+        "Show real pets",
+        "Use their names"
+      ],
+      "dont": [
+        "Guilt-tripping owners",
+        "Medical claims"
+      ],
+      "vocabulary": {
+        "use": [
+          "happy",
+          "healthy",
+          "tail wags"
+        ],
+        "avoid": [
+          "fur baby overload",
+          "best ever"
+        ]
+      },
+      "examples": [
+        "Everything for indoor cats.",
+        "Cat Tower Deluxe: happy, healthy pets, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#E1CBEB",
+        "secondary": "#291434",
+        "accent": "#B27F19",
+        "background": "#F8F5FA",
+        "ink": "#1C1122",
+        "muted": "#6F6076"
+      },
+      "fonts": {
+        "display": {
+          "family": "Fredoka",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Nunito",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Pets at eye level, natural light, mess allowed",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Cheerful, warm, a little silly"
+        }
+      },
+      "music": "Upbeat ukulele"
+    },
+    "products": [
+      {
+        "name": "Cat Tower Deluxe",
+        "description": "Our signature pet brand offer.",
+        "benefits": [
+          "Happy, healthy pets",
+          "Products they can trust"
+        ],
+        "proof": [],
+        "price": "$129"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Happy pets",
+        "description": "Customer pets and stories"
+      },
+      {
+        "name": "Care tips",
+        "description": "Health and training tips"
+      },
+      {
+        "name": "What's inside",
+        "description": "Ingredients and safety"
+      }
+    ],
+    "ctas": [
+      "Shop treats",
+      "Book grooming",
+      "Tag your pet"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@whiskerandco",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@whiskerandco",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@whiskerandco",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#whiskerandco"
+      ],
+      "rotating": [
+        "#happy",
+        "#healthy"
+      ]
+    }
+  }
+}

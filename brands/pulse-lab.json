@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "pulse-lab",
+  "name": "Pulse Lab",
+  "industry": "fitness",
+  "industryLabel": "Gyms & fitness",
+  "tagline": "45-minute classes that count.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#9C1C31\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F9F5F6\">PL</text></svg>",
+  "brand": {
+    "name": "Pulse Lab",
+    "slug": "pulse-lab",
+    "tagline": "45-minute classes that count.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every busy person getting back in shape visible progress.",
+      "positioning": "For the busy person getting back in shape who wants visible progress, Pulse Lab is the gym that makes it easy, unlike the usual options.",
+      "values": [
+        "energetic",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "energetic",
+        "direct",
+        "encouraging"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Busy person getting back in shape",
+        "description": "People who visible progress.",
+        "pains": [
+          "No time",
+          "Intimidating gyms"
+        ],
+        "desires": [
+          "Visible progress",
+          "A routine that sticks"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "energetic",
+        "direct",
+        "encouraging"
+      ],
+      "do": [
+        "Short, punchy lines",
+        "Celebrate effort"
+      ],
+      "dont": [
+        "Body shaming",
+        "Unrealistic promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "strong",
+          "progress",
+          "show up"
+        ],
+        "avoid": [
+          "beach body",
+          "no pain no gain"
+        ]
+      },
+      "examples": [
+        "45-minute classes that count.",
+        "10-Class Pack: visible progress, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#9C1C31",
+        "secondary": "#F9F5F6",
+        "accent": "#1999B2",
+        "background": "#FAF5F6",
+        "ink": "#221114",
+        "muted": "#766064"
+      },
+      "fonts": {
+        "display": {
+          "family": "Archivo Black",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Archivo",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "High contrast, motion, sweat, real members",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Coach: upbeat, firm, motivating"
+        }
+      },
+      "music": "Driving electronic, 120–128 BPM"
+    },
+    "products": [
+      {
+        "name": "10-Class Pack",
+        "description": "Our signature gym offer.",
+        "benefits": [
+          "Visible progress",
+          "A routine that sticks"
+        ],
+        "proof": [],
+        "price": "$120"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Train",
+        "description": "Workouts and form tips"
+      },
+      {
+        "name": "Fuel",
+        "description": "Simple nutrition habits"
+      },
+      {
+        "name": "Members",
+        "description": "Progress stories"
+      }
+    ],
+    "ctas": [
+      "Book a free class",
+      "Join today",
+      "Save this workout"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@pulselab",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@pulselab",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@pulselab",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#pulselab"
+      ],
+      "rotating": [
+        "#strong",
+        "#progress"
+      ]
+    }
+  }
+}

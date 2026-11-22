@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "terra-and-twig",
+  "name": "Terra & Twig",
+  "industry": "plants",
+  "industryLabel": "Plant shops",
+  "tagline": "Plants, pots and good soil.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path d=\"M100 8l80 46v92l-80 46-80-46V54z\" fill=\"#3B2616\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5EFEA\">TT</text></svg>",
+  "brand": {
+    "name": "Terra & Twig",
+    "slug": "terra-and-twig",
+    "tagline": "Plants, pots and good soil.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every new plant parent a greener home.",
+      "positioning": "For the new plant parent who wants a greener home, Terra & Twig is the plant shop that makes it easy, unlike the usual options.",
+      "values": [
+        "gentle",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "archetype": "The Caregiver"
+    },
+    "audience": [
+      {
+        "name": "New plant parent",
+        "description": "People who a greener home.",
+        "pains": [
+          "Plants that die",
+          "Not knowing what fits their light"
+        ],
+        "desires": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "gentle",
+        "encouraging",
+        "curious"
+      ],
+      "do": [
+        "Give one care tip at a time",
+        "Celebrate small wins"
+      ],
+      "dont": [
+        "Shaming dead plants",
+        "Latin overload"
+      ],
+      "vocabulary": {
+        "use": [
+          "light",
+          "thrive",
+          "repot"
+        ],
+        "avoid": [
+          "impossible to kill",
+          "jungle vibes"
+        ]
+      },
+      "examples": [
+        "Plants, pots and good soil.",
+        "Ceramic Pot Bundle: a greener home, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#3B2616",
+        "secondary": "#F5EFEA",
+        "accent": "#17A12E",
+        "background": "#FAF7F5",
+        "ink": "#221811",
+        "muted": "#766960"
+      },
+      "fonts": {
+        "display": {
+          "family": "Gloock",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Figtree",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 28,
+      "imagery": "Window light, leaves, soil, ceramics",
+      "motion": {
+        "energy": "calm",
+        "ease": "power2.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Gentle, encouraging gardener"
+        }
+      },
+      "music": "Soft acoustic guitar"
+    },
+    "products": [
+      {
+        "name": "Ceramic Pot Bundle",
+        "description": "Our signature plant shop offer.",
+        "benefits": [
+          "A greener home",
+          "Plants that thrive"
+        ],
+        "proof": [],
+        "price": "$54"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Plant care",
+        "description": "Light, water and repotting"
+      },
+      {
+        "name": "Plant of the week",
+        "description": "One plant up close"
+      },
+      {
+        "name": "Green homes",
+        "description": "Customer spaces"
+      }
+    ],
+    "ctas": [
+      "Find your plant",
+      "Shop plants",
+      "Book a plant clinic"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@terraandtwig",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@terraandtwig",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@terraandtwig",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#terraandtwig"
+      ],
+      "rotating": [
+        "#light",
+        "#thrive"
+      ]
+    }
+  }
+}

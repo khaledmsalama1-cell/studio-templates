@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "wander-wild",
+  "name": "Wander Wild Tours",
+  "industry": "travel",
+  "industryLabel": "Travel & tours",
+  "tagline": "Small-group trips off the beaten path.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"38\" y=\"38\" width=\"124\" height=\"124\" rx=\"20\" transform=\"rotate(45 100 100)\" fill=\"#163B29\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#EAF5F0\">WW</text></svg>",
+  "brand": {
+    "name": "Wander Wild Tours",
+    "slug": "wander-wild",
+    "tagline": "Small-group trips off the beaten path.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every experience collector unforgettable trips.",
+      "positioning": "For the experience collector who wants unforgettable trips, Wander Wild Tours is the travel company that makes it easy, unlike the usual options.",
+      "values": [
+        "adventurous",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "adventurous",
+        "warm",
+        "knowing"
+      ],
+      "archetype": "The Everyman"
+    },
+    "audience": [
+      {
+        "name": "Experience collector",
+        "description": "People who unforgettable trips.",
+        "pains": [
+          "Tourist traps",
+          "Planning stress"
+        ],
+        "desires": [
+          "Unforgettable trips",
+          "Someone who knows the place"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "adventurous",
+        "warm",
+        "knowing"
+      ],
+      "do": [
+        "Show real places",
+        "Give insider tips"
+      ],
+      "dont": [
+        "Wanderlust clichés",
+        "Exaggeration"
+      ],
+      "vocabulary": {
+        "use": [
+          "local",
+          "journey",
+          "explore"
+        ],
+        "avoid": [
+          "paradise",
+          "bucket list"
+        ]
+      },
+      "examples": [
+        "Small-group trips off the beaten path.",
+        "7-Day Highlands Trek: unforgettable trips, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#163B29",
+        "secondary": "#EAF5F0",
+        "accent": "#CD751D",
+        "background": "#F5FAF7",
+        "ink": "#11221A",
+        "muted": "#60766B"
+      },
+      "fonts": {
+        "display": {
+          "family": "Syne",
+          "weight": 700,
+          "google": true
+        },
+        "body": {
+          "family": "Manrope",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 20,
+      "imagery": "Wide landscapes, golden hour, people in place",
+      "motion": {
+        "energy": "medium",
+        "ease": "power3.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Local guide: warm, curious"
+        }
+      },
+      "music": "World-influenced acoustic"
+    },
+    "products": [
+      {
+        "name": "7-Day Highlands Trek",
+        "description": "Our signature travel company offer.",
+        "benefits": [
+          "Unforgettable trips",
+          "Someone who knows the place"
+        ],
+        "proof": [],
+        "price": "$1,290"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Destinations",
+        "description": "Places worth the trip"
+      },
+      {
+        "name": "Travel tips",
+        "description": "Packing, timing and local tips"
+      },
+      {
+        "name": "Travellers",
+        "description": "Guest stories"
+      }
+    ],
+    "ctas": [
+      "Plan your trip",
+      "Book the tour",
+      "Get the itinerary"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@wanderwild",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@wanderwild",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@wanderwild",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#wanderwild"
+      ],
+      "rotating": [
+        "#local",
+        "#journey"
+      ]
+    }
+  }
+}

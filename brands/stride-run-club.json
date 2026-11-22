@@ -1,0 +1,200 @@
+{
+  "kind": "brand",
+  "id": "stride-run-club",
+  "name": "Stride Run Club",
+  "industry": "fitness",
+  "industryLabel": "Gyms & fitness",
+  "tagline": "Run together, get faster.",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"92\" fill=\"#17825E\"/><circle cx=\"156\" cy=\"44\" r=\"16\" fill=\"#DF6020\"/><text x=\"100\" y=\"124\" text-anchor=\"middle\" font-family=\"Helvetica, Arial, sans-serif\" font-weight=\"700\" font-size=\"70\" fill=\"#F5F9F8\">SR</text></svg>",
+  "brand": {
+    "name": "Stride Run Club",
+    "slug": "stride-run-club",
+    "tagline": "Run together, get faster.",
+    "website": "",
+    "language": "en",
+    "essence": {
+      "mission": "Give every busy person getting back in shape visible progress.",
+      "positioning": "For the busy person getting back in shape who wants visible progress, Stride Run Club is the gym that makes it easy, unlike the usual options.",
+      "values": [
+        "energetic",
+        "care",
+        "honesty"
+      ],
+      "personality": [
+        "energetic",
+        "direct",
+        "encouraging"
+      ],
+      "archetype": "The Hero"
+    },
+    "audience": [
+      {
+        "name": "Busy person getting back in shape",
+        "description": "People who visible progress.",
+        "pains": [
+          "No time",
+          "Intimidating gyms"
+        ],
+        "desires": [
+          "Visible progress",
+          "A routine that sticks"
+        ],
+        "objections": [
+          "It costs more than the usual option"
+        ],
+        "platforms": [
+          "instagram",
+          "tiktok"
+        ]
+      }
+    ],
+    "voice": {
+      "tone": [
+        "energetic",
+        "direct",
+        "encouraging"
+      ],
+      "do": [
+        "Short, punchy lines",
+        "Celebrate effort"
+      ],
+      "dont": [
+        "Body shaming",
+        "Unrealistic promises"
+      ],
+      "vocabulary": {
+        "use": [
+          "strong",
+          "progress",
+          "show up"
+        ],
+        "avoid": [
+          "beach body",
+          "no pain no gain"
+        ]
+      },
+      "examples": [
+        "Run together, get faster.",
+        "Couch to 5K Plan: visible progress, without the fuss."
+      ]
+    },
+    "visual": {
+      "colors": {
+        "primary": "#17825E",
+        "secondary": "#F5F9F8",
+        "accent": "#DF6020",
+        "background": "#F5FAF8",
+        "ink": "#11221C",
+        "muted": "#60766F"
+      },
+      "fonts": {
+        "display": {
+          "family": "Archivo Black",
+          "weight": 400,
+          "google": true
+        },
+        "body": {
+          "family": "Archivo",
+          "weight": 400,
+          "google": true
+        }
+      },
+      "logo": {
+        "primary": "assets/logos/logo.svg",
+        "mark": "assets/logos/logo.svg",
+        "onDark": "assets/logos/logo.svg"
+      },
+      "radius": 12,
+      "imagery": "High contrast, motion, sweat, real members",
+      "motion": {
+        "energy": "high",
+        "ease": "expo.out",
+        "notes": ""
+      }
+    },
+    "audio": {
+      "voices": {
+        "narrator": {
+          "provider": "elevenlabs",
+          "voice_id": "",
+          "model_id": "eleven_multilingual_v2",
+          "settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.25,
+            "use_speaker_boost": true
+          },
+          "description": "Coach: upbeat, firm, motivating"
+        }
+      },
+      "music": "Driving electronic, 120–128 BPM"
+    },
+    "products": [
+      {
+        "name": "Couch to 5K Plan",
+        "description": "Our signature gym offer.",
+        "benefits": [
+          "Visible progress",
+          "A routine that sticks"
+        ],
+        "proof": [],
+        "price": "$49"
+      }
+    ],
+    "content_pillars": [
+      {
+        "name": "Train",
+        "description": "Workouts and form tips"
+      },
+      {
+        "name": "Fuel",
+        "description": "Simple nutrition habits"
+      },
+      {
+        "name": "Members",
+        "description": "Progress stories"
+      }
+    ],
+    "ctas": [
+      "Book a free class",
+      "Join today",
+      "Save this workout"
+    ],
+    "platforms": {
+      "instagram": {
+        "handle": "@striderunclub",
+        "formats": [
+          "reel",
+          "carousel",
+          "post",
+          "story"
+        ]
+      },
+      "tiktok": {
+        "handle": "@striderunclub",
+        "formats": [
+          "reel"
+        ]
+      },
+      "youtube": {
+        "handle": "@striderunclub",
+        "formats": [
+          "short"
+        ]
+      },
+      "linkedin": {
+        "handle": "",
+        "formats": []
+      }
+    },
+    "hashtags": {
+      "core": [
+        "#striderunclub"
+      ],
+      "rotating": [
+        "#strong",
+        "#progress"
+      ]
+    }
+  }
+}
