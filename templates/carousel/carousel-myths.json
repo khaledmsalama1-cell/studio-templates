@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-myths",
+  "name": "Myth busting",
+  "format": "carousel",
+  "category": "education",
+  "description": "Three myths, three facts.",
+  "tags": [
+    "myth"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 myths about *{{topic}}*",
+      "sub": "Swipe to bust them →"
+    },
+    {
+      "type": "point",
+      "kicker": "Myth 1",
+      "text": "The first myth",
+      "sub": "The truth in one line."
+    },
+    {
+      "type": "point",
+      "kicker": "Myth 2",
+      "text": "The second myth",
+      "sub": "The truth in one line."
+    },
+    {
+      "type": "point",
+      "kicker": "Myth 3",
+      "text": "The third myth",
+      "sub": "The truth in one line."
+    },
+    {
+      "type": "cta",
+      "text": "Share with a friend",
+      "sub": "Who still believes these?"
+    }
+  ]
+}

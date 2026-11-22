@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-hello-world",
+  "name": "Remotion Hello World",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "The official minimal Remotion starter.",
+  "url": "https://github.com/remotion-dev/template-helloworld",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "kind": "studio",
+  "id": "story-qa",
+  "name": "Q&A",
+  "format": "story",
+  "category": "community",
+  "description": "Collect and answer questions.",
+  "tags": [
+    "qa"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ask us *anything*",
+      "sub": "Question sticker here"
+    },
+    {
+      "type": "point",
+      "kicker": "Q",
+      "text": "Answer to a question"
+    }
+  ]
+}

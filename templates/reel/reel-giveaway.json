@@ -1,0 +1,40 @@
+{
+  "kind": "studio",
+  "id": "reel-giveaway",
+  "name": "Giveaway",
+  "format": "reel",
+  "category": "promo",
+  "description": "Run a giveaway with simple steps.",
+  "tags": [
+    "giveaway",
+    "growth"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "*Giveaway* time",
+      "say": "It's giveaway time."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "The prize",
+      "say": "Here's what you can win."
+    },
+    {
+      "type": "list",
+      "text": "How to enter",
+      "items": [
+        "Follow {{handle}}",
+        "Like this post",
+        "Tag a friend"
+      ],
+      "say": "Here's how to enter."
+    },
+    {
+      "type": "cta",
+      "text": "Good luck",
+      "say": "Winner announced Friday. Good luck."
+    }
+  ]
+}

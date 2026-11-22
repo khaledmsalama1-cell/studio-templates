@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "promo-offer",
+  "name": "Limited offer",
+  "format": "promo",
+  "category": "promo",
+  "description": "A direct-response promo for an offer.",
+  "tags": [
+    "offer",
+    "sale"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "This week only",
+      "say": "This week only."
+    },
+    {
+      "type": "stat",
+      "value": "20%",
+      "text": "off {{product}}",
+      "say": "Twenty percent off {{product}}."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "say": "Our best seller."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Claim it before it's gone.",
+      "button": "Claim offer"
+    }
+  ]
+}

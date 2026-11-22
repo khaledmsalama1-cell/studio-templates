@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "promo-classic",
+  "name": "Classic product promo",
+  "format": "promo",
+  "category": "promo",
+  "description": "Hook, product, benefits, proof, CTA.",
+  "tags": [
+    "ad",
+    "product"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Meet *{{product}}*",
+      "say": "Meet {{product}}."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "say": "Made for people who care about quality."
+    },
+    {
+      "type": "list",
+      "text": "Why people love it",
+      "items": [
+        "Benefit one",
+        "Benefit two",
+        "Benefit three"
+      ],
+      "say": "Here's why people love it."
+    },
+    {
+      "type": "stat",
+      "value": "4.9★",
+      "text": "from real customers",
+      "say": "And customers agree."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Get yours today.",
+      "button": "Shop now"
+    }
+  ]
+}

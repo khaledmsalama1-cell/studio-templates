@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-day-in-life",
+  "name": "A day in the life",
+  "format": "reel",
+  "category": "behind-the-scenes",
+  "description": "Morning to night at the brand, in quick cuts.",
+  "tags": [
+    "vlog",
+    "bts"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A day at *{{brand}}*",
+      "say": "Come spend a day with us at {{brand}}."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Morning",
+      "say": "Morning."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Midday",
+      "say": "Midday."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Evening",
+      "say": "Evening."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "See you tomorrow."
+    }
+  ]
+}

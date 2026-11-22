@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "promo-new-flavor",
+  "name": "New variant",
+  "format": "promo",
+  "category": "launch",
+  "description": "Launch a new flavour, colour or version.",
+  "tags": [
+    "launch",
+    "variant"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "New *flavour* just dropped",
+      "say": "A new one just dropped."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Meet the new one",
+      "say": "Meet the new one."
+    },
+    {
+      "type": "list",
+      "text": "Tasting notes",
+      "items": [
+        "Note one",
+        "Note two",
+        "Note three"
+      ],
+      "say": "Here's what it's like."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Try it first. Link in bio.",
+      "button": "Try it first"
+    }
+  ]
+}

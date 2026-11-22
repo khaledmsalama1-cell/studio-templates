@@ -1,0 +1,54 @@
+{
+  "kind": "studio",
+  "id": "reel-listicle-5",
+  "name": "5 quick tips",
+  "format": "reel",
+  "category": "education",
+  "description": "Five fast tips for a high-retention 30-second reel.",
+  "tags": [
+    "listicle",
+    "tips"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 *{{topic}}* tips in 30s",
+      "say": "Five {{topic}} tips in thirty seconds. Go."
+    },
+    {
+      "type": "point",
+      "kicker": "1",
+      "text": "Tip one",
+      "say": "One."
+    },
+    {
+      "type": "point",
+      "kicker": "2",
+      "text": "Tip two",
+      "say": "Two."
+    },
+    {
+      "type": "point",
+      "kicker": "3",
+      "text": "Tip three",
+      "say": "Three."
+    },
+    {
+      "type": "point",
+      "kicker": "4",
+      "text": "Tip four",
+      "say": "Four."
+    },
+    {
+      "type": "point",
+      "kicker": "5",
+      "text": "Save this one",
+      "say": "And five, the one you'll want to save."
+    },
+    {
+      "type": "cta",
+      "text": "Save this",
+      "say": "Save this for later."
+    }
+  ]
+}

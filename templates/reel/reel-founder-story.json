@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-founder-story",
+  "name": "Founder story",
+  "format": "reel",
+  "category": "story",
+  "description": "Why the brand exists, told in 30 seconds.",
+  "tags": [
+    "story",
+    "founder"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why we started *{{brand}}*",
+      "say": "This is why we started {{brand}}."
+    },
+    {
+      "type": "point",
+      "kicker": "The moment",
+      "text": "It started with a problem",
+      "say": "It started with a problem we couldn't ignore."
+    },
+    {
+      "type": "point",
+      "kicker": "The turn",
+      "text": "So we built the fix",
+      "say": "So we built the thing we wished existed."
+    },
+    {
+      "type": "point",
+      "kicker": "Today",
+      "text": "Now it's for you",
+      "say": "And now it's here for people like you."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Thanks for being part of it."
+    }
+  ]
+}

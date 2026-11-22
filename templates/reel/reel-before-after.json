@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-before-after",
+  "name": "Before and after",
+  "format": "reel",
+  "category": "transformation",
+  "description": "Show the change your product makes.",
+  "tags": [
+    "transformation",
+    "product"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "From *this* to *this*",
+      "say": "Watch what happens when you switch to {{product}}."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Before",
+      "say": "Before: the usual problem."
+    },
+    {
+      "type": "point",
+      "kicker": "The change",
+      "text": "One simple switch",
+      "say": "We changed one thing."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "After",
+      "say": "After: the difference is obvious."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Try it yourself. Link in bio."
+    }
+  ]
+}

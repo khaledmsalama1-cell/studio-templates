@@ -1,0 +1,43 @@
+{
+  "kind": "studio",
+  "id": "landscape-case-study",
+  "name": "Case study",
+  "format": "landscape",
+  "category": "social-proof",
+  "description": "A results story for B2B or LinkedIn.",
+  "tags": [
+    "b2b",
+    "case-study"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How a customer *got results*",
+      "say": "Here's how one customer got real results."
+    },
+    {
+      "type": "point",
+      "kicker": "Challenge",
+      "text": "The challenge",
+      "say": "The challenge."
+    },
+    {
+      "type": "point",
+      "kicker": "Approach",
+      "text": "What we did",
+      "say": "What we did."
+    },
+    {
+      "type": "stat",
+      "value": "+40%",
+      "text": "the result",
+      "say": "The result."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Want the same? Book a call.",
+      "button": "Book a call"
+    }
+  ]
+}

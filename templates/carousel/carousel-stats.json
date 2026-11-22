@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-stats",
+  "name": "Stats that matter",
+  "format": "carousel",
+  "category": "education",
+  "description": "Three numbers with context.",
+  "tags": [
+    "stats"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 numbers every {{audience}} should know",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "stat",
+      "value": "73%",
+      "text": "first stat",
+      "sub": "Source and context."
+    },
+    {
+      "type": "stat",
+      "value": "2.5×",
+      "text": "second stat",
+      "sub": "Source and context."
+    },
+    {
+      "type": "stat",
+      "value": "48h",
+      "text": "third stat",
+      "sub": "Source and context."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Share this"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "post-product",
+  "name": "Product spotlight",
+  "format": "post",
+  "category": "product",
+  "description": "One product, one line.",
+  "tags": [
+    "product"
+  ],
+  "scenes": [
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "sub": "{{cta}}"
+    }
+  ]
+}

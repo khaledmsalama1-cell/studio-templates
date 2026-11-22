@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "story-tips",
+  "name": "3 quick tips",
+  "format": "story",
+  "category": "education",
+  "description": "Three tips in three frames.",
+  "tags": [
+    "tips"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 quick tips",
+      "sub": "Tap →"
+    },
+    {
+      "type": "point",
+      "kicker": "1",
+      "text": "Tip one"
+    },
+    {
+      "type": "point",
+      "kicker": "2",
+      "text": "Tip two"
+    },
+    {
+      "type": "point",
+      "kicker": "3",
+      "text": "Tip three"
+    },
+    {
+      "type": "cta",
+      "text": "Save this"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "studio",
+  "id": "story-link",
+  "name": "Link in bio",
+  "format": "story",
+  "category": "promo",
+  "description": "Send people to the link.",
+  "tags": [
+    "traffic"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "New on the blog",
+      "sub": "Tap →"
+    },
+    {
+      "type": "point",
+      "kicker": "Read it",
+      "text": "Headline of the post"
+    },
+    {
+      "type": "cta",
+      "text": "Link in bio",
+      "button": "Read now"
+    }
+  ]
+}

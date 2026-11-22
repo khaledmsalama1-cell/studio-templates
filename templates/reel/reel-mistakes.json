@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-mistakes",
+  "name": "Mistakes to avoid",
+  "format": "reel",
+  "category": "education",
+  "description": "Warn people off three common mistakes.",
+  "tags": [
+    "mistakes",
+    "tips"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Stop making these *3 mistakes*",
+      "say": "Stop making these three mistakes with {{topic}}."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 1",
+      "text": "The first mistake",
+      "say": "Mistake one."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 2",
+      "text": "The second mistake",
+      "say": "Mistake two."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 3",
+      "text": "The worst one",
+      "say": "And the worst one."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Follow so you don't miss the fixes."
+    }
+  ]
+}

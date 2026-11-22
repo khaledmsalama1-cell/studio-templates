@@ -1,0 +1,36 @@
+{
+  "kind": "studio",
+  "id": "reel-hot-take",
+  "name": "Hot take",
+  "format": "reel",
+  "category": "opinion",
+  "description": "A strong opinion that sparks comments.",
+  "tags": [
+    "opinion",
+    "engagement"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Unpopular opinion:",
+      "say": "Unpopular opinion."
+    },
+    {
+      "type": "point",
+      "kicker": "The take",
+      "text": "Your bold statement",
+      "say": "Here it is."
+    },
+    {
+      "type": "point",
+      "kicker": "Why",
+      "text": "Here's my reasoning",
+      "say": "And here's why I think that."
+    },
+    {
+      "type": "cta",
+      "text": "Agree or disagree?",
+      "say": "Agree or disagree? Tell me in the comments."
+    }
+  ]
+}

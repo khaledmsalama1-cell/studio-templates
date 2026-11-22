@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "post-sale",
+  "name": "Sale",
+  "format": "post",
+  "category": "promo",
+  "description": "Promote an offer.",
+  "tags": [
+    "sale"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "30% off",
+      "text": "everything this week",
+      "sub": "Link in bio"
+    }
+  ]
+}

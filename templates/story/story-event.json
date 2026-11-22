@@ -1,0 +1,32 @@
+{
+  "kind": "studio",
+  "id": "story-event",
+  "name": "Event reminder",
+  "format": "story",
+  "category": "event",
+  "description": "Remind people about an event.",
+  "tags": [
+    "event"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Today's the day",
+      "sub": "Tap →"
+    },
+    {
+      "type": "list",
+      "text": "Details",
+      "items": [
+        "Time",
+        "Place",
+        "What to bring"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "button": "Join"
+    }
+  ]
+}

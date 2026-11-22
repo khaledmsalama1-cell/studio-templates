@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-music-visualization",
+  "name": "Remotion Music visualization",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Audio-reactive visuals for music.",
+  "url": "https://github.com/remotion-dev/template-music-visualization",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

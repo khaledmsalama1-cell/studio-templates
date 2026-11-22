@@ -1,0 +1,54 @@
+{
+  "kind": "studio",
+  "id": "landscape-top-5",
+  "name": "Top 5 countdown",
+  "format": "landscape",
+  "category": "education",
+  "description": "A countdown list for YouTube.",
+  "tags": [
+    "countdown",
+    "youtube"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Top 5 *{{topic}}*",
+      "say": "The top five {{topic}}, counted down."
+    },
+    {
+      "type": "point",
+      "kicker": "#5",
+      "text": "Number five",
+      "say": "Number five."
+    },
+    {
+      "type": "point",
+      "kicker": "#4",
+      "text": "Number four",
+      "say": "Number four."
+    },
+    {
+      "type": "point",
+      "kicker": "#3",
+      "text": "Number three",
+      "say": "Number three."
+    },
+    {
+      "type": "point",
+      "kicker": "#2",
+      "text": "Number two",
+      "say": "Number two."
+    },
+    {
+      "type": "point",
+      "kicker": "#1",
+      "text": "Number one",
+      "say": "And number one."
+    },
+    {
+      "type": "cta",
+      "text": "Subscribe",
+      "say": "Subscribe for more."
+    }
+  ]
+}

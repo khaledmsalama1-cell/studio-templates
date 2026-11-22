@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "post-event",
+  "name": "Event",
+  "format": "post",
+  "category": "event",
+  "description": "Save the date.",
+  "tags": [
+    "event"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Save the date",
+      "sub": "Date · Place"
+    }
+  ]
+}

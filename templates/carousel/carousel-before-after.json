@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-before-after",
+  "name": "Before / after",
+  "format": "carousel",
+  "category": "transformation",
+  "description": "A transformation in slides.",
+  "tags": [
+    "transformation"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The *difference* is real",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Before"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "After"
+    },
+    {
+      "type": "list",
+      "text": "What changed",
+      "items": [
+        "Change one",
+        "Change two",
+        "Change three"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}"
+    }
+  ]
+}

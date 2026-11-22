@@ -1,0 +1,44 @@
+{
+  "kind": "studio",
+  "id": "reel-comparison",
+  "name": "Us vs them",
+  "format": "reel",
+  "category": "promo",
+  "description": "Compare the usual option with yours, honestly.",
+  "tags": [
+    "comparison",
+    "ad"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The usual way vs *our way*",
+      "say": "Here's the usual way, and here's ours."
+    },
+    {
+      "type": "list",
+      "text": "The usual way",
+      "items": [
+        "Slower",
+        "Costs more",
+        "Same old result"
+      ],
+      "say": "The usual way."
+    },
+    {
+      "type": "list",
+      "text": "With {{product}}",
+      "items": [
+        "Faster",
+        "Fair price",
+        "Better result"
+      ],
+      "say": "With {{product}}."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "You choose. Link in bio."
+    }
+  ]
+}

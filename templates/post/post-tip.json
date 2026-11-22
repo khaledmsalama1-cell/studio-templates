@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "post-tip",
+  "name": "Tip of the day",
+  "format": "post",
+  "category": "education",
+  "description": "One useful tip.",
+  "tags": [
+    "tip"
+  ],
+  "scenes": [
+    {
+      "type": "point",
+      "kicker": "Tip",
+      "text": "A useful tip about {{topic}}",
+      "sub": "One line of detail."
+    }
+  ]
+}

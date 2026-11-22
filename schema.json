@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "studio-templates entry",
+  "oneOf": [
+    {
+      "type": "object",
+      "required": ["kind", "id", "name", "format", "category", "description", "scenes"],
+      "properties": {
+        "kind": { "const": "studio" },
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "name": { "type": "string" },
+        "format": { "enum": ["reel", "promo", "landscape", "carousel", "post", "square", "story"] },
+        "category": { "type": "string" },
+        "description": { "type": "string" },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "scenes": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["type"],
+            "properties": {
+              "type": { "enum": ["hook", "point", "list", "stat", "quote", "media", "cta"] },
+              "text": { "type": "string" }, "sub": { "type": "string" }, "say": { "type": "string" },
+              "kicker": { "type": "string" }, "items": { "type": "array", "items": { "type": "string" } },
+              "value": { "type": "string" }, "author": { "type": "string" }, "button": { "type": "string" },
+              "src": { "type": "string" }, "bg": { "enum": ["primary", "secondary", "accent", "bg"] }
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": ["kind", "id", "name", "engine", "description", "url"],
+      "properties": {
+        "kind": { "const": "external" },
+        "engine": { "enum": ["remotion", "hyperframes"] },
+        "url": { "type": "string", "pattern": "^https://" }
+      }
+    }
+  ]
+}

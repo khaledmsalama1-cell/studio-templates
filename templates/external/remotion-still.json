@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-still",
+  "name": "Remotion Still images",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Generate images (social cards, thumbnails) with Remotion.",
+  "url": "https://github.com/remotion-dev/template-still",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

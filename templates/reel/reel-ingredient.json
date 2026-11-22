@@ -1,0 +1,40 @@
+{
+  "kind": "studio",
+  "id": "reel-ingredient",
+  "name": "Ingredient spotlight",
+  "format": "reel",
+  "category": "product",
+  "description": "Zoom in on one ingredient, material or feature.",
+  "tags": [
+    "product",
+    "feature"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The secret is *one ingredient*",
+      "say": "The secret is one ingredient."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Meet it",
+      "say": "Meet it."
+    },
+    {
+      "type": "list",
+      "text": "Why it matters",
+      "items": [
+        "Benefit one",
+        "Benefit two",
+        "Where it comes from"
+      ],
+      "say": "Here's why it matters."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Taste the difference."
+    }
+  ]
+}

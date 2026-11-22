@@ -1,0 +1,35 @@
+{
+  "kind": "studio",
+  "id": "reel-event",
+  "name": "Event promo",
+  "format": "reel",
+  "category": "event",
+  "description": "Promote an event, launch party or live session.",
+  "tags": [
+    "event",
+    "invite"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "You're invited",
+      "say": "You're invited."
+    },
+    {
+      "type": "list",
+      "text": "Details",
+      "items": [
+        "Date and time",
+        "Place or link",
+        "What to expect"
+      ],
+      "say": "Here are the details."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Save your spot. Link in bio.",
+      "button": "Save your spot"
+    }
+  ]
+}

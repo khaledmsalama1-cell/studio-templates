@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-product-demo",
+  "name": "Product demo",
+  "format": "reel",
+  "category": "product",
+  "description": "Show the product doing its job in three beats.",
+  "tags": [
+    "demo",
+    "product"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Watch {{product}} in action",
+      "say": "Here's {{product}} in action."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Step one",
+      "say": "First, this."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Step two",
+      "say": "Then this."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "The result",
+      "say": "And here's the result."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Want one? Link in bio."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "studio",
+  "id": "landscape-webinar",
+  "name": "Webinar promo",
+  "format": "landscape",
+  "category": "event",
+  "description": "Promote a webinar or live session.",
+  "tags": [
+    "webinar",
+    "event"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Join our live session",
+      "say": "Join our live session."
+    },
+    {
+      "type": "list",
+      "text": "You'll learn",
+      "items": [
+        "Lesson one",
+        "Lesson two",
+        "Lesson three"
+      ],
+      "say": "Here's what you'll learn."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Register free at the link.",
+      "button": "Register free"
+    }
+  ]
+}

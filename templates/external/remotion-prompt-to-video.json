@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-prompt-to-video",
+  "name": "Remotion Prompt to video",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Official template that turns a text prompt into a narrated video with AI-generated images and voice.",
+  "url": "https://github.com/remotion-dev/template-prompt-to-video",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

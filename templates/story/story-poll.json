@@ -1,0 +1,23 @@
+{
+  "kind": "studio",
+  "id": "story-poll",
+  "name": "Poll setup",
+  "format": "story",
+  "category": "engagement",
+  "description": "Frames that set up a poll sticker.",
+  "tags": [
+    "poll"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Quick question",
+      "sub": "Tap →"
+    },
+    {
+      "type": "hook",
+      "text": "This *or* that?",
+      "sub": "Add a poll sticker here"
+    }
+  ]
+}

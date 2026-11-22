@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "promo-bundle",
+  "name": "Bundle promo",
+  "format": "promo",
+  "category": "promo",
+  "description": "Sell a bundle with value math.",
+  "tags": [
+    "bundle",
+    "value"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Better *together*",
+      "say": "Some things are better together."
+    },
+    {
+      "type": "list",
+      "text": "In the bundle",
+      "items": [
+        "Item one",
+        "Item two",
+        "Item three"
+      ],
+      "say": "Here's what's in the bundle."
+    },
+    {
+      "type": "stat",
+      "value": "Save 25%",
+      "text": "vs buying separately",
+      "say": "Save twenty-five percent compared to buying them separately."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Link in bio.",
+      "button": "Get the bundle"
+    }
+  ]
+}

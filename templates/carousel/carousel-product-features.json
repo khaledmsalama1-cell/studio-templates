@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-product-features",
+  "name": "Product features",
+  "format": "carousel",
+  "category": "product",
+  "description": "Walk through features, one per slide.",
+  "tags": [
+    "product"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Everything {{product}} does",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Feature one",
+      "sub": "Why it matters."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Feature two",
+      "sub": "Why it matters."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Feature three",
+      "sub": "Why it matters."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "button": "Shop now"
+    }
+  ]
+}

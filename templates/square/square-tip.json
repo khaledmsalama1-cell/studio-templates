@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "square-tip",
+  "name": "Tip card",
+  "format": "square",
+  "category": "education",
+  "description": "A square tip.",
+  "tags": [
+    "tip"
+  ],
+  "scenes": [
+    {
+      "type": "point",
+      "kicker": "Tip",
+      "text": "One useful tip",
+      "sub": "Save for later"
+    }
+  ]
+}

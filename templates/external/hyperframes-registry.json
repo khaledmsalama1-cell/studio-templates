@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "hyperframes-registry",
+  "name": "HyperFrames registry blocks",
+  "engine": "hyperframes",
+  "category": "starter",
+  "description": "Ready-made blocks and components installable into any HyperFrames project with npx hyperframes add.",
+  "url": "https://github.com/heygen-com/hyperframes/tree/main/registry",
+  "tags": [
+    "hyperframes",
+    "starter"
+  ]
+}

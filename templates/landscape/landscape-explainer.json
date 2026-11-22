@@ -1,0 +1,40 @@
+{
+  "kind": "studio",
+  "id": "landscape-explainer",
+  "name": "Explainer",
+  "format": "landscape",
+  "category": "education",
+  "description": "A 16:9 explainer for YouTube or LinkedIn.",
+  "tags": [
+    "youtube",
+    "explainer"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What is *{{topic}}*?",
+      "say": "What is {{topic}}, and why does it matter?"
+    },
+    {
+      "type": "point",
+      "kicker": "The idea",
+      "text": "In one sentence",
+      "say": "In one sentence, here's the idea."
+    },
+    {
+      "type": "list",
+      "text": "Three things to know",
+      "items": [
+        "First",
+        "Second",
+        "Third"
+      ],
+      "say": "Here are three things to know."
+    },
+    {
+      "type": "cta",
+      "text": "Subscribe for more",
+      "say": "Subscribe for more."
+    }
+  ]
+}

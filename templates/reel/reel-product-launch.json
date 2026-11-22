@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "reel-product-launch",
+  "name": "Product launch",
+  "format": "reel",
+  "category": "launch",
+  "description": "Announce something new with build-up and a clear CTA.",
+  "tags": [
+    "launch",
+    "announcement"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "It's *finally* here",
+      "say": "It's finally here."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Introducing {{product}}",
+      "say": "Introducing {{product}}."
+    },
+    {
+      "type": "list",
+      "text": "What's new",
+      "items": [
+        "The headline feature",
+        "The detail people love",
+        "The price"
+      ],
+      "say": "Here's what's new."
+    },
+    {
+      "type": "stat",
+      "value": "Today",
+      "text": "available now",
+      "say": "Available today."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Be one of the first. Link in bio.",
+      "button": "Get it first"
+    }
+  ]
+}

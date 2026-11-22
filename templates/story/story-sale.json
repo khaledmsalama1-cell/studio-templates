@@ -1,0 +1,27 @@
+{
+  "kind": "studio",
+  "id": "story-sale",
+  "name": "Sale stories",
+  "format": "story",
+  "category": "promo",
+  "description": "Push a sale across frames.",
+  "tags": [
+    "sale"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "*Sale* starts now"
+    },
+    {
+      "type": "stat",
+      "value": "30%",
+      "text": "off everything"
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "button": "Shop now"
+    }
+  ]
+}

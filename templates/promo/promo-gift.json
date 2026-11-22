@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "promo-gift",
+  "name": "Gift idea",
+  "format": "promo",
+  "category": "seasonal",
+  "description": "Position the product as a gift.",
+  "tags": [
+    "gift",
+    "holiday"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The gift they'll *actually use*",
+      "say": "Looking for a gift they'll actually use?"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "say": "Meet {{product}}."
+    },
+    {
+      "type": "list",
+      "text": "Perfect for",
+      "items": [
+        "Who it's for",
+        "Who else",
+        "And you"
+      ],
+      "say": "Perfect for the people you love."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Order by Friday for delivery.",
+      "button": "Shop gifts"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "square-sale",
+  "name": "Sale card",
+  "format": "square",
+  "category": "promo",
+  "description": "Offer in a square.",
+  "tags": [
+    "sale"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "20% off",
+      "text": "this weekend only",
+      "sub": "Link in bio"
+    }
+  ]
+}

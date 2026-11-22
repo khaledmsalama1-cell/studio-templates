@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "square-product",
+  "name": "Product card",
+  "format": "square",
+  "category": "product",
+  "description": "Product photo with one line.",
+  "tags": [
+    "product"
+  ],
+  "scenes": [
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "sub": "{{cta}}"
+    }
+  ]
+}

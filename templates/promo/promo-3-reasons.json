@@ -1,0 +1,43 @@
+{
+  "kind": "studio",
+  "id": "promo-3-reasons",
+  "name": "3 reasons to try",
+  "format": "promo",
+  "category": "promo",
+  "description": "Three reasons, fast.",
+  "tags": [
+    "ad",
+    "reasons"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 reasons to try *{{product}}*",
+      "say": "Three reasons to try {{product}}."
+    },
+    {
+      "type": "point",
+      "kicker": "1",
+      "text": "Reason one",
+      "say": "One."
+    },
+    {
+      "type": "point",
+      "kicker": "2",
+      "text": "Reason two",
+      "say": "Two."
+    },
+    {
+      "type": "point",
+      "kicker": "3",
+      "text": "Reason three",
+      "say": "Three."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Link in bio.",
+      "button": "Shop now"
+    }
+  ]
+}

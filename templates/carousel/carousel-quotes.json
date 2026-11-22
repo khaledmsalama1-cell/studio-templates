@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "carousel-quotes",
+  "name": "Quote collection",
+  "format": "carousel",
+  "category": "inspiration",
+  "description": "A swipeable set of quotes.",
+  "tags": [
+    "quotes"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Words we live by",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "quote",
+      "text": "Quote one",
+      "author": "Author"
+    },
+    {
+      "type": "quote",
+      "text": "Quote two",
+      "author": "Author"
+    },
+    {
+      "type": "quote",
+      "text": "Quote three",
+      "author": "Author"
+    },
+    {
+      "type": "cta",
+      "text": "Which one is yours?"
+    }
+  ]
+}

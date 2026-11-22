@@ -1,0 +1,53 @@
+{
+  "kind": "studio",
+  "id": "carousel-listicle",
+  "name": "5-point listicle",
+  "format": "carousel",
+  "category": "education",
+  "description": "Cover, five ideas, CTA.",
+  "tags": [
+    "listicle"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 things about *{{topic}}*",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "point",
+      "kicker": "01",
+      "text": "Idea 1",
+      "sub": "One or two lines of detail."
+    },
+    {
+      "type": "point",
+      "kicker": "02",
+      "text": "Idea 2",
+      "sub": "One or two lines of detail."
+    },
+    {
+      "type": "point",
+      "kicker": "03",
+      "text": "Idea 3",
+      "sub": "One or two lines of detail."
+    },
+    {
+      "type": "point",
+      "kicker": "04",
+      "text": "Idea 4",
+      "sub": "One or two lines of detail."
+    },
+    {
+      "type": "point",
+      "kicker": "05",
+      "text": "Idea 5",
+      "sub": "One or two lines of detail."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Save this for later"
+    }
+  ]
+}

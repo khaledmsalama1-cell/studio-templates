@@ -1,0 +1,53 @@
+{
+  "kind": "studio",
+  "id": "carousel-mistakes",
+  "name": "Mistakes to avoid",
+  "format": "carousel",
+  "category": "education",
+  "description": "Five mistakes and the fix for each.",
+  "tags": [
+    "mistakes"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 *{{topic}}* mistakes",
+      "sub": "And how to fix them →"
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 1",
+      "text": "Mistake 1",
+      "sub": "The fix in one line."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 2",
+      "text": "Mistake 2",
+      "sub": "The fix in one line."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 3",
+      "text": "Mistake 3",
+      "sub": "The fix in one line."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 4",
+      "text": "Mistake 4",
+      "sub": "The fix in one line."
+    },
+    {
+      "type": "point",
+      "kicker": "Mistake 5",
+      "text": "Mistake 5",
+      "sub": "The fix in one line."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Save this"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "studio",
+  "id": "reel-challenge",
+  "name": "Challenge or trend",
+  "format": "reel",
+  "category": "engagement",
+  "description": "Invite your audience into a challenge.",
+  "tags": [
+    "challenge",
+    "ugc"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Try this *7-day challenge*",
+      "say": "Try this seven-day challenge."
+    },
+    {
+      "type": "list",
+      "text": "The rules",
+      "items": [
+        "Rule one",
+        "Rule two",
+        "Rule three"
+      ],
+      "say": "Here are the rules."
+    },
+    {
+      "type": "cta",
+      "text": "Tag us",
+      "say": "Tag us so we can see how it goes."
+    }
+  ]
+}

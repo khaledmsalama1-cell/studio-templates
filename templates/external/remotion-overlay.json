@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-overlay",
+  "name": "Remotion Overlay",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Transparent overlays for editors like Premiere and Resolve.",
+  "url": "https://github.com/remotion-dev/template-overlay",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

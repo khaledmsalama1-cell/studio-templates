@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "carousel-launch",
+  "name": "Launch carousel",
+  "format": "carousel",
+  "category": "launch",
+  "description": "Introduce a new product in slides.",
+  "tags": [
+    "launch"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Introducing *{{product}}*",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}"
+    },
+    {
+      "type": "list",
+      "text": "What's inside",
+      "items": [
+        "Feature",
+        "Feature",
+        "Feature"
+      ]
+    },
+    {
+      "type": "stat",
+      "value": "Today",
+      "text": "available now"
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "button": "Shop now"
+    }
+  ]
+}

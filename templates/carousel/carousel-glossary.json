@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "carousel-glossary",
+  "name": "Glossary",
+  "format": "carousel",
+  "category": "education",
+  "description": "Define the terms your audience mixes up.",
+  "tags": [
+    "glossary"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "*{{topic}}* terms, explained",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "point",
+      "kicker": "Term 1",
+      "text": "Term 1",
+      "sub": "Plain-English definition."
+    },
+    {
+      "type": "point",
+      "kicker": "Term 2",
+      "text": "Term 2",
+      "sub": "Plain-English definition."
+    },
+    {
+      "type": "point",
+      "kicker": "Term 3",
+      "text": "Term 3",
+      "sub": "Plain-English definition."
+    },
+    {
+      "type": "point",
+      "kicker": "Term 4",
+      "text": "Term 4",
+      "sub": "Plain-English definition."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Save for later"
+    }
+  ]
+}

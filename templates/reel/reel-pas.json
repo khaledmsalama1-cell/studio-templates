@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "reel-pas",
+  "name": "Problem → solution",
+  "format": "reel",
+  "category": "promo",
+  "description": "Problem, agitate, solve: the classic ad structure.",
+  "tags": [
+    "ad",
+    "pas"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tired of *the problem*?",
+      "say": "Tired of dealing with the same problem every day?"
+    },
+    {
+      "type": "point",
+      "kicker": "It gets worse",
+      "text": "It costs you more than you think",
+      "say": "It costs you time, money, and patience."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "say": "Meet {{product}}."
+    },
+    {
+      "type": "list",
+      "text": "Why it works",
+      "items": [
+        "Benefit one",
+        "Benefit two",
+        "Benefit three"
+      ],
+      "say": "It fixes it in three ways."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Get yours today.",
+      "button": "Shop now"
+    }
+  ]
+}

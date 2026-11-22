@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "post-milestone",
+  "name": "Milestone",
+  "format": "post",
+  "category": "community",
+  "description": "Celebrate a number.",
+  "tags": [
+    "milestone"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "10K",
+      "text": "thank you",
+      "sub": "From all of us at {{brand}}"
+    }
+  ]
+}

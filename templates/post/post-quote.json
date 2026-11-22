@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "post-quote",
+  "name": "Quote",
+  "format": "post",
+  "category": "inspiration",
+  "description": "A quote in brand style.",
+  "tags": [
+    "quote"
+  ],
+  "scenes": [
+    {
+      "type": "quote",
+      "text": "A line worth sharing",
+      "author": "Author"
+    }
+  ]
+}

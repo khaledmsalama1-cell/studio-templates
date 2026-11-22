@@ -1,0 +1,30 @@
+{
+  "kind": "studio",
+  "id": "reel-question",
+  "name": "Answer in one line",
+  "format": "reel",
+  "category": "engagement",
+  "description": "A question hook answered fast.",
+  "tags": [
+    "question",
+    "quick"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why does *this happen*?",
+      "say": "Ever wondered why this happens?"
+    },
+    {
+      "type": "point",
+      "kicker": "The answer",
+      "text": "Short answer",
+      "say": "Short answer: here's why."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Follow for more quick answers."
+    }
+  ]
+}

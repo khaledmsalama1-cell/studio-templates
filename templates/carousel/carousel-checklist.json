@@ -1,0 +1,49 @@
+{
+  "kind": "studio",
+  "id": "carousel-checklist",
+  "name": "Checklist",
+  "format": "carousel",
+  "category": "education",
+  "description": "A practical checklist people save.",
+  "tags": [
+    "checklist"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The *{{topic}}* checklist",
+      "sub": "Save this →"
+    },
+    {
+      "type": "list",
+      "text": "Before",
+      "items": [
+        "Check one",
+        "Check two",
+        "Check three"
+      ]
+    },
+    {
+      "type": "list",
+      "text": "During",
+      "items": [
+        "Check one",
+        "Check two",
+        "Check three"
+      ]
+    },
+    {
+      "type": "list",
+      "text": "After",
+      "items": [
+        "Check one",
+        "Check two",
+        "Check three"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Save the checklist"
+    }
+  ]
+}

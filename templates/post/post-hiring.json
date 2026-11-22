@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "post-hiring",
+  "name": "We're hiring",
+  "format": "post",
+  "category": "team",
+  "description": "A recruiting post.",
+  "tags": [
+    "hiring"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "We're *hiring*",
+      "sub": "Role title · link in bio"
+    }
+  ]
+}

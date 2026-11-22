@@ -1,0 +1,35 @@
+{
+  "kind": "studio",
+  "id": "reel-announcement",
+  "name": "Big announcement",
+  "format": "reel",
+  "category": "announcement",
+  "description": "Share news with a reveal.",
+  "tags": [
+    "news"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "We have *news*",
+      "say": "We have some news."
+    },
+    {
+      "type": "point",
+      "kicker": "The news",
+      "text": "What's happening",
+      "say": "Here's what's happening."
+    },
+    {
+      "type": "point",
+      "kicker": "What it means",
+      "text": "What it means for you",
+      "say": "And here's what it means for you."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "More soon. Follow so you don't miss it."
+    }
+  ]
+}

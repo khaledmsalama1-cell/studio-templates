@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "carousel-faq",
+  "name": "FAQ",
+  "format": "carousel",
+  "category": "education",
+  "description": "Answer the five questions you get most.",
+  "tags": [
+    "faq"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Your questions, *answered*",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "point",
+      "kicker": "Q1",
+      "text": "Question 1?",
+      "sub": "Short answer."
+    },
+    {
+      "type": "point",
+      "kicker": "Q2",
+      "text": "Question 2?",
+      "sub": "Short answer."
+    },
+    {
+      "type": "point",
+      "kicker": "Q3",
+      "text": "Question 3?",
+      "sub": "Short answer."
+    },
+    {
+      "type": "point",
+      "kicker": "Q4",
+      "text": "Question 4?",
+      "sub": "Short answer."
+    },
+    {
+      "type": "cta",
+      "text": "Ask us anything",
+      "sub": "Comment your question"
+    }
+  ]
+}

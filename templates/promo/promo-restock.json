@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "promo-restock",
+  "name": "Back in stock",
+  "format": "promo",
+  "category": "launch",
+  "description": "Announce a restock.",
+  "tags": [
+    "restock",
+    "urgency"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "It's *back*",
+      "say": "It's back in stock."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}",
+      "say": "The one you asked for."
+    },
+    {
+      "type": "stat",
+      "value": "Limited",
+      "text": "quantities",
+      "say": "Quantities are limited."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Grab it while you can.",
+      "button": "Shop now"
+    }
+  ]
+}

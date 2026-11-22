@@ -1,0 +1,36 @@
+{
+  "kind": "studio",
+  "id": "reel-testimonial",
+  "name": "Customer testimonial",
+  "format": "reel",
+  "category": "social-proof",
+  "description": "Lead with a real customer's words.",
+  "tags": [
+    "review",
+    "proof"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What our customers say",
+      "say": "Don't take our word for it."
+    },
+    {
+      "type": "quote",
+      "text": "Add a real customer quote here",
+      "author": "Customer name",
+      "say": "Here's what one customer told us."
+    },
+    {
+      "type": "stat",
+      "value": "4.9★",
+      "text": "average rating",
+      "say": "And they're not the only one."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "See why. Link in bio."
+    }
+  ]
+}

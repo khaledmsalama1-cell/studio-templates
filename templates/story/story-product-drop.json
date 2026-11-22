@@ -1,0 +1,28 @@
+{
+  "kind": "studio",
+  "id": "story-product-drop",
+  "name": "Product drop",
+  "format": "story",
+  "category": "launch",
+  "description": "Announce a drop in frames.",
+  "tags": [
+    "launch"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "New *drop*",
+      "sub": "Tap →"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "{{product}}"
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "button": "Shop now"
+    }
+  ]
+}

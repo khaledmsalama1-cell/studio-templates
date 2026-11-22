@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "carousel-comparison",
+  "name": "This vs that",
+  "format": "carousel",
+  "category": "education",
+  "description": "Compare two options side by side.",
+  "tags": [
+    "comparison"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Option A vs *option B*",
+      "sub": "Which is right for you? →"
+    },
+    {
+      "type": "list",
+      "text": "Option A",
+      "items": [
+        "Pro",
+        "Pro",
+        "Con"
+      ]
+    },
+    {
+      "type": "list",
+      "text": "Option B",
+      "items": [
+        "Pro",
+        "Pro",
+        "Con"
+      ]
+    },
+    {
+      "type": "point",
+      "kicker": "Verdict",
+      "text": "Choose A if…, B if…",
+      "sub": "One-line rule of thumb."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Follow {{handle}}"
+    }
+  ]
+}

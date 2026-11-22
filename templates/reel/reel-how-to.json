@@ -1,0 +1,48 @@
+{
+  "kind": "studio",
+  "id": "reel-how-to",
+  "name": "How to in 4 steps",
+  "format": "reel",
+  "category": "education",
+  "description": "A step-by-step tutorial with numbered scenes.",
+  "tags": [
+    "tutorial",
+    "how-to"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How to *{{topic}}*",
+      "say": "Here's how to {{topic}}, step by step."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 1",
+      "text": "Start here",
+      "say": "Step one."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 2",
+      "text": "Then this",
+      "say": "Step two."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 3",
+      "text": "Then this",
+      "say": "Step three."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 4",
+      "text": "Finish strong",
+      "say": "And step four."
+    },
+    {
+      "type": "cta",
+      "text": "Save the steps",
+      "say": "Save this so you have the steps."
+    }
+  ]
+}

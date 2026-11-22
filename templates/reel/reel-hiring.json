@@ -1,0 +1,40 @@
+{
+  "kind": "studio",
+  "id": "reel-hiring",
+  "name": "We're hiring",
+  "format": "reel",
+  "category": "team",
+  "description": "Recruit with personality.",
+  "tags": [
+    "hiring",
+    "team"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "We're *hiring*",
+      "say": "We're hiring at {{brand}}."
+    },
+    {
+      "type": "point",
+      "kicker": "The role",
+      "text": "Role title",
+      "say": "We're looking for someone to join as our next role."
+    },
+    {
+      "type": "list",
+      "text": "You'll love it if",
+      "items": [
+        "You care about craft",
+        "You like small teams",
+        "You want to grow"
+      ],
+      "say": "You'll love it here if this sounds like you."
+    },
+    {
+      "type": "cta",
+      "text": "Apply now",
+      "say": "Apply through the link in bio."
+    }
+  ]
+}

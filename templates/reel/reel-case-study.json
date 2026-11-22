@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-case-study",
+  "name": "Customer case study",
+  "format": "reel",
+  "category": "social-proof",
+  "description": "A real result with numbers.",
+  "tags": [
+    "case-study",
+    "proof"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How one customer *did it*",
+      "say": "Here's how one customer got real results."
+    },
+    {
+      "type": "point",
+      "kicker": "The problem",
+      "text": "Where they started",
+      "say": "Here's where they started."
+    },
+    {
+      "type": "point",
+      "kicker": "What changed",
+      "text": "What they did",
+      "say": "Here's what they changed."
+    },
+    {
+      "type": "stat",
+      "value": "2×",
+      "text": "the result",
+      "say": "And here's the result."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Want the same? Link in bio."
+    }
+  ]
+}

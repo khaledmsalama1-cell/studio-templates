@@ -1,0 +1,40 @@
+{
+  "kind": "studio",
+  "id": "carousel-recap",
+  "name": "Weekly recap",
+  "format": "carousel",
+  "category": "community",
+  "description": "Round up the week.",
+  "tags": [
+    "recap"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "This week at *{{brand}}*",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "point",
+      "kicker": "01",
+      "text": "Highlight one",
+      "sub": "A line."
+    },
+    {
+      "type": "point",
+      "kicker": "02",
+      "text": "Highlight two",
+      "sub": "A line."
+    },
+    {
+      "type": "point",
+      "kicker": "03",
+      "text": "Highlight three",
+      "sub": "A line."
+    },
+    {
+      "type": "cta",
+      "text": "See you next week"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "studio",
+  "id": "story-review",
+  "name": "Review highlight",
+  "format": "story",
+  "category": "social-proof",
+  "description": "Share a customer review.",
+  "tags": [
+    "review"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What you said",
+      "sub": "Tap →"
+    },
+    {
+      "type": "quote",
+      "text": "A customer review",
+      "author": "Customer"
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "button": "Shop now"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-three",
+  "name": "Remotion Three.js",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "3D scenes with React Three Fiber.",
+  "url": "https://github.com/remotion-dev/template-three",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

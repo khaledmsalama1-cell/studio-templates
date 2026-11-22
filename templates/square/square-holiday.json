@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "square-holiday",
+  "name": "Holiday greeting",
+  "format": "square",
+  "category": "seasonal",
+  "description": "A seasonal greeting.",
+  "tags": [
+    "holiday"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Happy *holidays*",
+      "sub": "From {{brand}}"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "kind": "studio",
+  "id": "carousel-framework",
+  "name": "Framework",
+  "format": "carousel",
+  "category": "education",
+  "description": "Teach a simple framework or acronym.",
+  "tags": [
+    "framework"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The *3-step framework* for {{topic}}",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "point",
+      "kicker": "A",
+      "text": "First letter: the idea",
+      "sub": "What it means."
+    },
+    {
+      "type": "point",
+      "kicker": "B",
+      "text": "Second letter: the idea",
+      "sub": "What it means."
+    },
+    {
+      "type": "point",
+      "kicker": "C",
+      "text": "Third letter: the idea",
+      "sub": "What it means."
+    },
+    {
+      "type": "list",
+      "text": "Use it when",
+      "items": [
+        "Situation one",
+        "Situation two",
+        "Situation three"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Save the framework"
+    }
+  ]
+}

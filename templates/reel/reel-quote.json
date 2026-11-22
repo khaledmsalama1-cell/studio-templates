@@ -1,0 +1,25 @@
+{
+  "kind": "studio",
+  "id": "reel-quote",
+  "name": "Quote of the day",
+  "format": "reel",
+  "category": "inspiration",
+  "description": "A short, shareable quote with voice.",
+  "tags": [
+    "quote",
+    "inspiration"
+  ],
+  "scenes": [
+    {
+      "type": "quote",
+      "text": "A line worth sharing",
+      "author": "Author",
+      "say": "Here's something worth thinking about today."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Share this with someone who needs it."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "studio",
+  "id": "story-countdown",
+  "name": "Countdown",
+  "format": "story",
+  "category": "promo",
+  "description": "Build up to a launch or sale.",
+  "tags": [
+    "countdown"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Something's *coming*",
+      "sub": "Tap →"
+    },
+    {
+      "type": "stat",
+      "value": "3",
+      "text": "days to go"
+    },
+    {
+      "type": "cta",
+      "text": "Turn on reminders",
+      "button": "Remind me"
+    }
+  ]
+}

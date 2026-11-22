@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "reel-countdown-sale",
+  "name": "Sale countdown",
+  "format": "reel",
+  "category": "promo",
+  "description": "Urgency for a sale or limited offer.",
+  "tags": [
+    "sale",
+    "urgency"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Our biggest sale *ends soon*",
+      "say": "Our biggest sale ends soon."
+    },
+    {
+      "type": "stat",
+      "value": "30%",
+      "text": "off everything",
+      "say": "Thirty percent off everything."
+    },
+    {
+      "type": "stat",
+      "value": "48h",
+      "text": "left",
+      "say": "Only forty-eight hours left."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Don't miss it. Link in bio.",
+      "button": "Shop the sale"
+    }
+  ]
+}

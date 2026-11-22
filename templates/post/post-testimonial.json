@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "post-testimonial",
+  "name": "Testimonial",
+  "format": "post",
+  "category": "social-proof",
+  "description": "A customer review.",
+  "tags": [
+    "review"
+  ],
+  "scenes": [
+    {
+      "type": "quote",
+      "text": "A real customer review",
+      "author": "Customer name"
+    }
+  ]
+}

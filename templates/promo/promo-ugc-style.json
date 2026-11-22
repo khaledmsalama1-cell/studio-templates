@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "promo-ugc-style",
+  "name": "UGC-style ad",
+  "format": "promo",
+  "category": "promo",
+  "description": "Feels like a customer filming it themselves.",
+  "tags": [
+    "ugc",
+    "ad"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "I didn't expect *this*",
+      "say": "Okay, I didn't expect this to actually work."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "First impression",
+      "say": "First impression? Honestly, great."
+    },
+    {
+      "type": "point",
+      "kicker": "The best part",
+      "text": "What surprised me",
+      "say": "The best part is how easy it is."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Link in bio if you want to try it.",
+      "button": "Try it"
+    }
+  ]
+}

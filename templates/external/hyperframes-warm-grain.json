@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "hyperframes-warm-grain",
+  "name": "HyperFrames Warm grain",
+  "engine": "hyperframes",
+  "category": "starter",
+  "description": "Official HyperFrames example: warm, film-grain look. Create with: npx hyperframes init --example warm-grain",
+  "url": "https://hyperframes.heygen.com",
+  "tags": [
+    "hyperframes",
+    "starter"
+  ]
+}

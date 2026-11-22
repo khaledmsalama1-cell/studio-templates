@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "reel-milestone",
+  "name": "Milestone thank-you",
+  "format": "reel",
+  "category": "community",
+  "description": "Celebrate a milestone with your audience.",
+  "tags": [
+    "milestone",
+    "community"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "10K",
+      "text": "of you. Thank you.",
+      "say": "Ten thousand of you. Thank you."
+    },
+    {
+      "type": "point",
+      "kicker": "Where we started",
+      "text": "It started small",
+      "say": "We started with almost nothing."
+    },
+    {
+      "type": "point",
+      "kicker": "What's next",
+      "text": "Here's what's next",
+      "say": "And here's what's coming next."
+    },
+    {
+      "type": "cta",
+      "text": "Thank you",
+      "say": "Thank you for being here."
+    }
+  ]
+}

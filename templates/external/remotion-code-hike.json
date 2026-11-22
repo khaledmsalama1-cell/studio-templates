@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-code-hike",
+  "name": "Remotion Code Hike",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Animated code walkthroughs.",
+  "url": "https://github.com/remotion-dev/template-code-hike",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

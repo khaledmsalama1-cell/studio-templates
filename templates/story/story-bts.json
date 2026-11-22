@@ -1,0 +1,27 @@
+{
+  "kind": "studio",
+  "id": "story-bts",
+  "name": "Behind the scenes",
+  "format": "story",
+  "category": "behind-the-scenes",
+  "description": "Quick BTS frames.",
+  "tags": [
+    "bts"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Today at *{{brand}}*",
+      "sub": "Tap →"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Behind the scenes"
+    },
+    {
+      "type": "cta",
+      "text": "More tomorrow"
+    }
+  ]
+}

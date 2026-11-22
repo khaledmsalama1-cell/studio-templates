@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-timeline",
+  "name": "Timeline / our story",
+  "format": "carousel",
+  "category": "story",
+  "description": "The brand's story as a timeline.",
+  "tags": [
+    "story",
+    "timeline"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The story of *{{brand}}*",
+      "sub": "Swipe through the years →"
+    },
+    {
+      "type": "point",
+      "kicker": "Year 1",
+      "text": "Where it started",
+      "sub": "A line about the start."
+    },
+    {
+      "type": "point",
+      "kicker": "Year 2",
+      "text": "The first big moment",
+      "sub": "What happened."
+    },
+    {
+      "type": "point",
+      "kicker": "Today",
+      "text": "Where we are now",
+      "sub": "What's next."
+    },
+    {
+      "type": "cta",
+      "text": "Thank you for being here"
+    }
+  ]
+}

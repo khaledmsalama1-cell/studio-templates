@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "hyperframes-swiss-grid",
+  "name": "HyperFrames Swiss grid",
+  "engine": "hyperframes",
+  "category": "starter",
+  "description": "Official HyperFrames example: Swiss typographic grid. Create with: npx hyperframes init --example swiss-grid",
+  "url": "https://hyperframes.heygen.com",
+  "tags": [
+    "hyperframes",
+    "starter"
+  ]
+}

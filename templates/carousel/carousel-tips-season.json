@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-tips-season",
+  "name": "Seasonal tips",
+  "format": "carousel",
+  "category": "seasonal",
+  "description": "Timely tips for a season or holiday.",
+  "tags": [
+    "seasonal"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Seasonal tips from *{{brand}}*",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "point",
+      "kicker": "Tip 1",
+      "text": "Seasonal tip 1",
+      "sub": "One line."
+    },
+    {
+      "type": "point",
+      "kicker": "Tip 2",
+      "text": "Seasonal tip 2",
+      "sub": "One line."
+    },
+    {
+      "type": "point",
+      "kicker": "Tip 3",
+      "text": "Seasonal tip 3",
+      "sub": "One line."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Save for later"
+    }
+  ]
+}

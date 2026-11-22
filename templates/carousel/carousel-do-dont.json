@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "carousel-do-dont",
+  "name": "Do's and don'ts",
+  "format": "carousel",
+  "category": "education",
+  "description": "Contrast good and bad practice.",
+  "tags": [
+    "tips"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Do's and don'ts of *{{topic}}*",
+      "sub": "Swipe →"
+    },
+    {
+      "type": "list",
+      "text": "Do",
+      "items": [
+        "Do this",
+        "Do this",
+        "Do this"
+      ]
+    },
+    {
+      "type": "list",
+      "text": "Don't",
+      "items": [
+        "Avoid this",
+        "Avoid this",
+        "Avoid this"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Save for later"
+    }
+  ]
+}

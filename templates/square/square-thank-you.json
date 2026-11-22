@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "square-thank-you",
+  "name": "Thank you card",
+  "format": "square",
+  "category": "community",
+  "description": "Say thanks.",
+  "tags": [
+    "community"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Thank *you*",
+      "sub": "From all of us at {{brand}}"
+    }
+  ]
+}

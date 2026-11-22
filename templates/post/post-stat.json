@@ -1,0 +1,19 @@
+{
+  "kind": "studio",
+  "id": "post-stat",
+  "name": "Big number",
+  "format": "post",
+  "category": "education",
+  "description": "A single stat that stops the scroll.",
+  "tags": [
+    "stat"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "73%",
+      "text": "of people get this wrong",
+      "sub": "Here's how not to →"
+    }
+  ]
+}

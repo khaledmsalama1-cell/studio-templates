@@ -1,0 +1,40 @@
+{
+  "kind": "studio",
+  "id": "reel-faq",
+  "name": "Answering an FAQ",
+  "format": "reel",
+  "category": "education",
+  "description": "Turn a common question into content.",
+  "tags": [
+    "faq",
+    "community"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "You asked: *the question*?",
+      "say": "One of the questions we get the most."
+    },
+    {
+      "type": "point",
+      "kicker": "Short answer",
+      "text": "The short answer",
+      "say": "The short answer is yes, and here's why."
+    },
+    {
+      "type": "list",
+      "text": "The details",
+      "items": [
+        "Detail one",
+        "Detail two",
+        "Detail three"
+      ],
+      "say": "Here are the details."
+    },
+    {
+      "type": "cta",
+      "text": "Ask us anything",
+      "say": "Got a question? Drop it in the comments."
+    }
+  ]
+}

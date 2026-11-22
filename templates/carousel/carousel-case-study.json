@@ -1,0 +1,45 @@
+{
+  "kind": "studio",
+  "id": "carousel-case-study",
+  "name": "Case study",
+  "format": "carousel",
+  "category": "social-proof",
+  "description": "A customer story with numbers.",
+  "tags": [
+    "case-study"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How a customer *doubled results*",
+      "sub": "The full story →"
+    },
+    {
+      "type": "point",
+      "kicker": "Before",
+      "text": "Where they started",
+      "sub": "The situation."
+    },
+    {
+      "type": "point",
+      "kicker": "What changed",
+      "text": "What they did",
+      "sub": "The change."
+    },
+    {
+      "type": "stat",
+      "value": "2×",
+      "text": "the result",
+      "sub": "In 30 days."
+    },
+    {
+      "type": "quote",
+      "text": "A line from the customer",
+      "author": "Customer name"
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}"
+    }
+  ]
+}

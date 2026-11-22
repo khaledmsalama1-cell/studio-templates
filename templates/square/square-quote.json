@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "square-quote",
+  "name": "Quote card",
+  "format": "square",
+  "category": "inspiration",
+  "description": "A classic square quote card.",
+  "tags": [
+    "quote"
+  ],
+  "scenes": [
+    {
+      "type": "quote",
+      "text": "A line worth sharing",
+      "author": "Author"
+    }
+  ]
+}

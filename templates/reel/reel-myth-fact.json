@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-myth-fact",
+  "name": "Myth vs fact",
+  "format": "reel",
+  "category": "education",
+  "description": "Name a common belief, bust it, give the right move.",
+  "tags": [
+    "myth",
+    "education"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "*Myth:* the common belief",
+      "say": "Here's a myth about {{topic}} that just won't die."
+    },
+    {
+      "type": "point",
+      "kicker": "Why people believe it",
+      "text": "It sounds right",
+      "say": "It sounds right, so everyone repeats it."
+    },
+    {
+      "type": "point",
+      "kicker": "The fact",
+      "text": "What's actually true",
+      "say": "But here's what's actually true."
+    },
+    {
+      "type": "point",
+      "kicker": "Do this instead",
+      "text": "The better move",
+      "say": "So do this instead."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Follow {{brand}} for more."
+    }
+  ]
+}

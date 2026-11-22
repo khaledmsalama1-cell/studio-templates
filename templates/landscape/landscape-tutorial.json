@@ -1,0 +1,48 @@
+{
+  "kind": "studio",
+  "id": "landscape-tutorial",
+  "name": "Tutorial",
+  "format": "landscape",
+  "category": "education",
+  "description": "A longer step-by-step tutorial.",
+  "tags": [
+    "tutorial",
+    "youtube"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How to *{{topic}}*",
+      "say": "In this video, how to {{topic}}."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 1",
+      "text": "Get set up",
+      "say": "Step one: get set up."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 2",
+      "text": "Do the main thing",
+      "say": "Step two."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 3",
+      "text": "Check your work",
+      "say": "Step three."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 4",
+      "text": "Polish",
+      "say": "And step four."
+    },
+    {
+      "type": "cta",
+      "text": "Subscribe",
+      "say": "If this helped, subscribe."
+    }
+  ]
+}

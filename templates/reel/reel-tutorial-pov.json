@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-tutorial-pov",
+  "name": "POV tutorial",
+  "format": "reel",
+  "category": "education",
+  "description": "First-person POV tutorial.",
+  "tags": [
+    "pov",
+    "tutorial"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "POV: you finally *get it right*",
+      "say": "POV: you finally get it right."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Step 1",
+      "say": "Step one."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Step 2",
+      "say": "Step two."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Done",
+      "say": "Done."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Save it and try it tonight."
+    }
+  ]
+}

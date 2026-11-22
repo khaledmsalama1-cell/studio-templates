@@ -1,0 +1,37 @@
+{
+  "kind": "studio",
+  "id": "reel-stat-shock",
+  "name": "Surprising stat",
+  "format": "reel",
+  "category": "education",
+  "description": "Lead with a number that stops the scroll.",
+  "tags": [
+    "stat",
+    "hook"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "73%",
+      "text": "of people get this wrong",
+      "say": "Seventy-three percent of people get this wrong."
+    },
+    {
+      "type": "point",
+      "kicker": "Why it matters",
+      "text": "Here's why that matters",
+      "say": "Here's why that matters for you."
+    },
+    {
+      "type": "point",
+      "kicker": "The fix",
+      "text": "Do this instead",
+      "say": "The fix is simpler than you think."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Follow for more."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-listicle-3",
+  "name": "3 things listicle",
+  "format": "reel",
+  "category": "education",
+  "description": "Three quick points with a strong hook. The most reliable short-form format.",
+  "tags": [
+    "listicle",
+    "tips"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 things about *{{topic}}*",
+      "say": "Three things nobody tells you about {{topic}}."
+    },
+    {
+      "type": "point",
+      "kicker": "01",
+      "text": "The first thing",
+      "say": "First: the thing most people get wrong."
+    },
+    {
+      "type": "point",
+      "kicker": "02",
+      "text": "The second thing",
+      "say": "Second: the simple fix that changes it."
+    },
+    {
+      "type": "point",
+      "kicker": "03",
+      "text": "The best one",
+      "say": "And third, the one that makes the biggest difference."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Follow for more."
+    }
+  ]
+}

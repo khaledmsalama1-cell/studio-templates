@@ -1,0 +1,34 @@
+{
+  "kind": "studio",
+  "id": "landscape-update",
+  "name": "Company update",
+  "format": "landscape",
+  "category": "announcement",
+  "description": "A short update for your audience or team.",
+  "tags": [
+    "update",
+    "news"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What's new at {{brand}}",
+      "say": "Here's what's new at {{brand}}."
+    },
+    {
+      "type": "list",
+      "text": "This month",
+      "items": [
+        "Update one",
+        "Update two",
+        "Update three"
+      ],
+      "say": "Three updates this month."
+    },
+    {
+      "type": "cta",
+      "text": "Thanks for watching",
+      "say": "Thanks for watching."
+    }
+  ]
+}

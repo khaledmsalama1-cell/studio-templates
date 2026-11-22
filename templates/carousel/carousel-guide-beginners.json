@@ -1,0 +1,48 @@
+{
+  "kind": "studio",
+  "id": "carousel-guide-beginners",
+  "name": "Beginner's guide",
+  "format": "carousel",
+  "category": "education",
+  "description": "Everything a beginner needs, in order.",
+  "tags": [
+    "guide",
+    "beginner"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A beginner's guide to *{{topic}}*",
+      "sub": "Start here →"
+    },
+    {
+      "type": "point",
+      "kicker": "Start",
+      "text": "What you need",
+      "sub": "The basics."
+    },
+    {
+      "type": "point",
+      "kicker": "Learn",
+      "text": "The first skill",
+      "sub": "Why it matters."
+    },
+    {
+      "type": "point",
+      "kicker": "Practice",
+      "text": "Your first week",
+      "sub": "What to do."
+    },
+    {
+      "type": "point",
+      "kicker": "Next",
+      "text": "Where to go next",
+      "sub": "Level up."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "sub": "Follow {{handle}} for part 2"
+    }
+  ]
+}

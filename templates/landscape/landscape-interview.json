@@ -1,0 +1,36 @@
+{
+  "kind": "studio",
+  "id": "landscape-interview",
+  "name": "Interview highlight",
+  "format": "landscape",
+  "category": "story",
+  "description": "Pull quotes from an interview or podcast.",
+  "tags": [
+    "podcast",
+    "interview"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A conversation about *{{topic}}*",
+      "say": "A conversation about {{topic}}."
+    },
+    {
+      "type": "quote",
+      "text": "Highlight quote one",
+      "author": "Guest name",
+      "say": "Here's one moment that stood out."
+    },
+    {
+      "type": "quote",
+      "text": "Highlight quote two",
+      "author": "Guest name",
+      "say": "And another."
+    },
+    {
+      "type": "cta",
+      "text": "Watch the full episode",
+      "say": "Watch the full episode at the link."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-skia",
+  "name": "Remotion Skia",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "2D graphics with React Native Skia.",
+  "url": "https://github.com/remotion-dev/template-skia",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "studio",
+  "id": "reel-bts",
+  "name": "Behind the scenes",
+  "format": "reel",
+  "category": "behind-the-scenes",
+  "description": "Show how it's made; builds trust and personality.",
+  "tags": [
+    "bts",
+    "process"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How we make *{{product}}*",
+      "say": "Ever wondered how we make {{product}}?"
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Where it starts",
+      "say": "It starts here."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "The part nobody sees",
+      "say": "This is the part nobody sees."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Ready for you",
+      "say": "And then it's ready for you."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Follow {{brand}} for more behind the scenes."
+    }
+  ]
+}

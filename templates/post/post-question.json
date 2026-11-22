@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "post-question",
+  "name": "Question",
+  "format": "post",
+  "category": "engagement",
+  "description": "Ask your audience something.",
+  "tags": [
+    "engagement"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What's your *favourite*…?",
+      "sub": "Tell us in the comments"
+    }
+  ]
+}

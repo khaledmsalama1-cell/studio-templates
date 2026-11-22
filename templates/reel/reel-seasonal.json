@@ -1,0 +1,41 @@
+{
+  "kind": "studio",
+  "id": "reel-seasonal",
+  "name": "Seasonal moment",
+  "format": "reel",
+  "category": "seasonal",
+  "description": "Tie the brand to a holiday or season.",
+  "tags": [
+    "holiday",
+    "seasonal"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Your *season* starts here",
+      "say": "The season is here, and we're ready."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "Seasonal pick",
+      "say": "Our pick for the season."
+    },
+    {
+      "type": "list",
+      "text": "Why now",
+      "items": [
+        "Reason one",
+        "Reason two",
+        "Limited time"
+      ],
+      "say": "Here's why now."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Find it in the link in bio.",
+      "button": "Shop the edit"
+    }
+  ]
+}

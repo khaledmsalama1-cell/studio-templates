@@ -1,0 +1,48 @@
+{
+  "kind": "studio",
+  "id": "carousel-how-to",
+  "name": "How-to guide",
+  "format": "carousel",
+  "category": "education",
+  "description": "A step-by-step guide.",
+  "tags": [
+    "how-to",
+    "guide"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How to *{{topic}}*",
+      "sub": "A step-by-step guide →"
+    },
+    {
+      "type": "point",
+      "kicker": "Step 1",
+      "text": "Step 1 headline",
+      "sub": "What to do and why."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 2",
+      "text": "Step 2 headline",
+      "sub": "What to do and why."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 3",
+      "text": "Step 3 headline",
+      "sub": "What to do and why."
+    },
+    {
+      "type": "point",
+      "kicker": "Step 4",
+      "text": "Step 4 headline",
+      "sub": "What to do and why."
+    },
+    {
+      "type": "cta",
+      "text": "Save the guide",
+      "sub": "Follow {{handle}} for more"
+    }
+  ]
+}

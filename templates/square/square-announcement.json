@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "square-announcement",
+  "name": "Announcement card",
+  "format": "square",
+  "category": "announcement",
+  "description": "News in a square.",
+  "tags": [
+    "news"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Coming *soon*",
+      "sub": "{{brand}}"
+    }
+  ]
+}

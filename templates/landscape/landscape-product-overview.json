@@ -1,0 +1,47 @@
+{
+  "kind": "studio",
+  "id": "landscape-product-overview",
+  "name": "Product overview",
+  "format": "landscape",
+  "category": "product",
+  "description": "A clean overview of what the product does.",
+  "tags": [
+    "product",
+    "overview"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Meet {{product}}",
+      "say": "Meet {{product}}."
+    },
+    {
+      "type": "media",
+      "src": "",
+      "text": "What it is",
+      "say": "Here's what it is."
+    },
+    {
+      "type": "list",
+      "text": "What it does",
+      "items": [
+        "Feature one",
+        "Feature two",
+        "Feature three"
+      ],
+      "say": "Here's what it does."
+    },
+    {
+      "type": "quote",
+      "text": "A customer quote",
+      "author": "Customer",
+      "say": "Here's what customers say."
+    },
+    {
+      "type": "cta",
+      "text": "{{cta}}",
+      "say": "Learn more at the link below.",
+      "button": "Learn more"
+    }
+  ]
+}

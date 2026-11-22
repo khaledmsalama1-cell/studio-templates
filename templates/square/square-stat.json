@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "square-stat",
+  "name": "Stat card",
+  "format": "square",
+  "category": "education",
+  "description": "A square stat.",
+  "tags": [
+    "stat"
+  ],
+  "scenes": [
+    {
+      "type": "stat",
+      "value": "2×",
+      "text": "faster than the usual way"
+    }
+  ]
+}

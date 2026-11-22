@@ -1,0 +1,18 @@
+{
+  "kind": "studio",
+  "id": "post-announcement",
+  "name": "Announcement",
+  "format": "post",
+  "category": "announcement",
+  "description": "One bold line for news.",
+  "tags": [
+    "news"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Big news from *{{brand}}*",
+      "sub": "Details in the caption"
+    }
+  ]
+}

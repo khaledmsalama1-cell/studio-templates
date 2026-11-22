@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-audiogram",
+  "name": "Remotion Audiogram",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Turn podcast audio into a waveform video with captions.",
+  "url": "https://github.com/remotion-dev/template-audiogram",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}

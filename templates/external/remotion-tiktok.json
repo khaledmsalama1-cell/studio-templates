@@ -1,0 +1,13 @@
+{
+  "kind": "external",
+  "id": "remotion-tiktok",
+  "name": "Remotion TikTok captions",
+  "engine": "remotion",
+  "category": "starter",
+  "description": "Official template with animated, word-by-word TikTok-style captions from a video.",
+  "url": "https://github.com/remotion-dev/template-tiktok",
+  "tags": [
+    "remotion",
+    "starter"
+  ]
+}
